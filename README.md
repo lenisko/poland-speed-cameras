@@ -10,12 +10,12 @@ Credit: **NaviExpert** – [https://traffic.naviexpert.pl](https://traffic.navie
 
 ## POI type legend
 
-| `type` | `iconId` | Description (PL)                  | Description (EN)                     |
-|--------|----------|-----------------------------------|--------------------------------------|
-| 0      | 2311     | Fotoradar                         | Speed camera (photo radar)           |
-| 4      | 2324     | Odcinkowy pomiar prędkości        | Average speed check (direction A)    |
-| 5      | 2325     | Odcinkowy pomiar prędkości        | Average speed check (direction B)    |
-| 7      | 2331     | Kamera                            | Traffic camera                       |
+| `type` | Description (PL)                  | Description (EN)                     |
+|--------|-----------------------------------|--------------------------------------|
+| 0      | Fotoradar                         | Speed camera (photo radar)           |
+| 4      | Odcinkowy pomiar prędkości        | Average speed check (direction A)    |
+| 5      | Odcinkowy pomiar prędkości        | Average speed check (direction B)    |
+| 7      | Kamera                            | Traffic camera                       |
 
 - Types **4** and **5** come in pairs at the same position – they represent the same average-speed section measuring **opposite directions** of traffic. The `direction` field indicates which way each camera faces.
 - Type **0** covers both uni- and bidirectional photo radars (description says *dwukierunkowy* for bidirectional).
