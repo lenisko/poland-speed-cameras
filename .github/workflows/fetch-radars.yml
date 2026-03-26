@@ -1,0 +1,44 @@
+name: Fetch radars
+
+on:
+  schedule:
+    - cron: "30 4 * * *" # daily at 04:30 UTC
+  workflow_dispatch: # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch radar data
+        run: python fetch_radars.py
+
+      - name: Check for changes and commit
+        run: |
+          git diff --quiet radars-poland.json && {
+            echo "No changes detected."
+            exit 0
+          }
+
+          VERSION=$(date -u +"%Y-%m-%d_%H%M%S")
+          echo "Changes detected – version: $VERSION"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add radars-poland.json
+          git commit -m "Update radars-poland.json – $VERSION"
+          git push

@@ -1,0 +1,12 @@
+[bbox]
+south = 49.0
+north = 54.9
+west = 14.1
+east = 24.15
+
+[fetch]
+zoom_level = 12
+tile_group_size = 12
+request_delay = 2
+output_file = "radars-poland.json"
+api_url = "https://api-traffic.naviexpert.pl/v2/map/get_warnings"
