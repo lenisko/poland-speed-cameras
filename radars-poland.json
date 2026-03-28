@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.497145,
-      "longitude": 20.4039497
+      "latitude": 49.4971674,
+      "longitude": 20.4039436
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075001,
-      "longitude": 21.0855162
+      "latitude": 50.0074946,
+      "longitude": 21.0853548
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
       "latitude": 50.0075237,
-      "longitude": 21.0849853
+      "longitude": 21.0849854
     },
     "type": 0
   },
@@ -1966,8 +1966,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871892,
-      "longitude": 19.1327782
+      "latitude": 50.6871931,
+      "longitude": 19.1327808
     },
     "type": 0
   },
@@ -3354,14 +3354,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595554,
-      "longitude": 20.6241672
+      "latitude": 51.359496,
+      "longitude": 20.624443
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595403,
-      "longitude": 20.6242461
+      "latitude": 51.3595312,
+      "longitude": 20.6242929
     },
     "type": 0
   },
@@ -5457,6 +5457,23 @@
     "type": 0
   },
   {
+    "address": "Wybrzeże Kościuszkowskie, Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2369239,
+      "longitude": 21.0358437
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2368214,
+      "longitude": 21.0361629
+    },
+    "type": 0
+  },
+  {
     "address": "Bursztynowa, Węglew-Kolonia",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6380,14 +6397,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6276064,
-      "longitude": 16.8084982
+      "latitude": 52.6282961,
+      "longitude": 16.8084929
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6285844,
-      "longitude": 16.8084688
+      "latitude": 52.6283085,
+      "longitude": 16.8084878
     },
     "type": 0
   },
@@ -7967,8 +7984,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142708,
-      "longitude": 17.1885126
+      "latitude": 53.6142808,
+      "longitude": 17.1885378
     },
     "type": 0
   },
@@ -8080,14 +8097,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088723,
-      "longitude": 17.2596293
+      "latitude": 53.7088547,
+      "longitude": 17.2596751
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088342,
-      "longitude": 17.2596915
+      "latitude": 53.7088135,
+      "longitude": 17.2597318
     },
     "type": 0
   },
@@ -8148,14 +8165,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567661,
-      "longitude": 17.1114549
+      "latitude": 53.7567645,
+      "longitude": 17.1114655
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568298,
-      "longitude": 17.1111133
+      "latitude": 53.7568134,
+      "longitude": 17.1111921
     },
     "type": 0
   },
