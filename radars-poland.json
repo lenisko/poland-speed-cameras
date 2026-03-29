@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4974814,
-      "longitude": 20.4038675
+      "latitude": 49.497077,
+      "longitude": 20.4039846
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4971674,
-      "longitude": 20.4039436
+      "latitude": 49.4971772,
+      "longitude": 20.4039409
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0074946,
-      "longitude": 21.0853548
+      "latitude": 50.0075145,
+      "longitude": 21.0852201
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075237,
-      "longitude": 21.0849854
+      "latitude": 50.007521,
+      "longitude": 21.0850153
     },
     "type": 0
   },
@@ -1966,8 +1966,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871931,
-      "longitude": 19.1327808
+      "latitude": 50.6873263,
+      "longitude": 19.1328705
     },
     "type": 0
   },
@@ -3354,14 +3354,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.359496,
-      "longitude": 20.624443
+      "latitude": 51.359541,
+      "longitude": 20.6242422
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595312,
-      "longitude": 20.6242929
+      "latitude": 51.359533,
+      "longitude": 20.6242836
     },
     "type": 0
   },
@@ -5457,23 +5457,6 @@
     "type": 0
   },
   {
-    "address": "Wybrzeże Kościuszkowskie, Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2369239,
-      "longitude": 21.0358437
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2368214,
-      "longitude": 21.0361629
-    },
-    "type": 0
-  },
-  {
     "address": "Bursztynowa, Węglew-Kolonia",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6029,8 +6012,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -6397,14 +6380,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6282961,
-      "longitude": 16.8084929
+      "latitude": 52.6275186,
+      "longitude": 16.8085019
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6283085,
-      "longitude": 16.8084878
+      "latitude": 52.6284967,
+      "longitude": 16.8084749
     },
     "type": 0
   },
@@ -7978,14 +7961,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6139789,
-      "longitude": 17.187817
+      "latitude": 53.6139479,
+      "longitude": 17.187746
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142808,
-      "longitude": 17.1885378
+      "latitude": 53.6142516,
+      "longitude": 17.1884642
     },
     "type": 0
   },
@@ -8097,14 +8080,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088547,
-      "longitude": 17.2596751
+      "latitude": 53.7102204,
+      "longitude": 17.2570704
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088135,
-      "longitude": 17.2597318
+      "latitude": 53.7085697,
+      "longitude": 17.2602058
     },
     "type": 0
   },
@@ -8165,14 +8148,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567645,
-      "longitude": 17.1114655
+      "latitude": 53.7567825,
+      "longitude": 17.1113823
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568134,
-      "longitude": 17.1111921
+      "latitude": 53.7568117,
+      "longitude": 17.1112003
     },
     "type": 0
   },
