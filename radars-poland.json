@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4971194,
-      "longitude": 20.4039703
+      "latitude": 49.4979491,
+      "longitude": 20.4037692
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4971555,
-      "longitude": 20.4039469
+      "latitude": 49.4966057,
+      "longitude": 20.4040972
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075258,
-      "longitude": 21.0850534
+      "latitude": 50.0075429,
+      "longitude": 21.0850129
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075269,
-      "longitude": 21.0849504
+      "latitude": 50.0075281,
+      "longitude": 21.0849371
     },
     "type": 0
   },
@@ -1960,14 +1960,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6886188,
-      "longitude": 19.1337569
+      "latitude": 50.6878637,
+      "longitude": 19.1332322
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873102,
-      "longitude": 19.1328596
+      "latitude": 50.6873467,
+      "longitude": 19.1328843
     },
     "type": 0
   },
@@ -3354,14 +3354,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594896,
-      "longitude": 20.6246115
+      "latitude": 51.3593247,
+      "longitude": 20.6253088
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594593,
-      "longitude": 20.6246631
+      "latitude": 51.359465,
+      "longitude": 20.6246337
     },
     "type": 0
   },
@@ -3566,6 +3566,23 @@
       "isCity": false,
       "latitude": 51.5495016,
       "longitude": 15.5787644
+    },
+    "type": 0
+  },
+  {
+    "address": "Bronowice",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.558107,
+      "longitude": 14.7631021
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.5579029,
+      "longitude": 14.7629327
     },
     "type": 0
   },
@@ -6273,6 +6290,23 @@
     "type": 0
   },
   {
+    "address": "Cytrynowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.575477,
+      "longitude": 17.8576762
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.5731438,
+      "longitude": 17.8526023
+    },
+    "type": 0
+  },
+  {
     "address": "Główna, Przytoczna",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6380,14 +6414,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6282136,
+      "latitude": 52.6275178,
       "longitude": 16.8085071
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6283076,
-      "longitude": 16.8084878
+      "latitude": 52.6284957,
+      "longitude": 16.8084749
     },
     "type": 0
   },
@@ -7967,8 +8001,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142619,
-      "longitude": 17.1884901
+      "latitude": 53.6142623,
+      "longitude": 17.1884911
     },
     "type": 0
   },
@@ -8080,14 +8114,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086803,
-      "longitude": 17.2600409
+      "latitude": 53.7087135,
+      "longitude": 17.2599802
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088375,
-      "longitude": 17.2596851
+      "latitude": 53.7088133,
+      "longitude": 17.2597321
     },
     "type": 0
   },
@@ -8126,6 +8160,23 @@
     "type": 0
   },
   {
+    "address": "Gwda Mała",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.734003,
+      "longitude": 16.813845
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.7340276,
+      "longitude": 16.8134621
+    },
+    "type": 0
+  },
+  {
     "address": "Mała Karczma",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -8148,14 +8199,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7565506,
-      "longitude": 17.1125932
+      "latitude": 53.7567647,
+      "longitude": 17.1114657
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568185,
-      "longitude": 17.1111676
+      "latitude": 53.7568064,
+      "longitude": 17.1112258
     },
     "type": 0
   },
@@ -9469,19 +9520,19 @@
     "type": 4
   },
   {
-    "address": "Zielonki",
+    "address": "",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
-      "latitude": 50.113223,
-      "longitude": 19.9169799
+      "latitude": 50.114013,
+      "longitude": 19.9137679
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 50.1134244,
-      "longitude": 19.9160681
+      "latitude": 50.1142035,
+      "longitude": 19.9130957
     },
     "type": 4
   },
@@ -12648,19 +12699,19 @@
     "type": 5
   },
   {
-    "address": "Zielonki",
+    "address": "",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
-      "latitude": 50.113628,
-      "longitude": 19.9160129
+      "latitude": 50.114738,
+      "longitude": 19.9117811
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 50.1136151,
-      "longitude": 19.91607
+      "latitude": 50.1143663,
+      "longitude": 19.9131705
     },
     "type": 5
   },
