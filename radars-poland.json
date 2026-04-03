@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4970636,
-      "longitude": 20.4039721
+      "latitude": 49.4970779,
+      "longitude": 20.4039669
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4971048,
-      "longitude": 20.4039607
+      "latitude": 49.4971001,
+      "longitude": 20.403962
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075144,
-      "longitude": 21.0850812
+      "latitude": 50.0075268,
+      "longitude": 21.0851439
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.007599,
-      "longitude": 21.0841902
+      "latitude": 50.0075346,
+      "longitude": 21.0848651
     },
     "type": 0
   },
@@ -1960,14 +1960,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6878637,
-      "longitude": 19.1332322
+      "latitude": 50.6886188,
+      "longitude": 19.1337569
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872348,
-      "longitude": 19.1328089
+      "latitude": 50.6872602,
+      "longitude": 19.132826
     },
     "type": 0
   },
@@ -3354,14 +3354,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594336,
-      "longitude": 20.6248314
+      "latitude": 51.3593021,
+      "longitude": 20.6254013
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594614,
-      "longitude": 20.6246521
+      "latitude": 51.3594678,
+      "longitude": 20.6246195
     },
     "type": 0
   },
@@ -3753,6 +3753,23 @@
       "isCity": false,
       "latitude": 51.6355643,
       "longitude": 16.9060333
+    },
+    "type": 0
+  },
+  {
+    "address": "Strzeszowice",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.636686,
+      "longitude": 14.89379
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.6366791,
+      "longitude": 14.8942763
     },
     "type": 0
   },
@@ -4947,6 +4964,23 @@
     "type": 0
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.1591954,
+      "longitude": 20.9035688
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.1582187,
+      "longitude": 20.9027008
+    },
+    "type": 0
+  },
+  {
     "address": "Al. KEN Komisji Edukacji Narodowej, Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -5695,6 +5729,23 @@
     "type": 0
   },
   {
+    "address": "Jagiellońska, Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2861512,
+      "longitude": 21.0070473
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2869755,
+      "longitude": 21.0062664
+    },
+    "type": 0
+  },
+  {
     "address": "Poznańska, Słupca",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6029,8 +6080,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -6414,14 +6465,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6282356,
-      "longitude": 16.8085045
+      "latitude": 52.628529,
+      "longitude": 16.8084776
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6283057,
-      "longitude": 16.8084879
+      "latitude": 52.6282945,
+      "longitude": 16.8084887
     },
     "type": 0
   },
@@ -7995,14 +8046,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6140404,
-      "longitude": 17.1879424
+      "latitude": 53.6140355,
+      "longitude": 17.1879412
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142623,
-      "longitude": 17.1884911
+      "latitude": 53.6142517,
+      "longitude": 17.1884643
     },
     "type": 0
   },
@@ -8114,14 +8165,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.707437,
-      "longitude": 17.2624061
+      "latitude": 53.708792,
+      "longitude": 17.2598459
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7090665,
-      "longitude": 17.2592399
+      "latitude": 53.7088211,
+      "longitude": 17.259717
     },
     "type": 0
   },
@@ -8199,14 +8250,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7565457,
-      "longitude": 17.1126113
+      "latitude": 53.7567881,
+      "longitude": 17.1113511
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568146,
-      "longitude": 17.1111863
+      "latitude": 53.756808,
+      "longitude": 17.1112182
     },
     "type": 0
   },
