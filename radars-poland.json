@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4971001,
-      "longitude": 20.403962
+      "latitude": 49.4970838,
+      "longitude": 20.4039665
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075268,
-      "longitude": 21.0851439
+      "latitude": 50.0075479,
+      "longitude": 21.0849273
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075346,
-      "longitude": 21.0848651
+      "latitude": 50.0075318,
+      "longitude": 21.0848965
     },
     "type": 0
   },
@@ -1955,19 +1955,36 @@
     "type": 0
   },
   {
+    "address": "Kwiatkowskiego E., Sandomierz",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.6869521,
+      "longitude": 21.754786
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.6870701,
+      "longitude": 21.7547087
+    },
+    "type": 0
+  },
+  {
     "address": "Warszawska, Wanaty",
     "credibility": 1,
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6886188,
-      "longitude": 19.1337569
+      "latitude": 50.6874803,
+      "longitude": 19.1329738
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872602,
-      "longitude": 19.132826
+      "latitude": 50.6872863,
+      "longitude": 19.1328436
     },
     "type": 0
   },
@@ -3354,14 +3371,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593021,
-      "longitude": 20.6254013
+      "latitude": 51.3593032,
+      "longitude": 20.6252537
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594678,
-      "longitude": 20.6246195
+      "latitude": 51.359494,
+      "longitude": 20.6244843
     },
     "type": 0
   },
@@ -4964,23 +4981,6 @@
     "type": 0
   },
   {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.1591954,
-      "longitude": 20.9035688
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.1582187,
-      "longitude": 20.9027008
-    },
-    "type": 0
-  },
-  {
     "address": "Al. KEN Komisji Edukacji Narodowej, Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -5729,23 +5729,6 @@
     "type": 0
   },
   {
-    "address": "Jagiellońska, Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2861512,
-      "longitude": 21.0070473
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2869755,
-      "longitude": 21.0062664
-    },
-    "type": 0
-  },
-  {
     "address": "Poznańska, Słupca",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6137,6 +6120,23 @@
     "type": 0
   },
   {
+    "address": "Rębowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.4142219,
+      "longitude": 20.187711
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.4135256,
+      "longitude": 20.1873554
+    },
+    "type": 0
+  },
+  {
     "address": "11 Listopada, Siemiatycze",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6286,6 +6286,23 @@
       "isCity": false,
       "latitude": 52.5048338,
       "longitude": 20.9896087
+    },
+    "type": 0
+  },
+  {
+    "address": "Warszawska, Słupno",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.5052105,
+      "longitude": 19.8373625
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.5058882,
+      "longitude": 19.8364758
     },
     "type": 0
   },
@@ -6465,14 +6482,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.628529,
-      "longitude": 16.8084776
+      "latitude": 52.6285849,
+      "longitude": 16.8084503
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6282945,
-      "longitude": 16.8084887
+      "latitude": 52.6283145,
+      "longitude": 16.8084874
     },
     "type": 0
   },
@@ -8046,14 +8063,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6140355,
-      "longitude": 17.1879412
+      "latitude": 53.6140221,
+      "longitude": 17.1878882
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142517,
-      "longitude": 17.1884643
+      "latitude": 53.6142587,
+      "longitude": 17.1884821
     },
     "type": 0
   },
@@ -8165,14 +8182,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.708792,
-      "longitude": 17.2598459
+      "latitude": 53.7102086,
+      "longitude": 17.2570953
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088211,
-      "longitude": 17.259717
+      "latitude": 53.7085573,
+      "longitude": 17.2602298
     },
     "type": 0
   },
@@ -8250,14 +8267,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567881,
-      "longitude": 17.1113511
+      "latitude": 53.7568453,
+      "longitude": 17.110865
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.756808,
-      "longitude": 17.1112182
+      "latitude": 53.7568274,
+      "longitude": 17.1111246
     },
     "type": 0
   },
