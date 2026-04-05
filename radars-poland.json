@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4970779,
-      "longitude": 20.4039669
+      "latitude": 49.4970579,
+      "longitude": 20.404005
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4970838,
-      "longitude": 20.4039665
+      "latitude": 49.4970401,
+      "longitude": 20.4039784
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075479,
-      "longitude": 21.0849273
+      "latitude": 50.0075025,
+      "longitude": 21.0852097
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075318,
-      "longitude": 21.0848965
+      "latitude": 50.0075858,
+      "longitude": 21.0843183
     },
     "type": 0
   },
@@ -1983,8 +1983,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872863,
-      "longitude": 19.1328436
+      "latitude": 50.687313,
+      "longitude": 19.1328616
     },
     "type": 0
   },
@@ -3371,14 +3371,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593032,
-      "longitude": 20.6252537
+      "latitude": 51.3594437,
+      "longitude": 20.6247684
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359494,
-      "longitude": 20.6244843
+      "latitude": 51.3594735,
+      "longitude": 20.6245902
     },
     "type": 0
   },
@@ -3838,6 +3838,23 @@
       "isCity": false,
       "latitude": 51.6624661,
       "longitude": 19.4183557
+    },
+    "type": 0
+  },
+  {
+    "address": "Zdunowska, Krotoszyn",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.675825,
+      "longitude": 17.4117121
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.6753188,
+      "longitude": 17.4109056
     },
     "type": 0
   },
@@ -6295,14 +6312,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.5052105,
-      "longitude": 19.8373625
+      "latitude": 52.5058659,
+      "longitude": 19.8365134
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.5058882,
-      "longitude": 19.8364758
+      "latitude": 52.5058161,
+      "longitude": 19.836573
     },
     "type": 0
   },
@@ -6482,14 +6499,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6285849,
-      "longitude": 16.8084503
+      "latitude": 52.6295664,
+      "longitude": 16.8084441
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6283145,
-      "longitude": 16.8084874
+      "latitude": 52.6280885,
+      "longitude": 16.8085039
     },
     "type": 0
   },
@@ -8069,8 +8086,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142587,
-      "longitude": 17.1884821
+      "latitude": 53.6142999,
+      "longitude": 17.1885859
     },
     "type": 0
   },
@@ -8182,14 +8199,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7102086,
-      "longitude": 17.2570953
+      "latitude": 53.7102217,
+      "longitude": 17.2570647
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7085573,
-      "longitude": 17.2602298
+      "latitude": 53.7085719,
+      "longitude": 17.2602015
     },
     "type": 0
   },
@@ -8267,14 +8284,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7568453,
-      "longitude": 17.110865
+      "latitude": 53.7568343,
+      "longitude": 17.1108732
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568274,
-      "longitude": 17.1111246
+      "latitude": 53.7568301,
+      "longitude": 17.1111116
     },
     "type": 0
   },
@@ -11747,6 +11764,40 @@
     "type": 4
   },
   {
+    "address": "Gorzów Wielkopolski",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.700205,
+      "longitude": 15.2196098
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 52.7001377,
+      "longitude": 15.2208001
+    },
+    "type": 4
+  },
+  {
+    "address": "Wieprzyce",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.704206,
+      "longitude": 15.1740461
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 52.7042306,
+      "longitude": 15.1738652
+    },
+    "type": 4
+  },
+  {
     "address": "",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
@@ -14922,6 +14973,40 @@
       "isCity": false,
       "latitude": 52.6768126,
       "longitude": 14.9602833
+    },
+    "type": 5
+  },
+  {
+    "address": "Gorzów Wielkopolski",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.699984,
+      "longitude": 15.2211431
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 52.7000065,
+      "longitude": 15.2207462
+    },
+    "type": 5
+  },
+  {
+    "address": "Wieprzyce",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.7044731,
+      "longitude": 15.173235
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 52.7043689,
+      "longitude": 15.1739421
     },
     "type": 5
   },
