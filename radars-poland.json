@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4979291,
-      "longitude": 20.4037675
+      "latitude": 49.4971356,
+      "longitude": 20.4039548
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4965865,
-      "longitude": 20.4041025
+      "latitude": 49.4969729,
+      "longitude": 20.4039968
     },
     "type": 0
   },
@@ -430,14 +430,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 49.879268,
-      "longitude": 19.8831266
+      "latitude": 49.8793424,
+      "longitude": 19.8832754
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.879438,
-      "longitude": 19.884119
+      "latitude": 49.8794492,
+      "longitude": 19.8841797
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075797,
-      "longitude": 21.0847594
+      "latitude": 50.0075351,
+      "longitude": 21.085192
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075447,
-      "longitude": 21.0847548
+      "latitude": 50.0075413,
+      "longitude": 21.084792
     },
     "type": 0
   },
@@ -2000,8 +2000,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687258,
-      "longitude": 19.1328245
+      "latitude": 50.6872314,
+      "longitude": 19.1328066
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.359438,
-      "longitude": 20.6247701
+      "latitude": 51.3593956,
+      "longitude": 20.6247123
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594689,
-      "longitude": 20.6246135
+      "latitude": 51.3594818,
+      "longitude": 20.624547
     },
     "type": 0
   },
@@ -5525,6 +5525,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.235881,
+      "longitude": 21.0404633
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2362283,
+      "longitude": 21.0421522
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6097,8 +6114,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -6516,14 +6533,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6283842,
-      "longitude": 16.8084786
+      "latitude": 52.6287677,
+      "longitude": 16.8084547
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6284356,
-      "longitude": 16.8084791
+      "latitude": 52.6284296,
+      "longitude": 16.8084795
     },
     "type": 0
   },
@@ -7831,8 +7848,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.4191034,
-      "longitude": 14.7556479
+      "latitude": 53.4191195,
+      "longitude": 14.7556966
     },
     "type": 0
   },
@@ -8233,14 +8250,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087808,
-      "longitude": 17.2598295
+      "latitude": 53.7088428,
+      "longitude": 17.2597046
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088025,
-      "longitude": 17.2597532
+      "latitude": 53.7088171,
+      "longitude": 17.2597249
     },
     "type": 0
   },
@@ -8318,14 +8335,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7568414,
-      "longitude": 17.1109352
+      "latitude": 53.7567918,
+      "longitude": 17.111259
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568386,
-      "longitude": 17.1110709
+      "latitude": 53.7568422,
+      "longitude": 17.1110536
     },
     "type": 0
   },
@@ -16337,6 +16354,108 @@
     "type": 7
   },
   {
+    "address": "Sikorskiego W., Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.097091,
+      "longitude": 18.992884
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.096512,
+      "longitude": 18.9932815
+    },
+    "type": 7
+  },
+  {
+    "address": "Sikorskiego W., Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.0960919,
+      "longitude": 18.9934178
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.096622,
+      "longitude": 18.9930592
+    },
+    "type": 7
+  },
+  {
+    "address": "Katowicka, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.131588,
+      "longitude": 18.9913399
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1315462,
+      "longitude": 18.9913288
+    },
+    "type": 7
+  },
+  {
+    "address": "Oświęcimska, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.131759,
+      "longitude": 18.991849
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1317554,
+      "longitude": 18.9918586
+    },
+    "type": 7
+  },
+  {
+    "address": "Mikołowska, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.131954,
+      "longitude": 18.990783
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1319574,
+      "longitude": 18.9907676
+    },
+    "type": 7
+  },
+  {
+    "address": "Katowicka, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.132263,
+      "longitude": 18.9913399
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1323156,
+      "longitude": 18.9913571
+    },
+    "type": 7
+  },
+  {
     "address": "Obwodnica, Łaziska Górne",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
@@ -16401,6 +16520,74 @@
       "isCity": false,
       "latitude": 50.1373449,
       "longitude": 18.8331149
+    },
+    "type": 7
+  },
+  {
+    "address": "Grabowa, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.145954,
+      "longitude": 18.9997599
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.145946,
+      "longitude": 18.9997783
+    },
+    "type": 7
+  },
+  {
+    "address": "Katowicka, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.14608,
+      "longitude": 18.9992599
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1460772,
+      "longitude": 18.9992547
+    },
+    "type": 7
+  },
+  {
+    "address": "Katowicka, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.1465,
+      "longitude": 19.000039
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1462543,
+      "longitude": 18.9995604
+    },
+    "type": 7
+  },
+  {
+    "address": "Jesionowa, Tychy",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.146607,
+      "longitude": 18.998837
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.1462943,
+      "longitude": 18.9992114
     },
     "type": 7
   },
@@ -17079,8 +17266,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 51.215064,
-      "longitude": 17.1138161
+      "latitude": 51.215034,
+      "longitude": 17.1136881
     },
     "type": 7
   },
@@ -19019,6 +19206,142 @@
       "isCity": false,
       "latitude": 53.9568437,
       "longitude": 18.5287684
+    },
+    "type": 7
+  },
+  {
+    "address": "17 Marca, Malbork",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.035009,
+      "longitude": 19.0280189
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0349458,
+      "longitude": 19.0280017
+    },
+    "type": 7
+  },
+  {
+    "address": "Al. Rodła, Malbork",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.035009,
+      "longitude": 19.0280189
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0350131,
+      "longitude": 19.0279203
+    },
+    "type": 7
+  },
+  {
+    "address": "Al. Rodła, Malbork",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.035108,
+      "longitude": 19.028074
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0351129,
+      "longitude": 19.028284
+    },
+    "type": 7
+  },
+  {
+    "address": "17 Marca, Malbork",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.035108,
+      "longitude": 19.028074
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0352295,
+      "longitude": 19.0281089
+    },
+    "type": 7
+  },
+  {
+    "address": "Al. Solidarności, Tczew",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.091855,
+      "longitude": 18.7779539
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0917984,
+      "longitude": 18.7779218
+    },
+    "type": 7
+  },
+  {
+    "address": "Jagiellońska, Tczew",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.091928,
+      "longitude": 18.7773091
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0919403,
+      "longitude": 18.7772029
+    },
+    "type": 7
+  },
+  {
+    "address": "Wojska Polskiego, Tczew",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.092187,
+      "longitude": 18.7781429
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0921661,
+      "longitude": 18.7782661
+    },
+    "type": 7
+  },
+  {
+    "address": "Al. Solidarności, Tczew",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.092275,
+      "longitude": 18.777488
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0923967,
+      "longitude": 18.7775779
     },
     "type": 7
   },
