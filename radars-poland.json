@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4970699,
-      "longitude": 20.4039933
+      "latitude": 49.4969989,
+      "longitude": 20.4040248
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4969597,
-      "longitude": 20.4040004
+      "latitude": 49.4968794,
+      "longitude": 20.4040223
     },
     "type": 0
   },
@@ -430,14 +430,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 49.8793424,
-      "longitude": 19.8832754
+      "latitude": 49.8793357,
+      "longitude": 19.8835376
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.8794725,
-      "longitude": 19.8843076
+      "latitude": 49.8794773,
+      "longitude": 19.8843337
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075325,
-      "longitude": 21.0852268
+      "latitude": 50.0075607,
+      "longitude": 21.0849412
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075409,
-      "longitude": 21.0847959
+      "latitude": 50.0075426,
+      "longitude": 21.0847775
     },
     "type": 0
   },
@@ -2000,8 +2000,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872606,
-      "longitude": 19.1328263
+      "latitude": 50.6872465,
+      "longitude": 19.1328168
     },
     "type": 0
   },
@@ -3394,8 +3394,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594834,
-      "longitude": 20.6245392
+      "latitude": 51.3594903,
+      "longitude": 20.6245035
     },
     "type": 0
   },
@@ -5117,23 +5117,6 @@
     "type": 0
   },
   {
-    "address": "Hynka F., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.1863276,
-      "longitude": 20.9700002
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.1856199,
-      "longitude": 20.9722651
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Krakowska, Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
@@ -6550,14 +6533,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6286932,
-      "longitude": 16.8084661
+      "latitude": 52.6286164,
+      "longitude": 16.8084637
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6284483,
-      "longitude": 16.8084781
+      "latitude": 52.6284278,
+      "longitude": 16.8084796
     },
     "type": 0
   },
@@ -7865,8 +7848,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.4191332,
-      "longitude": 14.7557381
+      "latitude": 53.419151,
+      "longitude": 14.7557926
     },
     "type": 0
   },
@@ -8148,14 +8131,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6141752,
-      "longitude": 17.1883702
+      "latitude": 53.6141102,
+      "longitude": 17.1882093
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.614078,
-      "longitude": 17.1880261
+      "latitude": 53.61402,
+      "longitude": 17.1878636
     },
     "type": 0
   },
@@ -8267,14 +8250,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088428,
-      "longitude": 17.2597046
+      "latitude": 53.7087186,
+      "longitude": 17.2599521
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088026,
-      "longitude": 17.2597529
+      "latitude": 53.7088282,
+      "longitude": 17.2597032
     },
     "type": 0
   },
@@ -8352,14 +8335,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567918,
-      "longitude": 17.111259
+      "latitude": 53.756835,
+      "longitude": 17.1111666
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.756829,
-      "longitude": 17.1111167
+      "latitude": 53.7568226,
+      "longitude": 17.1111477
     },
     "type": 0
   },
@@ -8683,6 +8666,23 @@
       "isCity": false,
       "latitude": 54.0304625,
       "longitude": 15.891339
+    },
+    "type": 0
+  },
+  {
+    "address": "Waćmierek",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.04269,
+      "longitude": 18.7007619
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 54.0426649,
+      "longitude": 18.7007271
     },
     "type": 0
   },
@@ -12429,23 +12429,6 @@
   {
     "address": "",
     "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na północ",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.073239,
-      "longitude": 19.6161351
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 54.0736952,
-      "longitude": 19.6155989
-    },
-    "type": 4
-  },
-  {
-    "address": "",
-    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
@@ -15721,23 +15704,6 @@
       "isCity": false,
       "latitude": 53.9016601,
       "longitude": 14.2692157
-    },
-    "type": 5
-  },
-  {
-    "address": "",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na północ",
-    "direction": {
-      "isCity": false,
-      "latitude": 53.98383,
-      "longitude": 19.6958458
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 53.9841964,
-      "longitude": 19.6957588
     },
     "type": 5
   },
