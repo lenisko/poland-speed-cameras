@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.497856,
-      "longitude": 20.4037958
+      "latitude": 49.4977899,
+      "longitude": 20.4038166
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4965124,
-      "longitude": 20.4041227
+      "latitude": 49.496446,
+      "longitude": 20.4041408
     },
     "type": 0
   },
@@ -427,34 +427,17 @@
   {
     "address": "Głogoczów",
     "credibility": 1,
-    "description": "Fotoradar skierowany na zachód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 49.8793844,
-      "longitude": 19.8847058
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 49.8791574,
-      "longitude": 19.8831432
-    },
-    "type": 0
-  },
-  {
-    "address": "Głogoczów",
-    "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 49.8792861,
-      "longitude": 19.8833745
+      "latitude": 49.8793424,
+      "longitude": 19.8835624
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.87949,
-      "longitude": 19.8844031
+      "latitude": 49.8794876,
+      "longitude": 19.8843901
     },
     "type": 0
   },
@@ -753,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075554,
-      "longitude": 21.0849461
+      "latitude": 50.0075927,
+      "longitude": 21.0846471
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075483,
-      "longitude": 21.0847141
+      "latitude": 50.0075391,
+      "longitude": 21.0848156
     },
     "type": 0
   },
@@ -2017,8 +2000,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873254,
-      "longitude": 19.1326644
+      "latitude": 50.687386,
+      "longitude": 19.1327057
     },
     "type": 0
   },
@@ -3405,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592703,
-      "longitude": 20.6254248
+      "latitude": 51.359275,
+      "longitude": 20.6253959
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594935,
-      "longitude": 20.6244869
+      "latitude": 51.3594991,
+      "longitude": 20.6244581
     },
     "type": 0
   },
@@ -5559,23 +5542,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2357892,
-      "longitude": 21.0400349
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2362015,
-      "longitude": 21.0420228
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6329,14 +6295,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.4834208,
-      "longitude": 19.6411855
+      "latitude": 52.4833291,
+      "longitude": 19.6409365
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.4828761,
-      "longitude": 19.6396177
+      "latitude": 52.4827806,
+      "longitude": 19.6393727
     },
     "type": 0
   },
@@ -6584,14 +6550,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6285854,
-      "longitude": 16.8084736
+      "latitude": 52.6285843,
+      "longitude": 16.8084491
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6284597,
-      "longitude": 16.8084774
+      "latitude": 52.6284432,
+      "longitude": 16.8084785
     },
     "type": 0
   },
@@ -7893,14 +7859,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 53.4189275,
-      "longitude": 14.7551176
+      "latitude": 53.4185899,
+      "longitude": 14.754066
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.4191566,
-      "longitude": 14.75581
+      "latitude": 53.4191279,
+      "longitude": 14.7557221
     },
     "type": 0
   },
@@ -8182,14 +8148,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6142026,
-      "longitude": 17.1883885
+      "latitude": 53.6140743,
+      "longitude": 17.1880282
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6143154,
-      "longitude": 17.1886249
+      "latitude": 53.6143135,
+      "longitude": 17.1886202
     },
     "type": 0
   },
@@ -8301,14 +8267,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088237,
-      "longitude": 17.2597513
+      "latitude": 53.7088055,
+      "longitude": 17.2598381
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087875,
-      "longitude": 17.2597824
+      "latitude": 53.7088341,
+      "longitude": 17.2596917
     },
     "type": 0
   },
@@ -8386,14 +8352,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.75676,
-      "longitude": 17.1113849
+      "latitude": 53.7566842,
+      "longitude": 17.1117996
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7567927,
-      "longitude": 17.1112918
+      "latitude": 53.7568103,
+      "longitude": 17.1112069
     },
     "type": 0
   },
@@ -11934,19 +11900,19 @@
     "type": 4
   },
   {
-    "address": "Wieprzyce",
+    "address": "",
     "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 52.704206,
-      "longitude": 15.1740461
+      "latitude": 52.708276,
+      "longitude": 15.162602
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 52.7042306,
-      "longitude": 15.1738652
+      "latitude": 52.7084252,
+      "longitude": 15.1624053
     },
     "type": 4
   },
@@ -15232,19 +15198,19 @@
     "type": 5
   },
   {
-    "address": "Wieprzyce",
+    "address": "",
     "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 52.7044731,
-      "longitude": 15.173235
+      "latitude": 52.70852,
+      "longitude": 15.162624
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 52.7043689,
-      "longitude": 15.1739421
+      "latitude": 52.7084863,
+      "longitude": 15.1626646
     },
     "type": 5
   },
