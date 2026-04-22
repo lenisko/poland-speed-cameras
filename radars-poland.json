@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4967547,
-      "longitude": 20.404076
+      "latitude": 49.4969788,
+      "longitude": 20.4040036
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968718,
-      "longitude": 20.4040244
+      "latitude": 49.4968576,
+      "longitude": 20.4040283
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075247,
-      "longitude": 21.0849524
+      "latitude": 50.0075213,
+      "longitude": 21.084999
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0076123,
-      "longitude": 21.0840621
+      "latitude": 50.0076075,
+      "longitude": 21.0841084
     },
     "type": 0
   },
@@ -2000,8 +2000,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873559,
-      "longitude": 19.1326852
+      "latitude": 50.6873547,
+      "longitude": 19.1326843
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592743,
-      "longitude": 20.6253909
+      "latitude": 51.3592412,
+      "longitude": 20.6254046
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595007,
-      "longitude": 20.62445
+      "latitude": 51.3594972,
+      "longitude": 20.6244676
     },
     "type": 0
   },
@@ -5542,23 +5542,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2360736,
-      "longitude": 21.0413955
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2362188,
-      "longitude": 21.0421063
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6307,6 +6290,23 @@
     "type": 0
   },
   {
+    "address": "Kościelna, Skulsk",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.480567,
+      "longitude": 18.3202711
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.4805595,
+      "longitude": 18.3203855
+    },
+    "type": 0
+  },
+  {
     "address": "Płocka, Łąck",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6567,14 +6567,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278516,
-      "longitude": 16.8084729
+      "latitude": 52.6286596,
+      "longitude": 16.8084653
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288298,
-      "longitude": 16.808452
+      "latitude": 52.6284646,
+      "longitude": 16.808477
     },
     "type": 0
   },
@@ -7723,14 +7723,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 53.3348395,
-      "longitude": 20.4346811
+      "latitude": 53.336525,
+      "longitude": 20.4314127
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.3340592,
-      "longitude": 20.4355848
+      "latitude": 53.3354641,
+      "longitude": 20.4326404
     },
     "type": 0
   },
@@ -7899,8 +7899,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.4191656,
-      "longitude": 14.7558382
+      "latitude": 53.4191631,
+      "longitude": 14.7558306
     },
     "type": 0
   },
@@ -8182,14 +8182,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6141201,
-      "longitude": 17.1881816
+      "latitude": 53.614166,
+      "longitude": 17.1882181
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6139533,
-      "longitude": 17.1876802
+      "latitude": 53.6142799,
+      "longitude": 17.1885354
     },
     "type": 0
   },
@@ -8301,14 +8301,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7089616,
-      "longitude": 17.2595626
+      "latitude": 53.7101138,
+      "longitude": 17.2572623
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088152,
-      "longitude": 17.2597285
+      "latitude": 53.7084676,
+      "longitude": 17.2604042
     },
     "type": 0
   },
@@ -8386,14 +8386,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567928,
-      "longitude": 17.1113392
+      "latitude": 53.7567971,
+      "longitude": 17.1112547
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568001,
-      "longitude": 17.1112563
+      "latitude": 53.7567959,
+      "longitude": 17.1112763
     },
     "type": 0
   },
@@ -17642,6 +17642,23 @@
       "isCity": false,
       "latitude": 51.4068397,
       "longitude": 19.6557519
+    },
+    "type": 7
+  },
+  {
+    "address": "Krotoszyńska, Łąkociny",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.657881,
+      "longitude": 17.663684
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 51.657852,
+      "longitude": 17.6634259
     },
     "type": 7
   },
