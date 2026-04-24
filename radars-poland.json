@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.496911,
-      "longitude": 20.4040337
+      "latitude": 49.4969544,
+      "longitude": 20.4040239
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968576,
-      "longitude": 20.4040283
+      "latitude": 49.4969497,
+      "longitude": 20.4040031
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075481,
-      "longitude": 21.0849522
+      "latitude": 50.0075755,
+      "longitude": 21.084465
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075546,
-      "longitude": 21.0846458
+      "latitude": 50.0075663,
+      "longitude": 21.0845168
     },
     "type": 0
   },
@@ -2000,8 +2000,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872261,
-      "longitude": 19.1325969
+      "latitude": 50.687203,
+      "longitude": 19.1325812
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592412,
-      "longitude": 20.6254046
+      "latitude": 51.3592718,
+      "longitude": 20.6254049
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595053,
-      "longitude": 20.6244261
+      "latitude": 51.3595111,
+      "longitude": 20.6243961
     },
     "type": 0
   },
@@ -3430,6 +3430,23 @@
       "isCity": false,
       "latitude": 51.368195,
       "longitude": 16.2399954
+    },
+    "type": 0
+  },
+  {
+    "address": "Kochłowy",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.369865,
+      "longitude": 17.9420109
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.3698168,
+      "longitude": 17.9420369
     },
     "type": 0
   },
@@ -6114,8 +6131,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -6567,14 +6584,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6294753,
-      "longitude": 16.8084418
+      "latitude": 52.6277775,
+      "longitude": 16.8084806
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6279977,
-      "longitude": 16.8085113
+      "latitude": 52.6287556,
+      "longitude": 16.8084571
     },
     "type": 0
   },
@@ -6881,6 +6898,23 @@
       "isCity": false,
       "latitude": 52.8401246,
       "longitude": 20.5038321
+    },
+    "type": 0
+  },
+  {
+    "address": "Kościuszki T., Sierpc",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.863052,
+      "longitude": 19.670202
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.8630375,
+      "longitude": 19.6702472
     },
     "type": 0
   },
@@ -7729,8 +7763,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.3355223,
-      "longitude": 20.4335315
+      "latitude": 53.3342046,
+      "longitude": 20.4354011
     },
     "type": 0
   },
@@ -7884,23 +7918,6 @@
       "isCity": false,
       "latitude": 53.4055359,
       "longitude": 20.9450445
-    },
-    "type": 0
-  },
-  {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 53.4186615,
-      "longitude": 14.7543588
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 53.4191473,
-      "longitude": 14.7557812
     },
     "type": 0
   },
@@ -8301,14 +8318,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088815,
-      "longitude": 17.2596016
+      "latitude": 53.709018,
+      "longitude": 17.2594454
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087939,
-      "longitude": 17.2597699
+      "latitude": 53.7087642,
+      "longitude": 17.2598276
     },
     "type": 0
   },
@@ -8386,14 +8403,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.756663,
-      "longitude": 17.1120476
+      "latitude": 53.7566939,
+      "longitude": 17.1117447
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7569317,
-      "longitude": 17.1106225
+      "latitude": 53.7567954,
+      "longitude": 17.1112788
     },
     "type": 0
   },
@@ -10489,6 +10506,23 @@
     "type": 4
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.217731,
+      "longitude": 22.4407648
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2174988,
+      "longitude": 22.4408104
+    },
+    "type": 4
+  },
+  {
     "address": "Biała Rządowa",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
@@ -10519,6 +10553,23 @@
       "isCity": false,
       "latitude": 51.275738,
       "longitude": 18.4285579
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.28856,
+      "longitude": 22.4604731
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2887336,
+      "longitude": 22.4607716
     },
     "type": 4
   },
@@ -13821,6 +13872,23 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.2179599,
+      "longitude": 22.4405529
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2179867,
+      "longitude": 22.4405478
+    },
+    "type": 5
+  },
+  {
     "address": "Biała Rządowa",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
@@ -13851,6 +13919,23 @@
       "isCity": false,
       "latitude": 51.275738,
       "longitude": 18.4285579
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.289037,
+      "longitude": 22.4617162
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2886181,
+      "longitude": 22.460852
     },
     "type": 5
   },
