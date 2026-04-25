@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4969544,
-      "longitude": 20.4040239
+      "latitude": 49.496757,
+      "longitude": 20.404098
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4969497,
-      "longitude": 20.4040031
+      "latitude": 49.4969383,
+      "longitude": 20.4040062
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075755,
-      "longitude": 21.084465
+      "latitude": 50.0076224,
+      "longitude": 21.0842683
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075663,
-      "longitude": 21.0845168
+      "latitude": 50.007561,
+      "longitude": 21.0845744
     },
     "type": 0
   },
@@ -2000,8 +2000,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687203,
-      "longitude": 19.1325812
+      "latitude": 50.687239,
+      "longitude": 19.1326057
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592718,
-      "longitude": 20.6254049
+      "latitude": 51.3594116,
+      "longitude": 20.624894
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595111,
-      "longitude": 20.6243961
+      "latitude": 51.3595152,
+      "longitude": 20.6243753
     },
     "type": 0
   },
@@ -6171,6 +6171,23 @@
     "type": 0
   },
   {
+    "address": "Warszawska, Drohiczyn",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.402765,
+      "longitude": 22.6473689
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.4025418,
+      "longitude": 22.6483696
+    },
+    "type": 0
+  },
+  {
     "address": "Poznańska, Swarzędz",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6309,7 +6326,7 @@
   {
     "address": "Kościelna, Skulsk",
     "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
       "latitude": 52.480567,
@@ -6318,8 +6335,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.4805595,
-      "longitude": 18.3203855
+      "latitude": 52.4805545,
+      "longitude": 18.3204617
     },
     "type": 0
   },
@@ -6584,14 +6601,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6277775,
-      "longitude": 16.8084806
+      "latitude": 52.6287251,
+      "longitude": 16.8084506
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6287556,
-      "longitude": 16.8084571
+      "latitude": 52.6283741,
+      "longitude": 16.8084832
     },
     "type": 0
   },
@@ -6983,6 +7000,23 @@
       "isCity": false,
       "latitude": 52.8820191,
       "longitude": 20.6119414
+    },
+    "type": 0
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.890731,
+      "longitude": 16.9696739
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.8909837,
+      "longitude": 16.9696819
     },
     "type": 0
   },
@@ -7757,14 +7791,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 53.3356524,
-      "longitude": 20.4335369
+      "latitude": 53.3356553,
+      "longitude": 20.4330862
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.3342046,
-      "longitude": 20.4354011
+      "latitude": 53.3347693,
+      "longitude": 20.4346447
     },
     "type": 0
   },
@@ -8199,14 +8233,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6139806,
-      "longitude": 17.1877938
+      "latitude": 53.6138907,
+      "longitude": 17.1875614
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6142476,
-      "longitude": 17.1884541
+      "latitude": 53.6145178,
+      "longitude": 17.1891358
     },
     "type": 0
   },
@@ -8318,14 +8352,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.709018,
-      "longitude": 17.2594454
+      "latitude": 53.7087784,
+      "longitude": 17.2598329
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087642,
-      "longitude": 17.2598276
+      "latitude": 53.7088081,
+      "longitude": 17.2597423
     },
     "type": 0
   },
@@ -8403,14 +8437,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7566939,
-      "longitude": 17.1117447
+      "latitude": 53.7568194,
+      "longitude": 17.1112003
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7567954,
-      "longitude": 17.1112788
+      "latitude": 53.7567852,
+      "longitude": 17.1113278
     },
     "type": 0
   },
@@ -10389,6 +10423,40 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.940439,
+      "longitude": 20.6743432
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.9400698,
+      "longitude": 20.6737249
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.959655,
+      "longitude": 20.716173
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.9608494,
+      "longitude": 20.718272
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
@@ -10557,19 +10625,19 @@
     "type": 4
   },
   {
-    "address": "",
+    "address": "Płouszowice-Kolonia",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
-      "latitude": 51.28856,
-      "longitude": 22.4604731
+      "latitude": 51.277291,
+      "longitude": 22.4381858
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.2887336,
-      "longitude": 22.4607716
+      "latitude": 51.2777165,
+      "longitude": 22.4390131
     },
     "type": 4
   },
@@ -13755,6 +13823,40 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.939161,
+      "longitude": 20.6719211
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 50.9401764,
+      "longitude": 20.6736325
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.961005,
+      "longitude": 20.7188071
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 50.9607502,
+      "longitude": 20.7183635
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
@@ -13923,19 +14025,19 @@
     "type": 5
   },
   {
-    "address": "",
+    "address": "Płouszowice-Kolonia",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
-      "latitude": 51.289037,
-      "longitude": 22.4617162
+      "latitude": 51.27826,
+      "longitude": 22.4403519
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.2886181,
-      "longitude": 22.460852
+      "latitude": 51.2776147,
+      "longitude": 22.4390827
     },
     "type": 5
   },
@@ -18371,8 +18473,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 52.2566089,
-      "longitude": 21.1792106
+      "latitude": 52.256617,
+      "longitude": 21.179056
     },
     "type": 7
   },
