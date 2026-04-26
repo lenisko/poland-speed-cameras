@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.496757,
-      "longitude": 20.404098
+      "latitude": 49.4968987,
+      "longitude": 20.4040403
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4969383,
-      "longitude": 20.4040062
+      "latitude": 49.496919,
+      "longitude": 20.4040115
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076224,
-      "longitude": 21.0842683
+      "latitude": 50.0075903,
+      "longitude": 21.0845728
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.007561,
-      "longitude": 21.0845744
+      "latitude": 50.007574,
+      "longitude": 21.0844321
     },
     "type": 0
   },
@@ -1991,17 +1991,17 @@
   {
     "address": "Warszawska, Wanaty",
     "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6870895,
-      "longitude": 19.1327152
+      "latitude": 50.6885987,
+      "longitude": 19.1337607
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687239,
-      "longitude": 19.1326057
+      "latitude": 50.6872109,
+      "longitude": 19.1327928
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594116,
-      "longitude": 20.624894
+      "latitude": 51.3594076,
+      "longitude": 20.6249246
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595152,
-      "longitude": 20.6243753
+      "latitude": 51.3594975,
+      "longitude": 20.6244663
     },
     "type": 0
   },
@@ -5559,6 +5559,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2358416,
+      "longitude": 21.0402686
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2361881,
+      "longitude": 21.0419579
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6601,14 +6618,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6287251,
-      "longitude": 16.8084506
+      "latitude": 52.6277713,
+      "longitude": 16.8084866
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6283741,
-      "longitude": 16.8084832
+      "latitude": 52.6287494,
+      "longitude": 16.8084575
     },
     "type": 0
   },
@@ -7791,14 +7808,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 53.3356553,
-      "longitude": 20.4330862
+      "latitude": 53.3350745,
+      "longitude": 20.4341768
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.3347693,
-      "longitude": 20.4346447
+      "latitude": 53.3344678,
+      "longitude": 20.4350486
     },
     "type": 0
   },
@@ -8233,14 +8250,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6138907,
-      "longitude": 17.1875614
+      "latitude": 53.6145965,
+      "longitude": 17.1893595
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6145178,
-      "longitude": 17.1891358
+      "latitude": 53.6142556,
+      "longitude": 17.1884743
     },
     "type": 0
   },
@@ -8352,14 +8369,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087784,
-      "longitude": 17.2598329
+      "latitude": 53.7087579,
+      "longitude": 17.2598333
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088081,
-      "longitude": 17.2597423
+      "latitude": 53.7087951,
+      "longitude": 17.2597676
     },
     "type": 0
   },
@@ -8437,14 +8454,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7568194,
-      "longitude": 17.1112003
+      "latitude": 53.7567977,
+      "longitude": 17.1113149
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7567852,
-      "longitude": 17.1113278
+      "latitude": 53.756802,
+      "longitude": 17.1112471
     },
     "type": 0
   },
