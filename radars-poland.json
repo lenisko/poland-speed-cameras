@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4968987,
-      "longitude": 20.4040403
+      "latitude": 49.4969573,
+      "longitude": 20.4040351
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968963,
-      "longitude": 20.4040177
+      "latitude": 49.4969012,
+      "longitude": 20.4040164
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075903,
-      "longitude": 21.0845728
+      "latitude": 50.0076011,
+      "longitude": 21.0845955
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075867,
-      "longitude": 21.0843096
+      "latitude": 50.0075763,
+      "longitude": 21.0844101
     },
     "type": 0
   },
@@ -1994,14 +1994,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6875118,
-      "longitude": 19.1330443
+      "latitude": 50.6877207,
+      "longitude": 19.1331588
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871387,
-      "longitude": 19.1327442
+      "latitude": 50.6872009,
+      "longitude": 19.1327861
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593916,
-      "longitude": 20.6247218
+      "latitude": 51.359466,
+      "longitude": 20.6246765
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359489,
-      "longitude": 20.6245103
+      "latitude": 51.3594959,
+      "longitude": 20.6244747
     },
     "type": 0
   },
@@ -6601,14 +6601,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6277733,
-      "longitude": 16.8084873
+      "latitude": 52.6286043,
+      "longitude": 16.8084418
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6287513,
-      "longitude": 16.8084573
+      "latitude": 52.6284742,
+      "longitude": 16.8084764
     },
     "type": 0
   },
@@ -7786,23 +7786,6 @@
     "type": 0
   },
   {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 53.335188,
-      "longitude": 20.4340414
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 53.3344334,
-      "longitude": 20.4350947
-    },
-    "type": 0
-  },
-  {
     "address": "Kołbaskowo",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -7952,23 +7935,6 @@
       "isCity": false,
       "latitude": 53.4055359,
       "longitude": 20.9450445
-    },
-    "type": 0
-  },
-  {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 53.4067765,
-      "longitude": 20.33991
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 53.4072455,
-      "longitude": 20.3397098
     },
     "type": 0
   },
@@ -8250,14 +8216,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6141284,
-      "longitude": 17.1882191
+      "latitude": 53.6142232,
+      "longitude": 17.1884248
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.613967,
-      "longitude": 17.1877151
+      "latitude": 53.6141677,
+      "longitude": 17.1882524
     },
     "type": 0
   },
@@ -8369,14 +8335,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086926,
-      "longitude": 17.2599969
+      "latitude": 53.708818,
+      "longitude": 17.2597733
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088169,
-      "longitude": 17.2597251
+      "latitude": 53.7087909,
+      "longitude": 17.2597758
     },
     "type": 0
   },
@@ -8454,14 +8420,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567589,
-      "longitude": 17.1114216
+      "latitude": 53.7567865,
+      "longitude": 17.1114269
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7567942,
-      "longitude": 17.1112843
+      "latitude": 53.7568271,
+      "longitude": 17.1111262
     },
     "type": 0
   },
@@ -12359,6 +12325,23 @@
     "type": 4
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.334124,
+      "longitude": 20.4355091
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 53.3333502,
+      "longitude": 20.4364131
+    },
+    "type": 4
+  },
+  {
     "address": "Szczecin",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
@@ -12372,6 +12355,23 @@
       "isCity": false,
       "latitude": 53.3979534,
       "longitude": 14.7199954
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.407682,
+      "longitude": 20.3394891
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 53.4083025,
+      "longitude": 20.339271
     },
     "type": 4
   },
@@ -15759,6 +15759,23 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.332548,
+      "longitude": 20.436796
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 53.3332241,
+      "longitude": 20.4361335
+    },
+    "type": 5
+  },
+  {
     "address": "Szczecin",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
@@ -15772,6 +15789,23 @@
       "isCity": false,
       "latitude": 53.3980533,
       "longitude": 14.7198362
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.408952,
+      "longitude": 20.33951
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 53.4084656,
+      "longitude": 20.3396756
     },
     "type": 5
   },
@@ -18490,8 +18524,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 52.256617,
-      "longitude": 21.179056
+      "latitude": 52.2566089,
+      "longitude": 21.1792106
     },
     "type": 7
   },
