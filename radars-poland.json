@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4969573,
-      "longitude": 20.4040351
+      "latitude": 49.4969945,
+      "longitude": 20.4040098
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4969012,
-      "longitude": 20.4040164
+      "latitude": 49.4969184,
+      "longitude": 20.4040117
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076011,
-      "longitude": 21.0845955
+      "latitude": 50.0075996,
+      "longitude": 21.0843084
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075763,
-      "longitude": 21.0844101
+      "latitude": 50.0075766,
+      "longitude": 21.0844064
     },
     "type": 0
   },
@@ -1994,8 +1994,8 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6877207,
-      "longitude": 19.1331588
+      "latitude": 50.6885987,
+      "longitude": 19.1337607
     },
     "iconId": "2311",
     "position": {
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.359466,
-      "longitude": 20.6246765
+      "latitude": 51.3594556,
+      "longitude": 20.6247399
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594959,
-      "longitude": 20.6244747
+      "latitude": 51.3594979,
+      "longitude": 20.6244645
     },
     "type": 0
   },
@@ -6601,14 +6601,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6286043,
-      "longitude": 16.8084418
+      "latitude": 52.6278112,
+      "longitude": 16.8084758
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6284742,
-      "longitude": 16.8084764
+      "latitude": 52.6287895,
+      "longitude": 16.8084547
     },
     "type": 0
   },
@@ -7939,6 +7939,23 @@
     "type": 0
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.405823,
+      "longitude": 20.3408774
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.4065041,
+      "longitude": 20.3401718
+    },
+    "type": 0
+  },
+  {
     "address": "Ku Słońcu, Szczecin",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -8216,8 +8233,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6142232,
-      "longitude": 17.1884248
+      "latitude": 53.6139549,
+      "longitude": 17.1877351
     },
     "iconId": "2311",
     "position": {
@@ -8335,14 +8352,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.708818,
-      "longitude": 17.2597733
+      "latitude": 53.7088278,
+      "longitude": 17.2597398
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087909,
-      "longitude": 17.2597758
+      "latitude": 53.7087501,
+      "longitude": 17.2598549
     },
     "type": 0
   },
@@ -8420,14 +8437,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567865,
-      "longitude": 17.1114269
+      "latitude": 53.7567784,
+      "longitude": 17.1113659
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568271,
-      "longitude": 17.1111262
+      "latitude": 53.7567996,
+      "longitude": 17.1112584
     },
     "type": 0
   },
