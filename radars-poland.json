@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4963994,
-      "longitude": 20.4041655
+      "latitude": 49.4978871,
+      "longitude": 20.403777
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968894,
-      "longitude": 20.4040196
+      "latitude": 49.4965447,
+      "longitude": 20.4041139
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076623,
-      "longitude": 21.0840178
+      "latitude": 50.0076295,
+      "longitude": 21.0842306
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075888,
-      "longitude": 21.0842888
+      "latitude": 50.0075794,
+      "longitude": 21.0843801
     },
     "type": 0
   },
@@ -1994,14 +1994,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6879011,
-      "longitude": 19.133277
+      "latitude": 50.6879033,
+      "longitude": 19.1332799
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6874255,
-      "longitude": 19.1329374
+      "latitude": 50.687428,
+      "longitude": 19.1329392
     },
     "type": 0
   },
@@ -3388,14 +3388,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593487,
-      "longitude": 20.6251333
+      "latitude": 51.3594922,
+      "longitude": 20.6245092
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594978,
-      "longitude": 20.6244648
+      "latitude": 51.3594897,
+      "longitude": 20.6245064
     },
     "type": 0
   },
@@ -6148,8 +6148,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -6618,14 +6618,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6295272,
-      "longitude": 16.8084458
+      "latitude": 52.6283744,
+      "longitude": 16.8084977
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6280493,
-      "longitude": 16.8085071
+      "latitude": 52.6283925,
+      "longitude": 16.808482
     },
     "type": 0
   },
@@ -8233,14 +8233,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6137086,
-      "longitude": 17.1871719
+      "latitude": 53.6138061,
+      "longitude": 17.1873689
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6140181,
-      "longitude": 17.1878584
+      "latitude": 53.6140149,
+      "longitude": 17.1878492
     },
     "type": 0
   },
@@ -8352,14 +8352,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087509,
-      "longitude": 17.2599092
+      "latitude": 53.7074115,
+      "longitude": 17.2624502
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087027,
-      "longitude": 17.2599471
+      "latitude": 53.7090426,
+      "longitude": 17.2592863
     },
     "type": 0
   },
@@ -8437,14 +8437,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7569054,
-      "longitude": 17.1106697
+      "latitude": 53.7567262,
+      "longitude": 17.1117413
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7568358,
-      "longitude": 17.1110842
+      "latitude": 53.7569953,
+      "longitude": 17.1103163
     },
     "type": 0
   },
@@ -10574,6 +10574,23 @@
     "type": 4
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.097471,
+      "longitude": 19.3811299
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.0973219,
+      "longitude": 19.3810239
+    },
+    "type": 4
+  },
+  {
     "address": "Wrocław",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
@@ -10621,6 +10638,23 @@
       "isCity": false,
       "latitude": 51.1678761,
       "longitude": 17.0020748
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.202622,
+      "longitude": 19.478641
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2033894,
+      "longitude": 19.4792015
     },
     "type": 4
   },
@@ -14093,6 +14127,23 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.096429,
+      "longitude": 19.380186
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.097324,
+      "longitude": 19.3808234
+    },
+    "type": 5
+  },
+  {
     "address": "Wrocław",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
@@ -14140,6 +14191,23 @@
       "isCity": false,
       "latitude": 51.1677367,
       "longitude": 17.0051703
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.2034,
+      "longitude": 19.4794081
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2032989,
+      "longitude": 19.4793362
     },
     "type": 5
   },
@@ -16898,108 +16966,6 @@
     "type": 7
   },
   {
-    "address": "Sikorskiego W., Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.097091,
-      "longitude": 18.992884
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.096512,
-      "longitude": 18.9932815
-    },
-    "type": 7
-  },
-  {
-    "address": "Sikorskiego W., Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.0960919,
-      "longitude": 18.9934178
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.096622,
-      "longitude": 18.9930592
-    },
-    "type": 7
-  },
-  {
-    "address": "Katowicka, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.131588,
-      "longitude": 18.9913399
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1315462,
-      "longitude": 18.9913288
-    },
-    "type": 7
-  },
-  {
-    "address": "Oświęcimska, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.131759,
-      "longitude": 18.991849
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1317554,
-      "longitude": 18.9918586
-    },
-    "type": 7
-  },
-  {
-    "address": "Mikołowska, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.131954,
-      "longitude": 18.990783
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1319574,
-      "longitude": 18.9907676
-    },
-    "type": 7
-  },
-  {
-    "address": "Katowicka, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.132263,
-      "longitude": 18.9913399
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1323156,
-      "longitude": 18.9913571
-    },
-    "type": 7
-  },
-  {
     "address": "Obwodnica, Łaziska Górne",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
@@ -17064,74 +17030,6 @@
       "isCity": false,
       "latitude": 50.1373449,
       "longitude": 18.8331149
-    },
-    "type": 7
-  },
-  {
-    "address": "Grabowa, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.145954,
-      "longitude": 18.9997599
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.145946,
-      "longitude": 18.9997783
-    },
-    "type": 7
-  },
-  {
-    "address": "Katowicka, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.14608,
-      "longitude": 18.9992599
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1460772,
-      "longitude": 18.9992547
-    },
-    "type": 7
-  },
-  {
-    "address": "Katowicka, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.1465,
-      "longitude": 19.000039
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1462543,
-      "longitude": 18.9995604
-    },
-    "type": 7
-  },
-  {
-    "address": "Jesionowa, Tychy",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.146607,
-      "longitude": 18.998837
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1462943,
-      "longitude": 18.9992114
     },
     "type": 7
   },
