@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4978871,
-      "longitude": 20.403777
+      "latitude": 49.497817,
+      "longitude": 20.4037983
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4965447,
-      "longitude": 20.4041139
+      "latitude": 49.4964743,
+      "longitude": 20.404133
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076295,
-      "longitude": 21.0842306
+      "latitude": 50.0076755,
+      "longitude": 21.0838992
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075794,
-      "longitude": 21.0843801
+      "latitude": 50.0075907,
+      "longitude": 21.0842706
     },
     "type": 0
   },
@@ -1994,14 +1994,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6879033,
-      "longitude": 19.1332799
+      "latitude": 50.6878439,
+      "longitude": 19.1332401
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687428,
-      "longitude": 19.1329392
+      "latitude": 50.6873686,
+      "longitude": 19.132899
     },
     "type": 0
   },
@@ -2499,6 +2499,23 @@
     "type": 0
   },
   {
+    "address": "Radomska, Annopol",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.885282,
+      "longitude": 21.8536269
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.8852793,
+      "longitude": 21.8536474
+    },
+    "type": 0
+  },
+  {
     "address": "Gać",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -2920,6 +2937,23 @@
       "isCity": false,
       "latitude": 51.1110571,
       "longitude": 19.4677385
+    },
+    "type": 0
+  },
+  {
+    "address": "Wrocławska, Krępice",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.153619,
+      "longitude": 16.8149059
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.1535804,
+      "longitude": 16.8151023
     },
     "type": 0
   },
@@ -3388,14 +3422,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594922,
-      "longitude": 20.6245092
+      "latitude": 51.3594336,
+      "longitude": 20.6248555
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594897,
-      "longitude": 20.6245064
+      "latitude": 51.3594689,
+      "longitude": 20.6246134
     },
     "type": 0
   },
@@ -6618,14 +6652,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6283744,
-      "longitude": 16.8084977
+      "latitude": 52.627732,
+      "longitude": 16.8084807
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6283925,
-      "longitude": 16.808482
+      "latitude": 52.6287102,
+      "longitude": 16.8084602
     },
     "type": 0
   },
@@ -8352,14 +8386,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7074115,
-      "longitude": 17.2624502
+      "latitude": 53.7074078,
+      "longitude": 17.2624564
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7090426,
-      "longitude": 17.2592863
+      "latitude": 53.7090393,
+      "longitude": 17.2592929
     },
     "type": 0
   },
@@ -8437,14 +8471,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567262,
-      "longitude": 17.1117413
+      "latitude": 53.7567535,
+      "longitude": 17.111204
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7569953,
-      "longitude": 17.1103163
+      "latitude": 53.7570259,
+      "longitude": 17.1102011
     },
     "type": 0
   },
@@ -17251,6 +17285,23 @@
       "isCity": false,
       "latitude": 50.3102417,
       "longitude": 18.7885828
+    },
+    "type": 7
+  },
+  {
+    "address": "Opolska, Większyce",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.344012,
+      "longitude": 18.092444
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3438198,
+      "longitude": 18.0925809
     },
     "type": 7
   },
