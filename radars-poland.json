@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4970103,
-      "longitude": 20.4040007
+      "latitude": 49.4967974,
+      "longitude": 20.4040577
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4963885,
-      "longitude": 20.4041565
+      "latitude": 49.4967643,
+      "longitude": 20.4040538
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076613,
-      "longitude": 21.0840015
+      "latitude": 50.0075867,
+      "longitude": 21.0842864
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.007592,
-      "longitude": 21.0842583
+      "latitude": 50.0075881,
+      "longitude": 21.0842958
     },
     "type": 0
   },
@@ -1977,14 +1977,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6878678,
-      "longitude": 19.1332516
+      "latitude": 50.6877625,
+      "longitude": 19.1331829
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873915,
-      "longitude": 19.1329145
+      "latitude": 50.6872867,
+      "longitude": 19.1328439
     },
     "type": 0
   },
@@ -2461,6 +2461,23 @@
       "isCity": false,
       "latitude": 50.8784578,
       "longitude": 16.5808878
+    },
+    "type": 0
+  },
+  {
+    "address": "Jeleniogórska, Wojcieszyce",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.8825401,
+      "longitude": 15.6379169
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.8825124,
+      "longitude": 15.6377075
     },
     "type": 0
   },
@@ -3405,14 +3422,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3596368,
-      "longitude": 20.6238606
+      "latitude": 51.3594266,
+      "longitude": 20.6248347
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594718,
-      "longitude": 20.6245988
+      "latitude": 51.3594766,
+      "longitude": 20.6245741
     },
     "type": 0
   },
@@ -6635,14 +6652,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6277473,
-      "longitude": 16.808478
+      "latitude": 52.6277652,
+      "longitude": 16.8084775
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6287256,
-      "longitude": 16.8084591
+      "latitude": 52.6287435,
+      "longitude": 16.8084579
     },
     "type": 0
   },
@@ -8250,8 +8267,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6138061,
-      "longitude": 17.1873689
+      "latitude": 53.6138204,
+      "longitude": 17.1873675
     },
     "iconId": "2311",
     "position": {
@@ -8369,14 +8386,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7073795,
-      "longitude": 17.2625096
+      "latitude": 53.7073892,
+      "longitude": 17.2624912
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7090115,
-      "longitude": 17.2593469
+      "latitude": 53.709021,
+      "longitude": 17.2593283
     },
     "type": 0
   },
@@ -8454,14 +8471,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567485,
-      "longitude": 17.1112296
+      "latitude": 53.7567777,
+      "longitude": 17.1111195
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7570189,
-      "longitude": 17.1102251
+      "latitude": 53.7570506,
+      "longitude": 17.110117
     },
     "type": 0
   },
@@ -10882,6 +10899,23 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.384677,
+      "longitude": 22.2708351
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.3836462,
+      "longitude": 22.2757309
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
@@ -10893,6 +10927,23 @@
       "isCity": false,
       "latitude": 51.3942764,
       "longitude": 21.0223049
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.430681,
+      "longitude": 22.14703
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.4309672,
+      "longitude": 22.1455985
     },
     "type": 4
   },
@@ -14435,6 +14486,23 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.383388,
+      "longitude": 22.2760901
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.3834804,
+      "longitude": 22.2756463
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
@@ -14446,6 +14514,23 @@
       "isCity": false,
       "latitude": 51.3943577,
       "longitude": 21.0220279
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.431424,
+      "longitude": 22.1441411
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.4311266,
+      "longitude": 22.1456673
     },
     "type": 5
   },
