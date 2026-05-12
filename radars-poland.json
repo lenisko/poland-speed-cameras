@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4961619,
-      "longitude": 20.4042279
+      "latitude": 49.4967041,
+      "longitude": 20.404099
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4966711,
-      "longitude": 20.4040793
+      "latitude": 49.4967936,
+      "longitude": 20.4040458
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075852,
-      "longitude": 21.0843693
+      "latitude": 50.0075893,
+      "longitude": 21.0845299
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075888,
-      "longitude": 21.0842887
+      "latitude": 50.0075822,
+      "longitude": 21.0843526
     },
     "type": 0
   },
@@ -1977,14 +1977,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6886369,
-      "longitude": 19.1337807
+      "latitude": 50.687858,
+      "longitude": 19.133297
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873051,
-      "longitude": 19.1328562
+      "latitude": 50.6873405,
+      "longitude": 19.1328801
     },
     "type": 0
   },
@@ -3422,14 +3422,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594282,
-      "longitude": 20.6248404
+      "latitude": 51.359418,
+      "longitude": 20.6248645
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359469,
-      "longitude": 20.624613
+      "latitude": 51.3594709,
+      "longitude": 20.6246033
     },
     "type": 0
   },
@@ -5593,23 +5593,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.235846,
-      "longitude": 21.040285
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2361915,
-      "longitude": 21.0419748
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6669,14 +6652,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6285961,
-      "longitude": 16.808433
+      "latitude": 52.627712,
+      "longitude": 16.8084821
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6284249,
-      "longitude": 16.8084797
+      "latitude": 52.6286903,
+      "longitude": 16.8084615
     },
     "type": 0
   },
@@ -8284,14 +8267,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6138204,
-      "longitude": 17.1873675
+      "latitude": 53.6138061,
+      "longitude": 17.1873689
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6140285,
-      "longitude": 17.1878874
+      "latitude": 53.6140463,
+      "longitude": 17.1879373
     },
     "type": 0
   },
@@ -8403,14 +8386,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087658,
-      "longitude": 17.2598784
+      "latitude": 53.7089053,
+      "longitude": 17.2596073
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088131,
-      "longitude": 17.2597325
+      "latitude": 53.7087914,
+      "longitude": 17.2597747
     },
     "type": 0
   },
@@ -8488,14 +8471,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7567704,
-      "longitude": 17.1111336
+      "latitude": 53.757293,
+      "longitude": 17.1092909
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7570458,
-      "longitude": 17.1101332
+      "latitude": 53.7570525,
+      "longitude": 17.1101104
     },
     "type": 0
   },
