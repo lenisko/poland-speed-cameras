@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4968905,
-      "longitude": 20.404037
+      "latitude": 49.4969035,
+      "longitude": 20.4040337
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.496734,
-      "longitude": 20.4040621
+      "latitude": 49.496706,
+      "longitude": 20.4040698
     },
     "type": 0
   },
@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075952,
-      "longitude": 21.0844324
+      "latitude": 50.0075919,
+      "longitude": 21.0843055
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075866,
-      "longitude": 21.0843107
+      "latitude": 50.0075684,
+      "longitude": 21.0844935
     },
     "type": 0
   },
@@ -1977,14 +1977,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6877064,
-      "longitude": 19.1331483
+      "latitude": 50.6877128,
+      "longitude": 19.1331578
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872548,
-      "longitude": 19.1328223
+      "latitude": 50.6872389,
+      "longitude": 19.1328117
     },
     "type": 0
   },
@@ -3422,14 +3422,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.35943,
-      "longitude": 20.6247649
+      "latitude": 51.3594377,
+      "longitude": 20.6247136
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594752,
-      "longitude": 20.624581
+      "latitude": 51.3594833,
+      "longitude": 20.6245393
     },
     "type": 0
   },
@@ -5593,23 +5593,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2357276,
-      "longitude": 21.0397394
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2361402,
-      "longitude": 21.041727
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6669,14 +6652,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278103,
-      "longitude": 16.808476
+      "latitude": 52.6278496,
+      "longitude": 16.8084769
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6287886,
-      "longitude": 16.8084548
+      "latitude": 52.6288277,
+      "longitude": 16.8084521
     },
     "type": 0
   },
@@ -8284,14 +8267,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6137956,
-      "longitude": 17.1874066
+      "latitude": 53.6138099,
+      "longitude": 17.1874052
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6140602,
-      "longitude": 17.1879762
+      "latitude": 53.614057,
+      "longitude": 17.1879674
     },
     "type": 0
   },
@@ -8403,14 +8386,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7102396,
-      "longitude": 17.2570173
+      "latitude": 53.7089673,
+      "longitude": 17.2594485
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7085935,
-      "longitude": 17.2601595
+      "latitude": 53.7088481,
+      "longitude": 17.2596644
     },
     "type": 0
   },
@@ -9499,6 +9482,40 @@
       "isCity": false,
       "latitude": 49.5609372,
       "longitude": 21.6879985
+    },
+    "type": 4
+  },
+  {
+    "address": "Sądecka, Rabka-Zdrój",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.622122,
+      "longitude": 19.9605841
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 49.6217462,
+      "longitude": 19.9592729
+    },
+    "type": 4
+  },
+  {
+    "address": "Zaryte, Rabka-Zdrój",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.6292371,
+      "longitude": 19.9937142
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 49.6293075,
+      "longitude": 19.994254
     },
     "type": 4
   },
@@ -10919,14 +10936,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
-      "latitude": 51.384677,
-      "longitude": 22.2708351
+      "latitude": 51.385634,
+      "longitude": 22.2663359
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.3836462,
-      "longitude": 22.2757309
+      "latitude": 51.3849439,
+      "longitude": 22.2695804
     },
     "type": 4
   },
@@ -13022,6 +13039,40 @@
     "type": 5
   },
   {
+    "address": "Sądecka, Rabka-Zdrój",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.6213704,
+      "longitude": 19.9579616
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 49.6217462,
+      "longitude": 19.9592729
+    },
+    "type": 5
+  },
+  {
+    "address": "Zaryte, Rabka-Zdrój",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.629378,
+      "longitude": 19.9947938
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 49.6293075,
+      "longitude": 19.994254
+    },
+    "type": 5
+  },
+  {
     "address": "",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
@@ -14438,14 +14489,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
-      "latitude": 51.383388,
-      "longitude": 22.2760901
+      "latitude": 51.384532,
+      "longitude": 22.2707019
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.3834804,
-      "longitude": 22.2756463
+      "latitude": 51.384786,
+      "longitude": 22.2695106
     },
     "type": 5
   },
