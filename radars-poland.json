@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.496706,
-      "longitude": 20.4040698
+      "latitude": 49.4966987,
+      "longitude": 20.4040718
     },
     "type": 0
   },
@@ -697,6 +697,40 @@
     "type": 0
   },
   {
+    "address": "Sikorskiego Wł., Rzeszów",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.988126,
+      "longitude": 22.0182851
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 49.9888096,
+      "longitude": 22.0182049
+    },
+    "type": 0
+  },
+  {
+    "address": "Sikorskiego Wł., Rzeszów",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.988897,
+      "longitude": 22.0182959
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 49.9888252,
+      "longitude": 22.0183033
+    },
+    "type": 0
+  },
+  {
     "address": "Parkosz",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -719,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075919,
-      "longitude": 21.0843055
+      "latitude": 50.0075893,
+      "longitude": 21.0845299
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075684,
-      "longitude": 21.0844935
+      "latitude": 50.007575,
+      "longitude": 21.0844221
     },
     "type": 0
   },
@@ -829,6 +863,40 @@
       "isCity": false,
       "latitude": 50.0460683,
       "longitude": 22.1502387
+    },
+    "type": 0
+  },
+  {
+    "address": "Krakowska, Rzeszów",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na zachód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.056718,
+      "longitude": 21.9635752
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.0567873,
+      "longitude": 21.9632929
+    },
+    "type": 0
+  },
+  {
+    "address": "Krakowska, Rzeszów",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.057252,
+      "longitude": 21.9619198
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.0569039,
+      "longitude": 21.9633238
     },
     "type": 0
   },
@@ -1977,14 +2045,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6877128,
-      "longitude": 19.1331578
+      "latitude": 50.6877545,
+      "longitude": 19.1331836
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872389,
-      "longitude": 19.1328117
+      "latitude": 50.6872801,
+      "longitude": 19.1328394
     },
     "type": 0
   },
@@ -3422,14 +3490,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594377,
-      "longitude": 20.6247136
+      "latitude": 51.3593473,
+      "longitude": 20.6251454
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594833,
-      "longitude": 20.6245393
+      "latitude": 51.3594799,
+      "longitude": 20.6245569
     },
     "type": 0
   },
@@ -6652,14 +6720,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278496,
-      "longitude": 16.8084769
+      "latitude": 52.6279188,
+      "longitude": 16.8084754
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288277,
-      "longitude": 16.8084521
+      "latitude": 52.6288969,
+      "longitude": 16.8084474
     },
     "type": 0
   },
@@ -7442,6 +7510,23 @@
       "isCity": false,
       "latitude": 53.0918143,
       "longitude": 16.1297936
+    },
+    "type": 0
+  },
+  {
+    "address": "Czarnowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.1029942,
+      "longitude": 18.2436973
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.102971,
+      "longitude": 18.2446912
     },
     "type": 0
   },
@@ -8267,14 +8352,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6138099,
-      "longitude": 17.1874052
+      "latitude": 53.6138232,
+      "longitude": 17.1874071
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.614057,
-      "longitude": 17.1879674
+      "latitude": 53.6140457,
+      "longitude": 17.1879356
     },
     "type": 0
   },
@@ -8386,14 +8471,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7089673,
-      "longitude": 17.2594485
+      "latitude": 53.7088485,
+      "longitude": 17.2597036
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088481,
-      "longitude": 17.2596644
+      "latitude": 53.7089119,
+      "longitude": 17.2595405
     },
     "type": 0
   },
