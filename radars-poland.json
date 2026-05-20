@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.496852,
-      "longitude": 20.4040299
+      "latitude": 49.4969243,
+      "longitude": 20.4040101
     },
     "type": 0
   },
@@ -753,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076113,
-      "longitude": 21.0843706
+      "latitude": 50.007594,
+      "longitude": 21.0846097
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075591,
-      "longitude": 21.0845959
+      "latitude": 50.0075646,
+      "longitude": 21.0845355
     },
     "type": 0
   },
@@ -2045,14 +2045,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6876172,
-      "longitude": 19.133122
+      "latitude": 50.6876303,
+      "longitude": 19.1331047
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871499,
-      "longitude": 19.1327518
+      "latitude": 50.687157,
+      "longitude": 19.1327565
     },
     "type": 0
   },
@@ -3490,14 +3490,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592915,
-      "longitude": 20.6253823
+      "latitude": 51.3592993,
+      "longitude": 20.6253498
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594921,
-      "longitude": 20.6244943
+      "latitude": 51.3595041,
+      "longitude": 20.6244325
     },
     "type": 0
   },
@@ -4161,6 +4161,23 @@
       "isCity": false,
       "latitude": 51.7873607,
       "longitude": 19.4843506
+    },
+    "type": 0
+  },
+  {
+    "address": "Żarska, Nowogród Bobrzański",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.794396,
+      "longitude": 15.2335051
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.7942972,
+      "longitude": 15.2333938
     },
     "type": 0
   },
@@ -6720,14 +6737,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278486,
-      "longitude": 16.8084794
+      "latitude": 52.6285877,
+      "longitude": 16.8084684
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288267,
-      "longitude": 16.8084522
+      "latitude": 52.6285955,
+      "longitude": 16.8084681
     },
     "type": 0
   },
@@ -7519,14 +7536,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.1029724,
-      "longitude": 18.2446688
+      "latitude": 53.1029652,
+      "longitude": 18.2441056
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.102971,
-      "longitude": 18.2448742
+      "latitude": 53.1029754,
+      "longitude": 18.2451973
     },
     "type": 0
   },
@@ -8211,6 +8228,23 @@
     "type": 0
   },
   {
+    "address": "Długa, Narty",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.5387449,
+      "longitude": 20.7894639
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.538448,
+      "longitude": 20.7901297
+    },
+    "type": 0
+  },
+  {
     "address": "Bzowo",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -8352,14 +8386,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.6138232,
-      "longitude": 17.1874071
+      "latitude": 53.614078,
+      "longitude": 17.1880261
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.6140511,
-      "longitude": 17.1879509
+      "latitude": 53.6140295,
+      "longitude": 17.1878904
     },
     "type": 0
   },
@@ -8471,14 +8505,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7089299,
-      "longitude": 17.2595524
+      "latitude": 53.7089214,
+      "longitude": 17.2595582
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7089418,
-      "longitude": 17.2594823
+      "latitude": 53.7089095,
+      "longitude": 17.2595451
     },
     "type": 0
   },
@@ -8836,6 +8870,23 @@
       "isCity": false,
       "latitude": 53.936902,
       "longitude": 18.4357465
+    },
+    "type": 0
+  },
+  {
+    "address": "Wojska Polskiego, Dobre Miasto",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.991353,
+      "longitude": 20.3945119
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.9909938,
+      "longitude": 20.3946434
     },
     "type": 0
   },
@@ -16775,6 +16826,23 @@
       "isCity": false,
       "latitude": 49.8398162,
       "longitude": 19.0375625
+    },
+    "type": 7
+  },
+  {
+    "address": "Wadowicka, Inwałd",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.8634071,
+      "longitude": 19.393879
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 49.8631599,
+      "longitude": 19.3923066
     },
     "type": 7
   },
