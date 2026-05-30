@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4977165,
-      "longitude": 20.4037969
+      "latitude": 49.4976359,
+      "longitude": 20.4038327
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4970595,
-      "longitude": 20.4039731
+      "latitude": 49.4970739,
+      "longitude": 20.4039692
     },
     "type": 0
   },
@@ -753,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075828,
-      "longitude": 21.0842831
+      "latitude": 50.0075401,
+      "longitude": 21.0847454
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075529,
-      "longitude": 21.0846639
+      "latitude": 50.0076335,
+      "longitude": 21.0838566
     },
     "type": 0
   },
@@ -2051,8 +2051,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872205,
-      "longitude": 19.1327993
+      "latitude": 50.6872462,
+      "longitude": 19.1328166
     },
     "type": 0
   },
@@ -3145,6 +3145,23 @@
     "type": 0
   },
   {
+    "address": "Górna, Mazurowice",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.212612,
+      "longitude": 16.4635369
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2125036,
+      "longitude": 16.4636814
+    },
+    "type": 0
+  },
+  {
     "address": "Gniewomirowice",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -3490,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.359434,
-      "longitude": 20.6246707
+      "latitude": 51.3594074,
+      "longitude": 20.6248186
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595787,
-      "longitude": 20.6240483
+      "latitude": 51.3595725,
+      "longitude": 20.6240804
     },
     "type": 0
   },
@@ -4059,6 +4076,23 @@
       "isCity": false,
       "latitude": 51.7255213,
       "longitude": 17.8243802
+    },
+    "type": 0
+  },
+  {
+    "address": "Kuklinów",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.732365,
+      "longitude": 17.3147029
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.7322786,
+      "longitude": 17.3140677
     },
     "type": 0
   },
@@ -6737,14 +6771,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278345,
-      "longitude": 16.8084806
+      "latitude": 52.6278427,
+      "longitude": 16.8084786
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288125,
-      "longitude": 16.8084532
+      "latitude": 52.6288208,
+      "longitude": 16.8084526
     },
     "type": 0
   },
@@ -7537,13 +7571,13 @@
     "direction": {
       "isCity": false,
       "latitude": 53.102971,
-      "longitude": 18.24507
+      "longitude": 18.2446369
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
       "latitude": 53.102971,
-      "longitude": 18.2448484
+      "longitude": 18.2442341
     },
     "type": 0
   },
@@ -8505,14 +8539,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087984,
-      "longitude": 17.2597685
+      "latitude": 53.7088018,
+      "longitude": 17.2597613
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087705,
-      "longitude": 17.2598155
+      "latitude": 53.7087602,
+      "longitude": 17.2598354
     },
     "type": 0
   },
