@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4969268,
-      "longitude": 20.4040203
+      "latitude": 49.4969816,
+      "longitude": 20.4040237
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4970826,
-      "longitude": 20.4039668
+      "latitude": 49.497051,
+      "longitude": 20.4039755
     },
     "type": 0
   },
@@ -759,8 +759,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.007574,
-      "longitude": 21.0844321
+      "latitude": 50.0075752,
+      "longitude": 21.0844205
     },
     "type": 0
   },
@@ -2051,8 +2051,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6874478,
-      "longitude": 19.1329528
+      "latitude": 50.6873722,
+      "longitude": 19.1329015
     },
     "type": 0
   },
@@ -3507,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595849,
-      "longitude": 20.6240002
+      "latitude": 51.359476,
+      "longitude": 20.6245033
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595878,
-      "longitude": 20.6240016
+      "latitude": 51.3595973,
+      "longitude": 20.6239548
     },
     "type": 0
   },
@@ -6771,14 +6771,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278919,
-      "longitude": 16.8084765
+      "latitude": 52.6279138,
+      "longitude": 16.8084766
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.62887,
-      "longitude": 16.8084492
+      "latitude": 52.6288919,
+      "longitude": 16.8084477
     },
     "type": 0
   },
@@ -8539,14 +8539,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087498,
-      "longitude": 17.2598715
+      "latitude": 53.708798,
+      "longitude": 17.2597694
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087891,
-      "longitude": 17.2597792
+      "latitude": 53.7087645,
+      "longitude": 17.2598269
     },
     "type": 0
   },
@@ -9299,23 +9299,6 @@
     "type": 0
   },
   {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.216619,
-      "longitude": 19.0924492
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 54.2162525,
-      "longitude": 19.0938971
-    },
-    "type": 0
-  },
-  {
     "address": "Wieżyca",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -9465,23 +9448,6 @@
       "isCity": false,
       "latitude": 54.3870988,
       "longitude": 18.360533
-    },
-    "type": 0
-  },
-  {
-    "address": "Al. Kazimierza Jagiellończyka, Gdańsk",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.4052316,
-      "longitude": 18.4854942
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 54.4083885,
-      "longitude": 18.4858183
     },
     "type": 0
   },
@@ -9822,6 +9788,40 @@
       "isCity": false,
       "latitude": 49.8065875,
       "longitude": 21.8886086
+    },
+    "type": 4
+  },
+  {
+    "address": "Katowicka, Skoczów",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.809842,
+      "longitude": 18.790565
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 49.809779,
+      "longitude": 18.7905236
+    },
+    "type": 4
+  },
+  {
+    "address": "Główna, Ochaby Małe",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.834744,
+      "longitude": 18.7811421
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 49.8347935,
+      "longitude": 18.7808643
     },
     "type": 4
   },
@@ -13050,8 +13050,8 @@
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 54.1322512,
-      "longitude": 15.5800569
+      "latitude": 54.1312098,
+      "longitude": 15.5790431
     },
     "type": 4
   },
@@ -13061,14 +13061,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 54.153218,
-      "longitude": 15.59547
+      "latitude": 54.155793,
+      "longitude": 15.597725
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 54.153229,
-      "longitude": 15.5954774
+      "latitude": 54.1560532,
+      "longitude": 15.5980292
     },
     "type": 4
   },
@@ -13103,6 +13103,40 @@
       "isCity": false,
       "latitude": 54.2024311,
       "longitude": 15.9280922
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.2162289,
+      "longitude": 19.093995
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 54.2159736,
+      "longitude": 19.0950567
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.253436,
+      "longitude": 18.9722229
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 54.2537948,
+      "longitude": 18.9698218
     },
     "type": 4
   },
@@ -13171,6 +13205,40 @@
       "isCity": false,
       "latitude": 54.3214243,
       "longitude": 18.3030017
+    },
+    "type": 4
+  },
+  {
+    "address": "Al. Kazimierza Jagiellończyka, Gdańsk",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.382954,
+      "longitude": 18.5060459
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 54.3815256,
+      "longitude": 18.5083939
+    },
+    "type": 4
+  },
+  {
+    "address": "Al. Kazimierza Jagiellończyka, Gdańsk",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.406734,
+      "longitude": 18.4856361
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 54.4086889,
+      "longitude": 18.4858513
     },
     "type": 4
   },
@@ -13375,6 +13443,40 @@
       "isCity": false,
       "latitude": 49.8065875,
       "longitude": 21.8886086
+    },
+    "type": 5
+  },
+  {
+    "address": "Katowicka, Skoczów",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.809869,
+      "longitude": 18.7903861
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 49.8099385,
+      "longitude": 18.7904264
+    },
+    "type": 5
+  },
+  {
+    "address": "Główna, Ochaby Małe",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.834969,
+      "longitude": 18.78043
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 49.834894,
+      "longitude": 18.7808629
     },
     "type": 5
   },
@@ -16597,14 +16699,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 54.132313,
-      "longitude": 15.5798499
+      "latitude": 54.1305039,
+      "longitude": 15.5780618
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 54.1323616,
-      "longitude": 15.579897
+      "latitude": 54.1312123,
+      "longitude": 15.5787619
     },
     "type": 5
   },
@@ -16614,14 +16716,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 54.153145,
-      "longitude": 15.595704
+      "latitude": 54.156372,
+      "longitude": 15.5987259
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 54.1531333,
-      "longitude": 15.595696
+      "latitude": 54.1561219,
+      "longitude": 15.5984259
     },
     "type": 5
   },
@@ -16656,6 +16758,40 @@
       "isCity": false,
       "latitude": 54.2026175,
       "longitude": 15.92804
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.215737,
+      "longitude": 19.095561
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 54.2158619,
+      "longitude": 19.0950362
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.2541909,
+      "longitude": 18.968779
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 54.2540073,
+      "longitude": 18.9700157
     },
     "type": 5
   },
@@ -16724,6 +16860,40 @@
       "isCity": false,
       "latitude": 54.3214243,
       "longitude": 18.3030017
+    },
+    "type": 5
+  },
+  {
+    "address": "Al. Kazimierza Jagiellończyka, Gdańsk",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.381111,
+      "longitude": 18.508823
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 54.381421,
+      "longitude": 18.5083169
+    },
+    "type": 5
+  },
+  {
+    "address": "Al. Kazimierza Jagiellończyka, Gdańsk",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.409988,
+      "longitude": 18.4861681
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 54.4088209,
+      "longitude": 18.4860427
     },
     "type": 5
   },
