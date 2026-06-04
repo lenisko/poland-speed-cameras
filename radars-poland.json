@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4969816,
-      "longitude": 20.4040237
+      "latitude": 49.4969773,
+      "longitude": 20.4040299
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4970457,
-      "longitude": 20.4039769
+      "latitude": 49.4969577,
+      "longitude": 20.4040009
     },
     "type": 0
   },
@@ -753,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076072,
-      "longitude": 21.0842235
+      "latitude": 50.0076263,
+      "longitude": 21.08408
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075769,
-      "longitude": 21.0844035
+      "latitude": 50.007574,
+      "longitude": 21.0844321
     },
     "type": 0
   },
@@ -2051,8 +2051,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872952,
-      "longitude": 19.1328496
+      "latitude": 50.6872697,
+      "longitude": 19.1328324
     },
     "type": 0
   },
@@ -3507,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594462,
-      "longitude": 20.6246271
+      "latitude": 51.3597466,
+      "longitude": 20.6231514
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595894,
-      "longitude": 20.6239928
+      "latitude": 51.3595998,
+      "longitude": 20.6239428
     },
     "type": 0
   },
@@ -5712,6 +5712,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.236044,
+      "longitude": 21.0412494
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2361886,
+      "longitude": 21.0419606
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6443,6 +6460,23 @@
     "type": 0
   },
   {
+    "address": "Oficerska, Zegrze",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.459929,
+      "longitude": 21.0192329
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.4597953,
+      "longitude": 21.0191419
+    },
+    "type": 0
+  },
+  {
     "address": "Podlaska, Borzychy",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6771,14 +6805,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.627889,
-      "longitude": 16.8084783
+      "latitude": 52.6279153,
+      "longitude": 16.8084795
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.628867,
-      "longitude": 16.8084495
+      "latitude": 52.6288933,
+      "longitude": 16.8084476
     },
     "type": 0
   },
@@ -8539,14 +8573,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.708798,
-      "longitude": 17.2597694
+      "latitude": 53.708868,
+      "longitude": 17.2596641
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087582,
-      "longitude": 17.2598393
+      "latitude": 53.7086867,
+      "longitude": 17.2599783
     },
     "type": 0
   },
@@ -10919,14 +10953,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 51.1986741,
-      "longitude": 19.4761311
+      "latitude": 51.2047851,
+      "longitude": 19.48023
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.1992845,
-      "longitude": 19.4764951
+      "latitude": 51.2053509,
+      "longitude": 19.4806939
     },
     "type": 4
   },
@@ -14506,14 +14540,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 51.096429,
-      "longitude": 19.380186
+      "latitude": 51.102705,
+      "longitude": 19.385019
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.097324,
-      "longitude": 19.3808234
+      "latitude": 51.1031442,
+      "longitude": 19.3854076
     },
     "type": 5
   },
@@ -18048,8 +18082,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 51.06222,
-      "longitude": 19.431684
+      "latitude": 51.0623013,
+      "longitude": 19.4312727
     },
     "type": 7
   },
