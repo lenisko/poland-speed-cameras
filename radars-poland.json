@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4967772,
-      "longitude": 20.4040752
+      "latitude": 49.497857,
+      "longitude": 20.4037952
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4969112,
-      "longitude": 20.4040137
+      "latitude": 49.4965134,
+      "longitude": 20.4041224
     },
     "type": 0
   },
@@ -753,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075981,
-      "longitude": 21.0844595
+      "latitude": 50.0075955,
+      "longitude": 21.0844783
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075753,
-      "longitude": 21.0844195
+      "latitude": 50.0075721,
+      "longitude": 21.0844531
     },
     "type": 0
   },
@@ -2068,8 +2068,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687327,
-      "longitude": 19.132871
+      "latitude": 50.6872657,
+      "longitude": 19.1328297
     },
     "type": 0
   },
@@ -3524,8 +3524,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595622,
-      "longitude": 20.624143
+      "latitude": 51.3595505,
+      "longitude": 20.6242342
     },
     "iconId": "2311",
     "position": {
@@ -5746,23 +5746,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2358627,
-      "longitude": 21.0403534
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.236206,
-      "longitude": 21.0420445
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6352,8 +6335,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -6839,14 +6822,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6297708,
-      "longitude": 16.8084195
+      "latitude": 52.6292401,
+      "longitude": 16.8084775
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6282934,
-      "longitude": 16.8084888
+      "latitude": 52.6282617,
+      "longitude": 16.808491
     },
     "type": 0
   },
@@ -8624,14 +8607,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086442,
-      "longitude": 17.2600819
+      "latitude": 53.7073248,
+      "longitude": 17.2626197
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708643,
-      "longitude": 17.2600632
+      "latitude": 53.7089557,
+      "longitude": 17.2594554
     },
     "type": 0
   },
