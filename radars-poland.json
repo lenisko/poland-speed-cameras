@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4978237,
-      "longitude": 20.4038049
+      "latitude": 49.4977857,
+      "longitude": 20.4038146
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4964801,
-      "longitude": 20.4041315
+      "latitude": 49.4964421,
+      "longitude": 20.4041418
     },
     "type": 0
   },
@@ -753,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075194,
-      "longitude": 21.0850367
+      "latitude": 50.0075914,
+      "longitude": 21.08452
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0076036,
-      "longitude": 21.0841456
+      "latitude": 50.0075697,
+      "longitude": 21.0844797
     },
     "type": 0
   },
@@ -2062,14 +2062,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6876911,
-      "longitude": 19.1330911
+      "latitude": 50.6875643,
+      "longitude": 19.1330854
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872133,
-      "longitude": 19.1327944
+      "latitude": 50.6872225,
+      "longitude": 19.1328006
     },
     "type": 0
   },
@@ -3524,8 +3524,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595157,
-      "longitude": 20.6243371
+      "latitude": 51.3595342,
+      "longitude": 20.6242415
     },
     "iconId": "2311",
     "position": {
@@ -5746,23 +5746,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2358071,
-      "longitude": 21.0401092
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2362171,
-      "longitude": 21.0420983
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6352,8 +6335,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -6839,14 +6822,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6279263,
-      "longitude": 16.8084827
+      "latitude": 52.6278974,
+      "longitude": 16.808483
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6289042,
-      "longitude": 16.8084469
+      "latitude": 52.6288753,
+      "longitude": 16.8084489
     },
     "type": 0
   },
@@ -8624,14 +8607,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7073421,
-      "longitude": 17.2625878
+      "latitude": 53.7073606,
+      "longitude": 17.2625552
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7089725,
-      "longitude": 17.2594228
+      "latitude": 53.70899,
+      "longitude": 17.2593887
     },
     "type": 0
   },
