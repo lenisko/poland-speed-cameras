@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4977312,
-      "longitude": 20.4038313
+      "latitude": 49.497687,
+      "longitude": 20.403842
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4963874,
-      "longitude": 20.4041569
+      "latitude": 49.4963434,
+      "longitude": 20.4041688
     },
     "type": 0
   },
@@ -731,36 +731,19 @@
     "type": 0
   },
   {
-    "address": "Parkosz",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 49.993635,
-      "longitude": 21.3214179
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 49.9936087,
-      "longitude": 21.3213655
-    },
-    "type": 0
-  },
-  {
     "address": "Ładna",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.007567,
-      "longitude": 21.0847745
+      "latitude": 50.0075776,
+      "longitude": 21.0846269
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075581,
-      "longitude": 21.0846075
+      "latitude": 50.0075556,
+      "longitude": 21.0846351
     },
     "type": 0
   },
@@ -795,23 +778,6 @@
       "isCity": false,
       "latitude": 50.0309307,
       "longitude": 19.6263156
-    },
-    "type": 0
-  },
-  {
-    "address": "Lwowska, Dębica",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.033451,
-      "longitude": 21.3974111
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.0334719,
-      "longitude": 21.3978288
     },
     "type": 0
   },
@@ -2062,14 +2028,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6876911,
-      "longitude": 19.1330911
+      "latitude": 50.6874632,
+      "longitude": 19.1329719
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871803,
-      "longitude": 19.1327722
+      "latitude": 50.687158,
+      "longitude": 19.1327572
     },
     "type": 0
   },
@@ -3524,14 +3490,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.360065,
-      "longitude": 20.6218661
+      "latitude": 51.3594513,
+      "longitude": 20.6246614
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359603,
-      "longitude": 20.6239276
+      "latitude": 51.3596052,
+      "longitude": 20.6239173
     },
     "type": 0
   },
@@ -6822,13 +6788,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6279069,
-      "longitude": 16.8084797
+      "latitude": 52.6279066,
+      "longitude": 16.8084775
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288849,
+      "latitude": 52.6288847,
       "longitude": 16.8084482
     },
     "type": 0
@@ -8607,14 +8573,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087636,
-      "longitude": 17.2598445
+      "latitude": 53.7101087,
+      "longitude": 17.2572719
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086974,
-      "longitude": 17.2599575
+      "latitude": 53.7084626,
+      "longitude": 17.260414
     },
     "type": 0
   },
@@ -10627,6 +10593,23 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.603178,
+      "longitude": 19.0325059
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.6027044,
+      "longitude": 19.032667
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
@@ -10638,6 +10621,23 @@
       "isCity": false,
       "latitude": 50.6557569,
       "longitude": 17.7132798
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.73962,
+      "longitude": 19.052154
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.7398682,
+      "longitude": 19.051874
     },
     "type": 4
   },
@@ -11016,6 +11016,23 @@
     "type": 4
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.240358,
+      "longitude": 19.520483
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2389539,
+      "longitude": 19.5194226
+    },
+    "type": 4
+  },
+  {
     "address": "Biała Rządowa",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
@@ -11216,6 +11233,23 @@
       "isCity": false,
       "latitude": 51.384881,
       "longitude": 22.269876
+    },
+    "type": 4
+  },
+  {
+    "address": "Piotrków Trybunalski",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.389535,
+      "longitude": 19.6279909
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.3900997,
+      "longitude": 19.6281939
     },
     "type": 4
   },
@@ -14282,6 +14316,23 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.601915,
+      "longitude": 19.0325621
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 50.6027691,
+      "longitude": 19.0322941
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
@@ -14293,6 +14344,23 @@
       "isCity": false,
       "latitude": 50.6558356,
       "longitude": 17.7133942
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.741935,
+      "longitude": 19.049755
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 50.7419199,
+      "longitude": 19.049777
     },
     "type": 5
   },
@@ -14671,6 +14739,23 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.238843,
+      "longitude": 19.519115
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.2395364,
+      "longitude": 19.5196415
+    },
+    "type": 5
+  },
+  {
     "address": "Biała Rządowa",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
@@ -14871,6 +14956,23 @@
       "isCity": false,
       "latitude": 51.3847287,
       "longitude": 22.2697795
+    },
+    "type": 5
+  },
+  {
+    "address": "Piotrków Trybunalski",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.391668,
+      "longitude": 19.6290011
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.3902197,
+      "longitude": 19.6284797
     },
     "type": 5
   },
