@@ -39,8 +39,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.497687,
-      "longitude": 20.403842
+      "latitude": 49.496966,
+      "longitude": 20.4040198
     },
     "iconId": "2311",
     "position": {
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075776,
-      "longitude": 21.0846269
+      "latitude": 50.0075695,
+      "longitude": 21.0846303
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075556,
-      "longitude": 21.0846351
+      "latitude": 50.0075538,
+      "longitude": 21.0846542
     },
     "type": 0
   },
@@ -2028,14 +2028,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6874632,
-      "longitude": 19.1329719
+      "latitude": 50.6885873,
+      "longitude": 19.1336882
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687158,
-      "longitude": 19.1327572
+      "latitude": 50.6870886,
+      "longitude": 19.1327104
     },
     "type": 0
   },
@@ -3490,14 +3490,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594513,
-      "longitude": 20.6246614
+      "latitude": 51.3594663,
+      "longitude": 20.6246996
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596052,
-      "longitude": 20.6239173
+      "latitude": 51.359595,
+      "longitude": 20.6239657
     },
     "type": 0
   },
@@ -6301,8 +6301,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -6788,14 +6788,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6279066,
-      "longitude": 16.8084775
+      "latitude": 52.6278941,
+      "longitude": 16.8084769
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288847,
-      "longitude": 16.8084482
+      "latitude": 52.6288721,
+      "longitude": 16.8084491
     },
     "type": 0
   },
@@ -8573,14 +8573,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7101087,
-      "longitude": 17.2572719
+      "latitude": 53.7100799,
+      "longitude": 17.257331
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7084626,
-      "longitude": 17.260414
+      "latitude": 53.7084329,
+      "longitude": 17.2604717
     },
     "type": 0
   },
