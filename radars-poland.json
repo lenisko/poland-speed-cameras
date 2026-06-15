@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.496966,
-      "longitude": 20.4040198
+      "latitude": 49.4968834,
+      "longitude": 20.4040445
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4963434,
-      "longitude": 20.4041688
+      "latitude": 49.4967185,
+      "longitude": 20.4040663
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075695,
-      "longitude": 21.0846303
+      "latitude": 50.0075685,
+      "longitude": 21.0846335
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075538,
-      "longitude": 21.0846542
+      "latitude": 50.0075436,
+      "longitude": 21.0847664
     },
     "type": 0
   },
@@ -2006,6 +2006,23 @@
     "type": 0
   },
   {
+    "address": "Warszawska, Wanaty",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.687528,
+      "longitude": 19.1330405
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.6870564,
+      "longitude": 19.1326887
+    },
+    "type": 0
+  },
+  {
     "address": "Kwiatkowskiego E., Sandomierz",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -2019,23 +2036,6 @@
       "isCity": false,
       "latitude": 50.6870701,
       "longitude": 21.7547087
-    },
-    "type": 0
-  },
-  {
-    "address": "Warszawska, Wanaty",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.6885873,
-      "longitude": 19.1336882
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.6870886,
-      "longitude": 19.1327104
     },
     "type": 0
   },
@@ -2631,6 +2631,23 @@
       "isCity": false,
       "latitude": 50.9116423,
       "longitude": 16.6606942
+    },
+    "type": 0
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.9228068,
+      "longitude": 19.2233492
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.9192366,
+      "longitude": 19.2198209
     },
     "type": 0
   },
@@ -3496,8 +3513,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359595,
-      "longitude": 20.6239657
+      "latitude": 51.3596021,
+      "longitude": 20.623932
     },
     "type": 0
   },
@@ -4994,6 +5011,23 @@
       "isCity": false,
       "latitude": 52.0958346,
       "longitude": 15.9246691
+    },
+    "type": 0
+  },
+  {
+    "address": "Mościbrody",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.1079589,
+      "longitude": 22.299395
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.1079472,
+      "longitude": 22.2995422
     },
     "type": 0
   },
@@ -6788,14 +6822,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278941,
-      "longitude": 16.8084769
+      "latitude": 52.6278926,
+      "longitude": 16.8084764
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288721,
-      "longitude": 16.8084491
+      "latitude": 52.6288707,
+      "longitude": 16.8084492
     },
     "type": 0
   },
@@ -8573,14 +8607,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7100799,
-      "longitude": 17.257331
+      "latitude": 53.7100782,
+      "longitude": 17.2573389
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7084329,
-      "longitude": 17.2604717
+      "latitude": 53.7084298,
+      "longitude": 17.2604777
     },
     "type": 0
   },
