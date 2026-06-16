@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4968834,
-      "longitude": 20.4040445
+      "latitude": 49.496878,
+      "longitude": 20.4040431
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4967185,
-      "longitude": 20.4040663
+      "latitude": 49.4962552,
+      "longitude": 20.4041938
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075685,
-      "longitude": 21.0846335
+      "latitude": 50.0075729,
+      "longitude": 21.0847184
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075436,
-      "longitude": 21.0847664
+      "latitude": 50.0075346,
+      "longitude": 21.0848656
     },
     "type": 0
   },
@@ -2006,23 +2006,6 @@
     "type": 0
   },
   {
-    "address": "Warszawska, Wanaty",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.687528,
-      "longitude": 19.1330405
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.6870564,
-      "longitude": 19.1326887
-    },
-    "type": 0
-  },
-  {
     "address": "Kwiatkowskiego E., Sandomierz",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -2036,6 +2019,23 @@
       "isCity": false,
       "latitude": 50.6870701,
       "longitude": 21.7547087
+    },
+    "type": 0
+  },
+  {
+    "address": "Warszawska, Wanaty",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.6870171,
+      "longitude": 19.1326579
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.6870916,
+      "longitude": 19.1325055
     },
     "type": 0
   },
@@ -2635,23 +2635,6 @@
     "type": 0
   },
   {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.9228068,
-      "longitude": 19.2233492
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.9192366,
-      "longitude": 19.2198209
-    },
-    "type": 0
-  },
-  {
     "address": "Łódzka, Miedziana Góra",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -2886,6 +2869,23 @@
       "isCity": false,
       "latitude": 51.0529145,
       "longitude": 20.4030063
+    },
+    "type": 0
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.0601212,
+      "longitude": 19.3611894
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 51.062968,
+      "longitude": 19.3630556
     },
     "type": 0
   },
@@ -3507,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594663,
-      "longitude": 20.6246996
+      "latitude": 51.3594266,
+      "longitude": 20.624814
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596021,
-      "longitude": 20.623932
+      "latitude": 51.359589,
+      "longitude": 20.623995
     },
     "type": 0
   },
@@ -5020,14 +5020,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1079589,
-      "longitude": 22.299395
+      "latitude": 52.108117,
+      "longitude": 22.2995355
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1079472,
-      "longitude": 22.2995422
+      "latitude": 52.108036,
+      "longitude": 22.299525
     },
     "type": 0
   },
@@ -6822,14 +6822,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6278926,
-      "longitude": 16.8084764
+      "latitude": 52.6278968,
+      "longitude": 16.8084758
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288707,
-      "longitude": 16.8084492
+      "latitude": 52.6288749,
+      "longitude": 16.8084489
     },
     "type": 0
   },
@@ -8607,14 +8607,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7100782,
-      "longitude": 17.2573389
+      "latitude": 53.7088205,
+      "longitude": 17.2597453
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7084298,
-      "longitude": 17.2604777
+      "latitude": 53.7086935,
+      "longitude": 17.2599651
     },
     "type": 0
   },
@@ -10851,6 +10851,23 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
+      "latitude": 50.921799,
+      "longitude": 19.2222691
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.9190437,
+      "longitude": 19.2196366
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
       "latitude": 50.942316,
       "longitude": 20.677231
     },
@@ -10953,14 +10970,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 51.097471,
-      "longitude": 19.3811299
+      "latitude": 51.100908,
+      "longitude": 19.3837522
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.0973219,
-      "longitude": 19.3810239
+      "latitude": 51.0998231,
+      "longitude": 19.382897
     },
     "type": 4
   },
@@ -11021,14 +11038,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 51.2047851,
-      "longitude": 19.48023
+      "latitude": 51.202622,
+      "longitude": 19.478641
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.2053509,
-      "longitude": 19.4806939
+      "latitude": 51.2038552,
+      "longitude": 19.4795418
     },
     "type": 4
   },
@@ -12767,6 +12784,23 @@
     "type": 4
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.044454,
+      "longitude": 22.366845
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 53.0437827,
+      "longitude": 22.3654232
+    },
+    "type": 4
+  },
+  {
     "address": "Lipowa, Baciuty",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
@@ -12797,6 +12831,23 @@
       "isCity": false,
       "latitude": 53.048355,
       "longitude": 23.289493
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.090481,
+      "longitude": 22.4915141
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 53.0907749,
+      "longitude": 22.4919721
     },
     "type": 4
   },
@@ -13350,14 +13401,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 54.382954,
-      "longitude": 18.5060459
+      "latitude": 54.384556,
+      "longitude": 18.5034341
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 54.3815256,
-      "longitude": 18.5083939
+      "latitude": 54.3829666,
+      "longitude": 18.5060253
     },
     "type": 4
   },
@@ -14673,17 +14724,34 @@
   {
     "address": "",
     "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 51.102705,
-      "longitude": 19.385019
+      "latitude": 51.067071,
+      "longitude": 19.3658209
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.1031442,
-      "longitude": 19.3854076
+      "latitude": 51.0653295,
+      "longitude": 19.3647528
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.099222,
+      "longitude": 19.382175
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.0998796,
+      "longitude": 19.3827021
     },
     "type": 5
   },
@@ -14744,14 +14812,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 51.192017,
-      "longitude": 19.4732421
+      "latitude": 51.197651,
+      "longitude": 19.4757649
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.1913135,
-      "longitude": 19.4729847
+      "latitude": 51.1972313,
+      "longitude": 19.475548
     },
     "type": 5
   },
@@ -16490,6 +16558,23 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.043038,
+      "longitude": 22.363479
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 53.0439388,
+      "longitude": 22.3652142
+    },
+    "type": 5
+  },
+  {
     "address": "Lipowa, Baciuty",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
@@ -16520,6 +16605,23 @@
       "isCity": false,
       "latitude": 53.048355,
       "longitude": 23.289493
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.091034,
+      "longitude": 22.4928911
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 53.0907257,
+      "longitude": 22.4924018
     },
     "type": 5
   },
@@ -17073,14 +17175,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 54.381111,
-      "longitude": 18.508823
+      "latitude": 54.382839,
+      "longitude": 18.506002
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 54.381421,
-      "longitude": 18.5083169
+      "latitude": 54.3828783,
+      "longitude": 18.505938
     },
     "type": 5
   },
