@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4963931,
-      "longitude": 20.4041641
+      "latitude": 49.4962573,
+      "longitude": 20.4042065
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4965248,
-      "longitude": 20.4041193
+      "latitude": 49.4965905,
+      "longitude": 20.4041014
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075749,
-      "longitude": 21.0847955
+      "latitude": 50.0075729,
+      "longitude": 21.0846002
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075426,
-      "longitude": 21.0847773
+      "latitude": 50.0075524,
+      "longitude": 21.0846689
     },
     "type": 0
   },
@@ -1394,6 +1394,23 @@
     "type": 0
   },
   {
+    "address": "Rzeszowska, Cmolas",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.294003,
+      "longitude": 21.745156
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.2933275,
+      "longitude": 21.7455561
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Powstań Śląskich, Ruda Śląska",
     "credibility": 1,
     "description": "Fotoradar skierowany na zachód, Wiarygodność: 100%",
@@ -2017,8 +2034,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6870537,
-      "longitude": 19.132687
+      "latitude": 50.6870009,
+      "longitude": 19.1326513
     },
     "type": 0
   },
@@ -2873,23 +2890,6 @@
     "type": 0
   },
   {
-    "address": "",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.0624166,
-      "longitude": 19.3626811
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 51.0632717,
-      "longitude": 19.3632591
-    },
-    "type": 0
-  },
-  {
     "address": "Sarnów",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -3507,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594266,
-      "longitude": 20.624814
+      "latitude": 51.3594271,
+      "longitude": 20.6247729
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595953,
-      "longitude": 20.6239644
+      "latitude": 51.3596029,
+      "longitude": 20.623928
     },
     "type": 0
   },
@@ -5020,14 +5020,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1084737,
-      "longitude": 22.2994046
+      "latitude": 52.1082812,
+      "longitude": 22.2995111
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1080063,
-      "longitude": 22.2995308
+      "latitude": 52.1078917,
+      "longitude": 22.2995529
     },
     "type": 0
   },
@@ -5742,6 +5742,23 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
+    },
+    "type": 0
+  },
+  {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2357291,
+      "longitude": 21.0397108
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.236135,
+      "longitude": 21.0417021
     },
     "type": 0
   },
@@ -6822,14 +6839,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.627887,
-      "longitude": 16.8084771
+      "latitude": 52.6278685,
+      "longitude": 16.8084794
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6288651,
-      "longitude": 16.8084495
+      "latitude": 52.6288465,
+      "longitude": 16.8084509
     },
     "type": 0
   },
@@ -8607,14 +8624,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7100901,
-      "longitude": 17.2573128
+      "latitude": 53.7100964,
+      "longitude": 17.2573048
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7084426,
-      "longitude": 17.2604529
+      "latitude": 53.7084476,
+      "longitude": 17.2604431
     },
     "type": 0
   },
@@ -10472,6 +10489,40 @@
     "type": 4
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.355997,
+      "longitude": 18.725413
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3559806,
+      "longitude": 18.7254038
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.3735991,
+      "longitude": 18.7625769
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3737805,
+      "longitude": 18.7643072
+    },
+    "type": 4
+  },
+  {
     "address": "Ks. Łagockiego H., Nowa Dęba",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
@@ -11817,6 +11868,23 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.069515,
+      "longitude": 19.5353111
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 52.0690451,
+      "longitude": 19.5353973
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
@@ -12168,6 +12236,23 @@
       "isCity": false,
       "latitude": 52.2194788,
       "longitude": 20.8675885
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.220692,
+      "longitude": 19.470487
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2210962,
+      "longitude": 19.4699879
     },
     "type": 4
   },
@@ -14263,6 +14348,40 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.3560771,
+      "longitude": 18.725157
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3561753,
+      "longitude": 18.7252207
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.374125,
+      "longitude": 18.768843
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3737733,
+      "longitude": 18.7657413
+    },
+    "type": 5
+  },
+  {
     "address": "Ks. Łagockiego H., Nowa Dęba",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
@@ -15608,6 +15727,23 @@
   {
     "address": "",
     "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.068252,
+      "longitude": 19.5352009
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 52.0687772,
+      "longitude": 19.5351211
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
@@ -15959,6 +16095,23 @@
       "isCity": false,
       "latitude": 52.2204001,
       "longitude": 20.8683477
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.221687,
+      "longitude": 19.4696211
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2213709,
+      "longitude": 19.4700139
     },
     "type": 5
   },
