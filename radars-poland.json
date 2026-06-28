@@ -34,19 +34,19 @@
     "type": 0
   },
   {
-    "address": "Os. Michałki, Tylmanowa",
+    "address": "Os. Brodki, Tylmanowa",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4974783,
-      "longitude": 20.4038956
+      "latitude": 49.4964833,
+      "longitude": 20.4041781
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4961351,
-      "longitude": 20.4042297
+      "latitude": 49.4966023,
+      "longitude": 20.4040981
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075569,
-      "longitude": 21.084826
+      "latitude": 50.0075938,
+      "longitude": 21.0846641
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075554,
-      "longitude": 21.0846366
+      "latitude": 50.0075513,
+      "longitude": 21.0846815
     },
     "type": 0
   },
@@ -2040,23 +2040,6 @@
     "type": 0
   },
   {
-    "address": "Warszawska, Wanaty",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.687013,
-      "longitude": 19.1326858
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.6869916,
-      "longitude": 19.1326451
-    },
-    "type": 0
-  },
-  {
     "address": "Kwiatkowskiego E., Sandomierz",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -2070,6 +2053,23 @@
       "isCity": false,
       "latitude": 50.6870701,
       "longitude": 21.7547087
+    },
+    "type": 0
+  },
+  {
+    "address": "Warszawska, Wanaty",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.686993,
+      "longitude": 19.1327067
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.687102,
+      "longitude": 19.1325126
     },
     "type": 0
   },
@@ -3530,8 +3530,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596315,
-      "longitude": 20.6237919
+      "latitude": 51.3596415,
+      "longitude": 20.6237445
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1077566,
-      "longitude": 22.2995844
+      "latitude": 52.1077642,
+      "longitude": 22.2996011
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1077318,
-      "longitude": 22.2995839
+      "latitude": 52.1077362,
+      "longitude": 22.299583
     },
     "type": 0
   },
@@ -6352,8 +6352,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -6834,6 +6834,23 @@
     "type": 0
   },
   {
+    "address": "Obornicka, Bogdanowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.6287651,
+      "longitude": 16.8084811
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.6287667,
+      "longitude": 16.8084563
+    },
+    "type": 0
+  },
+  {
     "address": "Dzierzążnia",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6847,23 +6864,6 @@
       "isCity": false,
       "latitude": 52.6290393,
       "longitude": 20.2035341
-    },
-    "type": 0
-  },
-  {
-    "address": "Obornicka, Bogdanowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.6280626,
-      "longitude": 16.8084694
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.6290405,
-      "longitude": 16.8084376
     },
     "type": 0
   },
@@ -7922,19 +7922,19 @@
     "type": 0
   },
   {
-    "address": "Tywola",
+    "address": "Szabda",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2590718,
-      "longitude": 19.3528211
+      "latitude": 53.259079,
+      "longitude": 19.3528603
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592789,
-      "longitude": 19.3515589
+      "latitude": 53.2592598,
+      "longitude": 19.3516885
     },
     "type": 0
   },
@@ -8641,14 +8641,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.708638,
-      "longitude": 17.2601026
+      "latitude": 53.7086525,
+      "longitude": 17.2600622
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086241,
-      "longitude": 17.2601001
+      "latitude": 53.7086505,
+      "longitude": 17.2600487
     },
     "type": 0
   },
