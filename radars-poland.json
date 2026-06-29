@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4964833,
-      "longitude": 20.4041781
+      "latitude": 49.4967718,
+      "longitude": 20.4040485
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4966023,
-      "longitude": 20.4040981
+      "latitude": 49.4966432,
+      "longitude": 20.4040869
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075938,
-      "longitude": 21.0846641
+      "latitude": 50.0075812,
+      "longitude": 21.0849438
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075513,
-      "longitude": 21.0846815
+      "latitude": 50.0075496,
+      "longitude": 21.0847004
     },
     "type": 0
   },
@@ -2059,17 +2059,17 @@
   {
     "address": "Warszawska, Wanaty",
     "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.686993,
-      "longitude": 19.1327067
+      "latitude": 50.6886026,
+      "longitude": 19.1337711
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687102,
-      "longitude": 19.1325126
+      "latitude": 50.6871405,
+      "longitude": 19.1327454
     },
     "type": 0
   },
@@ -3524,14 +3524,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594748,
-      "longitude": 20.6244883
+      "latitude": 51.3596587,
+      "longitude": 20.6235799
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596415,
-      "longitude": 20.6237445
+      "latitude": 51.359627,
+      "longitude": 20.6238136
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1077642,
-      "longitude": 22.2996011
+      "latitude": 52.1077514,
+      "longitude": 22.2996006
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1077362,
-      "longitude": 22.299583
+      "latitude": 52.1078184,
+      "longitude": 22.2995671
     },
     "type": 0
   },
@@ -6839,14 +6839,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6287651,
-      "longitude": 16.8084811
+      "latitude": 52.6292747,
+      "longitude": 16.8084069
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6287667,
-      "longitude": 16.8084563
+      "latitude": 52.628782,
+      "longitude": 16.8084552
     },
     "type": 0
   },
@@ -7922,19 +7922,19 @@
     "type": 0
   },
   {
-    "address": "Szabda",
+    "address": "Tywola",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.259079,
-      "longitude": 19.3528603
+      "latitude": 53.2590948,
+      "longitude": 19.3527403
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592598,
-      "longitude": 19.3516885
+      "latitude": 53.2592772,
+      "longitude": 19.3515697
     },
     "type": 0
   },
@@ -7986,6 +7986,23 @@
       "isCity": false,
       "latitude": 53.2814304,
       "longitude": 15.5980736
+    },
+    "type": 0
+  },
+  {
+    "address": "Ostrowiec",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.2997466,
+      "longitude": 16.528767
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.2982208,
+      "longitude": 16.5279127
     },
     "type": 0
   },
@@ -8641,14 +8658,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086525,
-      "longitude": 17.2600622
+      "latitude": 53.7087215,
+      "longitude": 17.2599473
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086505,
-      "longitude": 17.2600487
+      "latitude": 53.7086529,
+      "longitude": 17.2600439
     },
     "type": 0
   },
