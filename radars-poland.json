@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4966432,
-      "longitude": 20.4040869
+      "latitude": 49.4966854,
+      "longitude": 20.4040754
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075812,
-      "longitude": 21.0849438
+      "latitude": 50.0075727,
+      "longitude": 21.0847516
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075496,
-      "longitude": 21.0847004
+      "latitude": 50.0075513,
+      "longitude": 21.0846819
     },
     "type": 0
   },
@@ -931,6 +931,23 @@
       "isCity": false,
       "latitude": 50.0712346,
       "longitude": 21.8425458
+    },
+    "type": 0
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.071472,
+      "longitude": 21.869159
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.0714707,
+      "longitude": 21.8688891
     },
     "type": 0
   },
@@ -2068,8 +2085,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871405,
-      "longitude": 19.1327454
+      "latitude": 50.687157,
+      "longitude": 19.1327565
     },
     "type": 0
   },
@@ -2442,8 +2459,25 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.8456237,
-      "longitude": 17.380491
+      "latitude": 50.845613,
+      "longitude": 17.3804994
+    },
+    "type": 0
+  },
+  {
+    "address": "Małujowice",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.8461721,
+      "longitude": 17.382204
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.8460083,
+      "longitude": 17.381698
     },
     "type": 0
   },
@@ -3524,14 +3558,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3596587,
-      "longitude": 20.6235799
+      "latitude": 51.3594736,
+      "longitude": 20.6245732
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359627,
-      "longitude": 20.6238136
+      "latitude": 51.3596492,
+      "longitude": 20.6237076
     },
     "type": 0
   },
@@ -5037,14 +5071,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1077514,
-      "longitude": 22.2996006
+      "latitude": 52.1075978,
+      "longitude": 22.2996488
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078184,
-      "longitude": 22.2995671
+      "latitude": 52.1078405,
+      "longitude": 22.2995628
     },
     "type": 0
   },
@@ -6834,23 +6868,6 @@
     "type": 0
   },
   {
-    "address": "Obornicka, Bogdanowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.6292747,
-      "longitude": 16.8084069
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.628782,
-      "longitude": 16.8084552
-    },
-    "type": 0
-  },
-  {
     "address": "Dzierzążnia",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6864,6 +6881,23 @@
       "isCity": false,
       "latitude": 52.6290393,
       "longitude": 20.2035341
+    },
+    "type": 0
+  },
+  {
+    "address": "Obornicka, Bogdanowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.6280667,
+      "longitude": 16.8084698
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.6290446,
+      "longitude": 16.8084373
     },
     "type": 0
   },
@@ -7922,19 +7956,19 @@
     "type": 0
   },
   {
-    "address": "Tywola",
+    "address": "Szabda",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2590948,
-      "longitude": 19.3527403
+      "latitude": 53.2590826,
+      "longitude": 19.3528018
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592772,
-      "longitude": 19.3515697
+      "latitude": 53.2592679,
+      "longitude": 19.3516318
     },
     "type": 0
   },
@@ -7995,14 +8029,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2997466,
-      "longitude": 16.528767
+      "latitude": 53.2996781,
+      "longitude": 16.5287208
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2982208,
-      "longitude": 16.5279127
+      "latitude": 53.298153,
+      "longitude": 16.527874
     },
     "type": 0
   },
@@ -8658,14 +8692,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087215,
-      "longitude": 17.2599473
+      "latitude": 53.7086889,
+      "longitude": 17.2599689
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086529,
-      "longitude": 17.2600439
+      "latitude": 53.7086802,
+      "longitude": 17.2599908
     },
     "type": 0
   },
@@ -10942,8 +10976,8 @@
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 50.9188831,
-      "longitude": 19.2194831
+      "latitude": 50.9186139,
+      "longitude": 19.2192259
     },
     "type": 4
   },
@@ -10999,23 +11033,6 @@
     "type": 4
   },
   {
-    "address": "",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na północ",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.021064,
-      "longitude": 19.3171259
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 51.0211751,
-      "longitude": 19.3172923
-    },
-    "type": 4
-  },
-  {
     "address": "Kąty Wrocławskie",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
@@ -11063,6 +11080,23 @@
       "isCity": false,
       "latitude": 51.0367832,
       "longitude": 16.8805818
+    },
+    "type": 4
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na północ",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.063248,
+      "longitude": 19.363244
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.063657,
+      "longitude": 19.3635045
     },
     "type": 4
   },
@@ -11174,14 +11208,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 51.240358,
-      "longitude": 19.520483
+      "latitude": 51.2381031,
+      "longitude": 19.5187702
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.240349,
-      "longitude": 19.5204762
+      "latitude": 51.2376618,
+      "longitude": 19.5184091
     },
     "type": 4
   },
@@ -11395,14 +11429,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 51.389535,
-      "longitude": 19.6279909
+      "latitude": 51.393007,
+      "longitude": 19.6292679
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.3900997,
-      "longitude": 19.6281939
+      "latitude": 51.3937938,
+      "longitude": 19.6295109
     },
     "type": 4
   },
@@ -14835,8 +14869,8 @@
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 50.9189613,
-      "longitude": 19.2193095
+      "latitude": 50.9205083,
+      "longitude": 19.2207617
     },
     "type": 5
   },
@@ -14871,23 +14905,6 @@
       "isCity": false,
       "latitude": 50.9542636,
       "longitude": 20.706953
-    },
-    "type": 5
-  },
-  {
-    "address": "",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na południe",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.015182,
-      "longitude": 19.3093041
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 51.0149952,
-      "longitude": 19.3090756
     },
     "type": 5
   },
@@ -14956,6 +14973,23 @@
       "isCity": false,
       "latitude": 51.0366729,
       "longitude": 16.8806755
+    },
+    "type": 5
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.064172,
+      "longitude": 19.3640429
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.0637882,
+      "longitude": 19.3637922
     },
     "type": 5
   },
@@ -15067,14 +15101,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na północ",
     "direction": {
       "isCity": false,
-      "latitude": 51.238843,
-      "longitude": 19.519115
+      "latitude": 51.237188,
+      "longitude": 19.517805
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.2395364,
-      "longitude": 19.5196415
+      "latitude": 51.23779,
+      "longitude": 19.5183002
     },
     "type": 5
   },
@@ -15294,8 +15328,8 @@
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.3902197,
-      "longitude": 19.6284797
+      "latitude": 51.3909662,
+      "longitude": 19.6287484
     },
     "type": 5
   },
