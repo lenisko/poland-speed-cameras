@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4966854,
-      "longitude": 20.4040754
+      "latitude": 49.496728,
+      "longitude": 20.4040637
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075727,
-      "longitude": 21.0847516
+      "latitude": 50.007567,
+      "longitude": 21.0848565
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075513,
-      "longitude": 21.0846819
+      "latitude": 50.0075418,
+      "longitude": 21.0847862
     },
     "type": 0
   },
@@ -2079,14 +2079,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6886026,
-      "longitude": 19.1337711
+      "latitude": 50.6886464,
+      "longitude": 19.133797
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687157,
-      "longitude": 19.1327565
+      "latitude": 50.6871426,
+      "longitude": 19.1327468
     },
     "type": 0
   },
@@ -2444,23 +2444,6 @@
       "isCity": false,
       "latitude": 50.8439213,
       "longitude": 16.4689204
-    },
-    "type": 0
-  },
-  {
-    "address": "Małujowice",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.845902,
-      "longitude": 17.3813699
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.845613,
-      "longitude": 17.3804994
     },
     "type": 0
   },
@@ -3558,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594736,
-      "longitude": 20.6245732
+      "latitude": 51.3594591,
+      "longitude": 20.6245136
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596492,
-      "longitude": 20.6237076
+      "latitude": 51.3596442,
+      "longitude": 20.6237312
     },
     "type": 0
   },
@@ -5071,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1075978,
-      "longitude": 22.2996488
+      "latitude": 52.109194,
+      "longitude": 22.2993358
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078405,
-      "longitude": 22.2995628
+      "latitude": 52.1078149,
+      "longitude": 22.2995678
     },
     "type": 0
   },
@@ -5408,7 +5391,7 @@
   {
     "address": "Sochaczewska, Błonie-Wieś",
     "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
       "latitude": 52.199733,
@@ -5417,8 +5400,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1997066,
-      "longitude": 20.5884289
+      "latitude": 52.1996959,
+      "longitude": 20.5886704
     },
     "type": 0
   },
@@ -6890,14 +6873,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.6280667,
-      "longitude": 16.8084698
+      "latitude": 52.6280726,
+      "longitude": 16.8084687
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.6290446,
-      "longitude": 16.8084373
+      "latitude": 52.6290506,
+      "longitude": 16.8084369
     },
     "type": 0
   },
@@ -7956,19 +7939,19 @@
     "type": 0
   },
   {
-    "address": "Szabda",
+    "address": "Tywola",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2590826,
-      "longitude": 19.3528018
+      "latitude": 53.259092,
+      "longitude": 19.3527433
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592679,
-      "longitude": 19.3516318
+      "latitude": 53.2592766,
+      "longitude": 19.3515737
     },
     "type": 0
   },
@@ -8692,14 +8675,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086889,
-      "longitude": 17.2599689
+      "latitude": 53.7074013,
+      "longitude": 17.2624713
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086802,
-      "longitude": 17.2599908
+      "latitude": 53.7090321,
+      "longitude": 17.2593068
     },
     "type": 0
   },
@@ -13452,14 +13435,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
-      "latitude": 54.20243,
-      "longitude": 15.9285021
+      "latitude": 54.202395,
+      "longitude": 15.919547
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 54.2024311,
-      "longitude": 15.9280922
+      "latitude": 54.2023746,
+      "longitude": 15.9190189
     },
     "type": 4
   },
