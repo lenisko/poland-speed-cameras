@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.496728,
-      "longitude": 20.4040637
+      "latitude": 49.4968712,
+      "longitude": 20.4040246
     },
     "type": 0
   },
@@ -742,8 +742,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075418,
-      "longitude": 21.0847862
+      "latitude": 50.0075501,
+      "longitude": 21.084695
     },
     "type": 0
   },
@@ -2079,14 +2079,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6886464,
-      "longitude": 19.133797
+      "latitude": 50.6886026,
+      "longitude": 19.1337711
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871426,
-      "longitude": 19.1327468
+      "latitude": 50.6872304,
+      "longitude": 19.1328059
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594591,
-      "longitude": 20.6245136
+      "latitude": 51.3594953,
+      "longitude": 20.6243587
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596442,
-      "longitude": 20.6237312
+      "latitude": 51.3596624,
+      "longitude": 20.6236447
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.109194,
-      "longitude": 22.2993358
+      "latitude": 52.1090086,
+      "longitude": 22.299378
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078149,
-      "longitude": 22.2995678
+      "latitude": 52.1077884,
+      "longitude": 22.2995729
     },
     "type": 0
   },
@@ -6851,6 +6851,23 @@
     "type": 0
   },
   {
+    "address": "Obornicka, Bogdanowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.629137,
+      "longitude": 16.8084309
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.6282429,
+      "longitude": 16.8084922
+    },
+    "type": 0
+  },
+  {
     "address": "Dzierzążnia",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -6864,23 +6881,6 @@
       "isCity": false,
       "latitude": 52.6290393,
       "longitude": 20.2035341
-    },
-    "type": 0
-  },
-  {
-    "address": "Obornicka, Bogdanowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.6280726,
-      "longitude": 16.8084687
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.6290506,
-      "longitude": 16.8084369
     },
     "type": 0
   },
@@ -7944,14 +7944,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.259092,
-      "longitude": 19.3527433
+      "latitude": 53.2590899,
+      "longitude": 19.3526545
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592766,
-      "longitude": 19.3515737
+      "latitude": 53.2593045,
+      "longitude": 19.3513955
     },
     "type": 0
   },
@@ -8012,14 +8012,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2996781,
-      "longitude": 16.5287208
+      "latitude": 53.2996279,
+      "longitude": 16.5286954
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.298153,
-      "longitude": 16.527874
+      "latitude": 53.298101,
+      "longitude": 16.5278456
     },
     "type": 0
   },
@@ -8675,14 +8675,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7074013,
-      "longitude": 17.2624713
+      "latitude": 53.7086979,
+      "longitude": 17.2600115
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7090321,
-      "longitude": 17.2593068
+      "latitude": 53.708729,
+      "longitude": 17.2598961
     },
     "type": 0
   },
