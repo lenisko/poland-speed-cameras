@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968712,
-      "longitude": 20.4040246
+      "latitude": 49.4969271,
+      "longitude": 20.4040093
     },
     "type": 0
   },
@@ -742,8 +742,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075501,
-      "longitude": 21.084695
+      "latitude": 50.0075419,
+      "longitude": 21.0847855
     },
     "type": 0
   },
@@ -2085,8 +2085,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872304,
-      "longitude": 19.1328059
+      "latitude": 50.6872189,
+      "longitude": 19.1327982
     },
     "type": 0
   },
@@ -3547,8 +3547,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596624,
-      "longitude": 20.6236447
+      "latitude": 51.3596664,
+      "longitude": 20.6236254
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1090086,
-      "longitude": 22.299378
+      "latitude": 52.107879,
+      "longitude": 22.2995268
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1077884,
-      "longitude": 22.2995729
+      "latitude": 52.1077334,
+      "longitude": 22.2995835
     },
     "type": 0
   },
@@ -5780,6 +5780,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2358121,
+      "longitude": 21.0401193
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2361573,
+      "longitude": 21.0418094
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6369,8 +6386,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -7944,14 +7961,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2590899,
-      "longitude": 19.3526545
+      "latitude": 53.2591124,
+      "longitude": 19.3524986
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2593045,
-      "longitude": 19.3513955
+      "latitude": 53.2593287,
+      "longitude": 19.3512404
     },
     "type": 0
   },
@@ -8675,14 +8692,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086979,
-      "longitude": 17.2600115
+      "latitude": 53.7086333,
+      "longitude": 17.2600953
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708729,
-      "longitude": 17.2598961
+      "latitude": 53.7087607,
+      "longitude": 17.2598343
     },
     "type": 0
   },
@@ -9006,6 +9023,23 @@
       "isCity": false,
       "latitude": 53.931948,
       "longitude": 18.7582529
+    },
+    "type": 0
+  },
+  {
+    "address": "Miradowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.9325451,
+      "longitude": 18.3803366
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.9325605,
+      "longitude": 18.3806627
     },
     "type": 0
   },
