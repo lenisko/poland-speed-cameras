@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4972269,
-      "longitude": 20.403951
+      "latitude": 49.4964969,
+      "longitude": 20.4041639
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968327,
-      "longitude": 20.4040351
+      "latitude": 49.4963744,
+      "longitude": 20.4041604
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075851,
-      "longitude": 21.0846462
+      "latitude": 50.0075641,
+      "longitude": 21.0847925
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075518,
-      "longitude": 21.0846762
+      "latitude": 50.0075403,
+      "longitude": 21.0848029
     },
     "type": 0
   },
@@ -2079,14 +2079,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6877474,
-      "longitude": 19.1332083
+      "latitude": 50.6875996,
+      "longitude": 19.1330939
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872226,
-      "longitude": 19.1328007
+      "latitude": 50.6872354,
+      "longitude": 19.1328093
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594701,
-      "longitude": 20.6245256
+      "latitude": 51.3594119,
+      "longitude": 20.6247153
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359645,
-      "longitude": 20.6237276
+      "latitude": 51.3596469,
+      "longitude": 20.6237183
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1089428,
-      "longitude": 22.2994034
+      "latitude": 52.107594,
+      "longitude": 22.2996263
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078044,
-      "longitude": 22.2995698
+      "latitude": 52.1078438,
+      "longitude": 22.2995622
     },
     "type": 0
   },
@@ -5776,23 +5776,6 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
-    },
-    "type": 0
-  },
-  {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2357109,
-      "longitude": 21.0396494
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2361217,
-      "longitude": 21.0416379
     },
     "type": 0
   },
@@ -7956,19 +7939,19 @@
     "type": 0
   },
   {
-    "address": "Szabda",
+    "address": "Tywola",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2592977,
-      "longitude": 19.35144
+      "latitude": 53.2592671,
+      "longitude": 19.3515033
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592674,
-      "longitude": 19.3516351
+      "latitude": 53.2592767,
+      "longitude": 19.3515734
     },
     "type": 0
   },
@@ -8029,14 +8012,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2995258,
-      "longitude": 16.5286413
+      "latitude": 53.2990754,
+      "longitude": 16.5284163
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2979992,
-      "longitude": 16.5277902
+      "latitude": 53.2978589,
+      "longitude": 16.5277136
     },
     "type": 0
   },
@@ -8692,14 +8675,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.707354,
-      "longitude": 17.26256
+      "latitude": 53.7073541,
+      "longitude": 17.2625625
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7089857,
-      "longitude": 17.259397
+      "latitude": 53.708985,
+      "longitude": 17.2593984
     },
     "type": 0
   },
@@ -9032,7 +9015,7 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.9325262,
+      "latitude": 53.9325273,
       "longitude": 18.3789689
     },
     "iconId": "2311",
@@ -12712,23 +12695,6 @@
       "isCity": false,
       "latitude": 52.6746515,
       "longitude": 14.9119428
-    },
-    "type": 4
-  },
-  {
-    "address": "Gorzowska, Białcz",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.6767971,
-      "longitude": 14.9599606
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 52.6768126,
-      "longitude": 14.9602833
     },
     "type": 4
   },
@@ -16614,14 +16580,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
-      "latitude": 52.676828,
-      "longitude": 14.960606
+      "latitude": 52.676736,
+      "longitude": 14.958684
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 52.6768126,
-      "longitude": 14.9602833
+      "latitude": 52.6766628,
+      "longitude": 14.9571751
     },
     "type": 5
   },
@@ -17765,6 +17731,40 @@
     "type": 7
   },
   {
+    "address": "Targowisko",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.972019,
+      "longitude": 20.2977281
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 49.971661,
+      "longitude": 20.2992279
+    },
+    "type": 7
+  },
+  {
+    "address": "Targowisko",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.971661,
+      "longitude": 20.2992279
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 49.9718153,
+      "longitude": 20.2991949
+    },
+    "type": 7
+  },
+  {
     "address": "Górnośląska, Pszczyna",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
@@ -18492,6 +18492,23 @@
       "isCity": false,
       "latitude": 50.5768506,
       "longitude": 22.0621298
+    },
+    "type": 7
+  },
+  {
+    "address": "",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.67458,
+      "longitude": 18.649161
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.6746234,
+      "longitude": 18.6491602
     },
     "type": 7
   },
