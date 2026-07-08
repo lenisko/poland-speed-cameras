@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4964969,
-      "longitude": 20.4041639
+      "latitude": 49.4976822,
+      "longitude": 20.4038405
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4963744,
-      "longitude": 20.4041604
+      "latitude": 49.496339,
+      "longitude": 20.4041701
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075641,
-      "longitude": 21.0847925
+      "latitude": 50.0075025,
+      "longitude": 21.0855475
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075403,
-      "longitude": 21.0848029
+      "latitude": 50.0075409,
+      "longitude": 21.0847959
     },
     "type": 0
   },
@@ -2079,14 +2079,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6875996,
-      "longitude": 19.1330939
+      "latitude": 50.6877474,
+      "longitude": 19.1332083
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872354,
-      "longitude": 19.1328093
+      "latitude": 50.687413,
+      "longitude": 19.132929
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594119,
-      "longitude": 20.6247153
+      "latitude": 51.3594443,
+      "longitude": 20.6246576
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596469,
-      "longitude": 20.6237183
+      "latitude": 51.3596367,
+      "longitude": 20.623767
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.107594,
-      "longitude": 22.2996263
+      "latitude": 52.1087004,
+      "longitude": 22.2994519
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078438,
-      "longitude": 22.2995622
+      "latitude": 52.1077656,
+      "longitude": 22.2995773
     },
     "type": 0
   },
@@ -5780,6 +5780,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2357077,
+      "longitude": 21.0396342
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2361186,
+      "longitude": 21.0416228
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6167,6 +6184,23 @@
       "isCity": false,
       "latitude": 52.3209953,
       "longitude": 15.6825787
+    },
+    "type": 0
+  },
+  {
+    "address": "Gen. Sikorskiego, Boczów",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.322595,
+      "longitude": 14.9428789
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.3225326,
+      "longitude": 14.9437116
     },
     "type": 0
   },
@@ -7944,14 +7978,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2592671,
-      "longitude": 19.3515033
+      "latitude": 53.25947,
+      "longitude": 19.3503369
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2592767,
-      "longitude": 19.3515734
+      "latitude": 53.2592975,
+      "longitude": 19.3514402
     },
     "type": 0
   },
@@ -8012,8 +8046,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2990754,
-      "longitude": 16.5284163
+      "latitude": 53.299385,
+      "longitude": 16.5285677
     },
     "iconId": "2311",
     "position": {
@@ -8675,14 +8709,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7073541,
-      "longitude": 17.2625625
+      "latitude": 53.7073303,
+      "longitude": 17.2626095
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708985,
-      "longitude": 17.2593984
+      "latitude": 53.708961,
+      "longitude": 17.259445
     },
     "type": 0
   },
@@ -9015,14 +9049,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.9325273,
-      "longitude": 18.3789689
+      "latitude": 53.932595,
+      "longitude": 18.3824661
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.9325662,
-      "longitude": 18.3809589
+      "latitude": 53.9325658,
+      "longitude": 18.3809381
     },
     "type": 0
   },
@@ -12678,23 +12712,6 @@
       "isCity": false,
       "latitude": 52.6048598,
       "longitude": 21.4956769
-    },
-    "type": 4
-  },
-  {
-    "address": "Gorzowska, Witnica",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.674672,
-      "longitude": 14.9125539
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 52.6746515,
-      "longitude": 14.9119428
     },
     "type": 4
   },
@@ -16554,40 +16571,6 @@
       "isCity": false,
       "latitude": 52.6048458,
       "longitude": 21.4958495
-    },
-    "type": 5
-  },
-  {
-    "address": "Gorzowska, Witnica",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.674631,
-      "longitude": 14.9113316
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 52.6746515,
-      "longitude": 14.9119428
-    },
-    "type": 5
-  },
-  {
-    "address": "Gorzowska, Białcz",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.676736,
-      "longitude": 14.958684
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 52.6766628,
-      "longitude": 14.9571751
     },
     "type": 5
   },
