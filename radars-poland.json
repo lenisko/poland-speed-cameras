@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4976822,
-      "longitude": 20.4038405
+      "latitude": 49.4976535,
+      "longitude": 20.4038501
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.496339,
-      "longitude": 20.4041701
+      "latitude": 49.49631,
+      "longitude": 20.404178
     },
     "type": 0
   },
@@ -736,14 +736,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075025,
-      "longitude": 21.0855475
+      "latitude": 50.0075035,
+      "longitude": 21.0855433
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075409,
-      "longitude": 21.0847959
+      "latitude": 50.0075327,
+      "longitude": 21.0848866
     },
     "type": 0
   },
@@ -2079,14 +2079,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6877474,
-      "longitude": 19.1332083
+      "latitude": 50.6878418,
+      "longitude": 19.133277
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.687413,
-      "longitude": 19.132929
+      "latitude": 50.6873694,
+      "longitude": 19.1328996
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594443,
-      "longitude": 20.6246576
+      "latitude": 51.3594796,
+      "longitude": 20.6244606
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596367,
-      "longitude": 20.623767
+      "latitude": 51.3596348,
+      "longitude": 20.6237761
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1087004,
-      "longitude": 22.2994519
+      "latitude": 52.1087493,
+      "longitude": 22.2994172
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1077656,
-      "longitude": 22.2995773
+      "latitude": 52.1077604,
+      "longitude": 22.2995783
     },
     "type": 0
   },
@@ -5780,23 +5780,6 @@
     "type": 0
   },
   {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2357077,
-      "longitude": 21.0396342
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2361186,
-      "longitude": 21.0416228
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6199,6 +6182,23 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
+      "latitude": 52.3224915,
+      "longitude": 14.9442593
+    },
+    "type": 0
+  },
+  {
+    "address": "Gen. Sikorskiego, Boczów",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.322595,
+      "longitude": 14.9428789
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
       "latitude": 52.3225326,
       "longitude": 14.9437116
     },
@@ -6403,8 +6403,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -8709,14 +8709,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7073303,
-      "longitude": 17.2626095
+      "latitude": 53.7087434,
+      "longitude": 17.2598897
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708961,
-      "longitude": 17.259445
+      "latitude": 53.7087343,
+      "longitude": 17.2598858
     },
     "type": 0
   },
