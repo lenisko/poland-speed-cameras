@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4976535,
-      "longitude": 20.4038501
+      "latitude": 49.4969418,
+      "longitude": 20.4040261
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.49631,
-      "longitude": 20.404178
+      "latitude": 49.4969216,
+      "longitude": 20.4040108
     },
     "type": 0
   },
@@ -742,8 +742,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075327,
-      "longitude": 21.0848866
+      "latitude": 50.0075406,
+      "longitude": 21.084799
     },
     "type": 0
   },
@@ -2085,8 +2085,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873694,
-      "longitude": 19.1328996
+      "latitude": 50.6872863,
+      "longitude": 19.1328436
     },
     "type": 0
   },
@@ -3547,8 +3547,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596348,
-      "longitude": 20.6237761
+      "latitude": 51.3596397,
+      "longitude": 20.6237528
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1087493,
-      "longitude": 22.2994172
+      "latitude": 52.1090973,
+      "longitude": 22.2993361
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1077604,
-      "longitude": 22.2995783
+      "latitude": 52.1077664,
+      "longitude": 22.2995772
     },
     "type": 0
   },
@@ -6936,6 +6936,23 @@
     "type": 0
   },
   {
+    "address": "Bolemin",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.6415534,
+      "longitude": 15.2519218
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.6418973,
+      "longitude": 15.2520864
+    },
+    "type": 0
+  },
+  {
     "address": "Wiślana, Modzerowo",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -8046,14 +8063,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.299385,
-      "longitude": 16.5285677
+      "latitude": 53.299222,
+      "longitude": 16.5284807
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2978589,
-      "longitude": 16.5277136
+      "latitude": 53.2976962,
+      "longitude": 16.5276249
     },
     "type": 0
   },
@@ -8709,14 +8726,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087434,
-      "longitude": 17.2598897
+      "latitude": 53.7087816,
+      "longitude": 17.2598337
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087343,
-      "longitude": 17.2598858
+      "latitude": 53.7087121,
+      "longitude": 17.259929
     },
     "type": 0
   },
