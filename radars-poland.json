@@ -45,8 +45,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4967256,
-      "longitude": 20.4040644
+      "latitude": 49.4966897,
+      "longitude": 20.4040742
     },
     "type": 0
   },
@@ -370,6 +370,23 @@
       "isCity": false,
       "latitude": 49.8544053,
       "longitude": 19.9141206
+    },
+    "type": 0
+  },
+  {
+    "address": "Jawornik",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.854969,
+      "longitude": 19.913589
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 49.8545729,
+      "longitude": 19.9141125
     },
     "type": 0
   },
@@ -753,14 +770,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0074559,
-      "longitude": 21.0856682
+      "latitude": 50.0074723,
+      "longitude": 21.0854285
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075155,
-      "longitude": 21.0850759
+      "latitude": 50.0075107,
+      "longitude": 21.0851285
     },
     "type": 0
   },
@@ -2096,14 +2113,14 @@
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6870092,
-      "longitude": 19.1327029
+      "latitude": 50.6870026,
+      "longitude": 19.1327248
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872227,
-      "longitude": 19.1325946
+      "latitude": 50.6872716,
+      "longitude": 19.1326279
     },
     "type": 0
   },
@@ -3558,14 +3575,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.35946,
-      "longitude": 20.624742
+      "latitude": 51.3594614,
+      "longitude": 20.6248498
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596111,
-      "longitude": 20.6238889
+      "latitude": 51.3596234,
+      "longitude": 20.6238303
     },
     "type": 0
   },
@@ -4221,13 +4238,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7439835,
-      "longitude": 15.1824749
+      "latitude": 51.7442256,
+      "longitude": 15.1825
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7431444,
+      "latitude": 51.7430426,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5088,14 +5105,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1075854,
-      "longitude": 22.2996172
+      "latitude": 52.1079569,
+      "longitude": 22.2995448
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1077743,
-      "longitude": 22.2995757
+      "latitude": 52.1078031,
+      "longitude": 22.29957
     },
     "type": 0
   },
@@ -5814,6 +5831,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2360951,
+      "longitude": 21.0413279
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2361516,
+      "longitude": 21.0417819
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6437,8 +6471,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -8097,14 +8131,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2991347,
-      "longitude": 16.528432
+      "latitude": 53.2990225,
+      "longitude": 16.528372
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2976088,
-      "longitude": 16.5275773
+      "latitude": 53.2974968,
+      "longitude": 16.5275162
     },
     "type": 0
   },
@@ -8760,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7102231,
-      "longitude": 17.2570683
+      "latitude": 53.7089854,
+      "longitude": 17.2594111
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7085714,
-      "longitude": 17.2602023
+      "latitude": 53.7087967,
+      "longitude": 17.2597646
     },
     "type": 0
   },
@@ -9856,23 +9890,6 @@
       "isCity": false,
       "latitude": 54.6043287,
       "longitude": 18.1555756
-    },
-    "type": 0
-  },
-  {
-    "address": "Ofiar Piaśnicy, Wejherowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.6157951,
-      "longitude": 18.2232961
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 54.6160235,
-      "longitude": 18.2230585
     },
     "type": 0
   },
@@ -15135,14 +15152,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na południe",
     "direction": {
       "isCity": false,
-      "latitude": 51.192017,
-      "longitude": 19.4732421
+      "latitude": 51.19318,
+      "longitude": 19.4736769
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 51.1913135,
-      "longitude": 19.4729847
+      "latitude": 51.1930969,
+      "longitude": 19.4736458
     },
     "type": 5
   },
