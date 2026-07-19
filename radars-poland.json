@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4963317,
-      "longitude": 20.404155
+      "latitude": 49.4961718,
+      "longitude": 20.4042264
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4966772,
-      "longitude": 20.4040776
+      "latitude": 49.4966373,
+      "longitude": 20.4040885
     },
     "type": 0
   },
@@ -776,8 +776,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075148,
-      "longitude": 21.0850829
+      "latitude": 50.007519,
+      "longitude": 21.0850369
     },
     "type": 0
   },
@@ -2110,17 +2110,17 @@
   {
     "address": "Warszawska, Wanaty",
     "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6870026,
-      "longitude": 19.1327248
+      "latitude": 50.6875796,
+      "longitude": 19.1330854
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6873141,
-      "longitude": 19.1326568
+      "latitude": 50.687213,
+      "longitude": 19.1327942
     },
     "type": 0
   },
@@ -3575,14 +3575,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594614,
-      "longitude": 20.6248498
+      "latitude": 51.35946,
+      "longitude": 20.624742
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596203,
-      "longitude": 20.623845
+      "latitude": 51.3596206,
+      "longitude": 20.6238437
     },
     "type": 0
   },
@@ -4238,13 +4238,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7436212,
-      "longitude": 15.1824997
+      "latitude": 51.7437426,
+      "longitude": 15.1825101
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.743362,
+      "latitude": 51.7432989,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5105,14 +5105,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1078501,
-      "longitude": 22.2995734
+      "latitude": 52.1079412,
+      "longitude": 22.2995677
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078341,
-      "longitude": 22.2995641
+      "latitude": 52.107885,
+      "longitude": 22.2995542
     },
     "type": 0
   },
@@ -5827,23 +5827,6 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
-    },
-    "type": 0
-  },
-  {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2356516,
-      "longitude": 21.0393317
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2359943,
-      "longitude": 21.041023
     },
     "type": 0
   },
@@ -8131,14 +8114,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2989308,
-      "longitude": 16.5283193
+      "latitude": 53.2987504,
+      "longitude": 16.5282287
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2974046,
-      "longitude": 16.527466
+      "latitude": 53.2972256,
+      "longitude": 16.5273684
     },
     "type": 0
   },
@@ -8794,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088232,
-      "longitude": 17.2596941
+      "latitude": 53.7102726,
+      "longitude": 17.2569598
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088146,
-      "longitude": 17.2597295
+      "latitude": 53.7086246,
+      "longitude": 17.2600991
     },
     "type": 0
   },
