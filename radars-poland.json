@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.496365,
-      "longitude": 20.4041469
+      "latitude": 49.497155,
+      "longitude": 20.4039729
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968089,
-      "longitude": 20.4040416
+      "latitude": 49.4968651,
+      "longitude": 20.4040263
     },
     "type": 0
   },
@@ -770,14 +770,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075791,
-      "longitude": 21.0846631
+      "latitude": 50.0075549,
+      "longitude": 21.0848616
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075266,
-      "longitude": 21.0849532
+      "latitude": 50.0075282,
+      "longitude": 21.0849361
     },
     "type": 0
   },
@@ -2119,8 +2119,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6872986,
-      "longitude": 19.1328519
+      "latitude": 50.6873914,
+      "longitude": 19.1329144
     },
     "type": 0
   },
@@ -3575,14 +3575,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594447,
-      "longitude": 20.62479
+      "latitude": 51.3594406,
+      "longitude": 20.6248182
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359611,
-      "longitude": 20.6238898
+      "latitude": 51.3596074,
+      "longitude": 20.6239069
     },
     "type": 0
   },
@@ -4244,8 +4244,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7435087,
-      "longitude": 15.1824402
+      "latitude": 51.7435456,
+      "longitude": 15.1824393
     },
     "type": 0
   },
@@ -5111,8 +5111,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1079286,
-      "longitude": 22.2995458
+      "latitude": 52.1078925,
+      "longitude": 22.2995528
     },
     "type": 0
   },
@@ -5827,6 +5827,23 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
+    },
+    "type": 0
+  },
+  {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2358019,
+      "longitude": 21.0400896
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.236213,
+      "longitude": 21.0420781
     },
     "type": 0
   },
@@ -8114,14 +8131,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2978071,
-      "longitude": 16.5277109
+      "latitude": 53.297757,
+      "longitude": 16.5276807
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.297698,
-      "longitude": 16.5276259
+      "latitude": 53.2977118,
+      "longitude": 16.5276334
     },
     "type": 0
   },
@@ -8777,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.710298,
-      "longitude": 17.2569178
+      "latitude": 53.7088141,
+      "longitude": 17.2598067
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086478,
-      "longitude": 17.2600539
+      "latitude": 53.7088243,
+      "longitude": 17.2597108
     },
     "type": 0
   },
@@ -9873,6 +9890,23 @@
       "isCity": false,
       "latitude": 54.6043287,
       "longitude": 18.1555756
+    },
+    "type": 0
+  },
+  {
+    "address": "Ofiar Piaśnicy, Wejherowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.6131974,
+      "longitude": 18.2262895
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 54.6160556,
+      "longitude": 18.2230215
     },
     "type": 0
   },
