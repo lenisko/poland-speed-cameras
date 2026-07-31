@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4966127,
-      "longitude": 20.4041234
+      "latitude": 49.497009,
+      "longitude": 20.4039818
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4964912,
-      "longitude": 20.4041284
+      "latitude": 49.4969568,
+      "longitude": 20.4040012
     },
     "type": 0
   },
@@ -770,14 +770,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0076096,
-      "longitude": 21.0843065
+      "latitude": 50.0076143,
+      "longitude": 21.0842546
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.007569,
-      "longitude": 21.0844868
+      "latitude": 50.007574,
+      "longitude": 21.0844321
     },
     "type": 0
   },
@@ -2119,8 +2119,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6875701,
-      "longitude": 19.1330363
+      "latitude": 50.6875301,
+      "longitude": 19.133009
     },
     "type": 0
   },
@@ -3558,14 +3558,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3596418,
-      "longitude": 20.6238382
+      "latitude": 51.3593991,
+      "longitude": 20.6249573
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595368,
-      "longitude": 20.624264
+      "latitude": 51.3595813,
+      "longitude": 20.6240345
     },
     "type": 0
   },
@@ -5088,14 +5088,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1078463,
-      "longitude": 22.2995906
+      "latitude": 52.1103734,
+      "longitude": 22.2990951
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1078437,
-      "longitude": 22.2995623
+      "latitude": 52.1077248,
+      "longitude": 22.2995852
     },
     "type": 0
   },
@@ -8103,8 +8103,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2978981,
-      "longitude": 16.527735
+      "latitude": 53.2979097,
+      "longitude": 16.5277414
     },
     "type": 0
   },
@@ -8522,14 +8522,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5593974,
-      "longitude": 20.9897931
+      "latitude": 53.5594324,
+      "longitude": 20.9898395
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5601517,
-      "longitude": 20.9907662
+      "latitude": 53.560187,
+      "longitude": 20.990812
     },
     "type": 0
   },
@@ -8777,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7073117,
-      "longitude": 17.2626449
+      "latitude": 53.7073395,
+      "longitude": 17.2626002
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7089426,
-      "longitude": 17.2594808
+      "latitude": 53.7089677,
+      "longitude": 17.259432
     },
     "type": 0
   },
@@ -9882,14 +9882,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 54.6158743,
-      "longitude": 18.2232223
+      "latitude": 54.6158009,
+      "longitude": 18.2233091
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 54.6159319,
-      "longitude": 18.2231642
+      "latitude": 54.6159261,
+      "longitude": 18.2231709
     },
     "type": 0
   },
@@ -18428,23 +18428,6 @@
     "type": 7
   },
   {
-    "address": "Mickiewicza A., Pyskowice",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.397057,
-      "longitude": 18.6172859
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 50.3969956,
-      "longitude": 18.6171487
-    },
-    "type": 7
-  },
-  {
     "address": "Toszecka, Pyskowice",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
@@ -18456,8 +18439,25 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 50.3970643,
-      "longitude": 18.6179452
+      "latitude": 50.396972,
+      "longitude": 18.6180533
+    },
+    "type": 7
+  },
+  {
+    "address": "Mickiewicza A., Pyskowice",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.397129,
+      "longitude": 18.6174421
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3970686,
+      "longitude": 18.617311
     },
     "type": 7
   },
@@ -18473,8 +18473,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 50.3973476,
-      "longitude": 18.6179454
+      "latitude": 50.3974806,
+      "longitude": 18.6182368
     },
     "type": 7
   },
@@ -18484,14 +18484,14 @@
     "description": "Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.398403,
-      "longitude": 18.616419
+      "latitude": 50.397248,
+      "longitude": 18.6177301
     },
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 50.3973683,
-      "longitude": 18.6175936
+      "latitude": 50.3975307,
+      "longitude": 18.6174093
     },
     "type": 7
   },
