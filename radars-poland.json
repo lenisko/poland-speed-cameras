@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4966914,
-      "longitude": 20.4040842
+      "latitude": 49.496365,
+      "longitude": 20.4041925
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4967594,
-      "longitude": 20.4040552
+      "latitude": 49.4962433,
+      "longitude": 20.4041973
     },
     "type": 0
   },
@@ -770,14 +770,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.007519,
-      "longitude": 21.0851568
+      "latitude": 50.0076084,
+      "longitude": 21.0843079
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075915,
-      "longitude": 21.0842627
+      "latitude": 50.0075772,
+      "longitude": 21.0844009
     },
     "type": 0
   },
@@ -2113,14 +2113,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6886111,
-      "longitude": 19.1337835
+      "latitude": 50.6887008,
+      "longitude": 19.1338456
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6875281,
-      "longitude": 19.1330076
+      "latitude": 50.6875146,
+      "longitude": 19.1329984
     },
     "type": 0
   },
@@ -3558,14 +3558,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593322,
-      "longitude": 20.6252625
+      "latitude": 51.359331,
+      "longitude": 20.6252686
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359568,
-      "longitude": 20.6241032
+      "latitude": 51.3595496,
+      "longitude": 20.6241981
     },
     "type": 0
   },
@@ -3668,23 +3668,6 @@
       "isCity": false,
       "latitude": 51.4194018,
       "longitude": 21.0772247
-    },
-    "type": 0
-  },
-  {
-    "address": "Wilczowola",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.423584,
-      "longitude": 21.6088751
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 51.423068,
-      "longitude": 21.6088037
     },
     "type": 0
   },
@@ -4221,8 +4204,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7434709,
-      "longitude": 15.1824721
+      "latitude": 51.7433665,
+      "longitude": 15.1824894
     },
     "iconId": "2311",
     "position": {
@@ -5088,14 +5071,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1091637,
-      "longitude": 22.2993296
+      "latitude": 52.108099,
+      "longitude": 22.2995152
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.107864,
-      "longitude": 22.2995583
+      "latitude": 52.1078437,
+      "longitude": 22.2995623
     },
     "type": 0
   },
@@ -5814,6 +5797,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2358722,
+      "longitude": 21.0403546
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2362072,
+      "longitude": 21.0420502
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6437,8 +6437,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -8097,14 +8097,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.29672,
-      "longitude": 16.5270311
+      "latitude": 53.2969024,
+      "longitude": 16.5271753
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2984435,
-      "longitude": 16.5280399
+      "latitude": 53.2984279,
+      "longitude": 16.528031
     },
     "type": 0
   },
@@ -8522,14 +8522,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5600115,
-      "longitude": 20.9906308
+      "latitude": 53.5604271,
+      "longitude": 20.9911663
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5601442,
-      "longitude": 20.9907564
+      "latitude": 53.5601341,
+      "longitude": 20.9907432
     },
     "type": 0
   },
@@ -8777,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087638,
-      "longitude": 17.2598617
+      "latitude": 53.7090278,
+      "longitude": 17.2593262
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087764,
-      "longitude": 17.259804
+      "latitude": 53.7087899,
+      "longitude": 17.2597777
     },
     "type": 0
   },
@@ -9469,6 +9469,23 @@
     "type": 0
   },
   {
+    "address": "Harcerska, Koszalin",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.1876572,
+      "longitude": 16.1800138
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 54.1875149,
+      "longitude": 16.1799548
+    },
+    "type": 0
+  },
+  {
     "address": "Zwycięstwa, Borzytuchom",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -9882,14 +9899,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 54.6162218,
-      "longitude": 18.2228222
+      "latitude": 54.6185435,
+      "longitude": 18.2201734
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 54.6158793,
-      "longitude": 18.2232248
+      "latitude": 54.6156872,
+      "longitude": 18.2234466
     },
     "type": 0
   },
