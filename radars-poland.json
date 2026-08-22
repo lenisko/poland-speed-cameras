@@ -39,14 +39,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 49.4968314,
-      "longitude": 20.4040356
+      "latitude": 49.497967,
+      "longitude": 20.4037564
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 49.4968377,
-      "longitude": 20.4040337
+      "latitude": 49.4968444,
+      "longitude": 20.4040319
     },
     "type": 0
   },
@@ -544,6 +544,23 @@
     "type": 0
   },
   {
+    "address": "Myślenicka, Mogilany",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.9248974,
+      "longitude": 19.8826732
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 49.925265,
+      "longitude": 19.8828171
+    },
+    "type": 0
+  },
+  {
     "address": "Skołoszów",
     "credibility": 1,
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
@@ -736,14 +753,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075737,
-      "longitude": 21.0848571
+      "latitude": 50.0075782,
+      "longitude": 21.0847982
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0075395,
-      "longitude": 21.0848118
+      "latitude": 50.0075415,
+      "longitude": 21.0847897
     },
     "type": 0
   },
@@ -2079,14 +2096,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6874794,
-      "longitude": 19.1330233
+      "latitude": 50.6877732,
+      "longitude": 19.1331912
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6868919,
-      "longitude": 19.1325779
+      "latitude": 50.6867917,
+      "longitude": 19.1325106
     },
     "type": 0
   },
@@ -3524,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3596444,
-      "longitude": 20.6236768
+      "latitude": 51.359646,
+      "longitude": 20.6236795
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3596024,
-      "longitude": 20.6239303
+      "latitude": 51.3596187,
+      "longitude": 20.6238527
     },
     "type": 0
   },
@@ -4176,8 +4193,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7435687,
-      "longitude": 15.1824386
+      "latitude": 51.7435225,
+      "longitude": 15.1824399
     },
     "type": 0
   },
@@ -5037,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1079884,
-      "longitude": 22.2995396
+      "latitude": 52.107996,
+      "longitude": 22.2995182
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1079378,
-      "longitude": 22.2995441
+      "latitude": 52.1079085,
+      "longitude": 22.2995497
     },
     "type": 0
   },
@@ -8046,14 +8063,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2980893,
-      "longitude": 16.5278244
+      "latitude": 53.2981447,
+      "longitude": 16.5278583
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2982771,
-      "longitude": 16.5279449
+      "latitude": 53.2982862,
+      "longitude": 16.5279501
     },
     "type": 0
   },
@@ -8477,8 +8494,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5601794,
-      "longitude": 20.9908021
+      "latitude": 53.5601576,
+      "longitude": 20.9907739
     },
     "type": 0
   },
@@ -8726,14 +8743,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7075456,
-      "longitude": 17.2621999
+      "latitude": 53.7075415,
+      "longitude": 17.2622068
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7091737,
-      "longitude": 17.2590315
+      "latitude": 53.7091699,
+      "longitude": 17.2590389
     },
     "type": 0
   },
@@ -9831,14 +9848,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 54.6157684,
-      "longitude": 18.2233621
+      "latitude": 54.6160193,
+      "longitude": 18.2230463
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 54.6158606,
-      "longitude": 18.2232465
+      "latitude": 54.6158009,
+      "longitude": 18.2233154
     },
     "type": 0
   },
