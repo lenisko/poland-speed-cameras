@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075563,
-      "longitude": 21.0850902
+      "latitude": 50.0075555,
+      "longitude": 21.0850903
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
       "latitude": 50.007513,
-      "longitude": 21.0851025
+      "longitude": 21.0851028
     },
     "type": 0
   },
@@ -2068,8 +2068,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.686827,
-      "longitude": 19.1325342
+      "latitude": 50.6867721,
+      "longitude": 19.1324975
     },
     "type": 0
   },
@@ -4153,14 +4153,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7430102,
-      "longitude": 15.182442
+      "latitude": 51.7436009,
+      "longitude": 15.182485
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7438494,
-      "longitude": 15.1824312
+      "latitude": 51.7434238,
+      "longitude": 15.1824425
     },
     "type": 0
   },
@@ -5020,14 +5020,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1091809,
-      "longitude": 22.2993301
+      "latitude": 52.1091852,
+      "longitude": 22.2993291
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1079634,
-      "longitude": 22.299539
+      "latitude": 52.1079429,
+      "longitude": 22.2995431
     },
     "type": 0
   },
@@ -8029,14 +8029,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2981967,
-      "longitude": 16.5278776
+      "latitude": 53.2971597,
+      "longitude": 16.5272529
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2984904,
-      "longitude": 16.5280667
+      "latitude": 53.2988778,
+      "longitude": 16.528288
     },
     "type": 0
   },
@@ -8454,14 +8454,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5603207,
-      "longitude": 20.9910031
+      "latitude": 53.5603522,
+      "longitude": 20.9910884
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5601939,
-      "longitude": 20.9908211
+      "latitude": 53.560214,
+      "longitude": 20.9908472
     },
     "type": 0
   },
@@ -8709,14 +8709,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086834,
-      "longitude": 17.2599937
+      "latitude": 53.709017,
+      "longitude": 17.2593834
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7089113,
-      "longitude": 17.2595416
+      "latitude": 53.7089715,
+      "longitude": 17.2594247
     },
     "type": 0
   },
@@ -9820,8 +9820,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 54.6158866,
-      "longitude": 18.2232165
+      "latitude": 54.6159675,
+      "longitude": 18.2231231
     },
     "type": 0
   },
@@ -17693,6 +17693,23 @@
       "isCity": false,
       "latitude": 49.8631599,
       "longitude": 19.3923066
+    },
+    "type": 7
+  },
+  {
+    "address": "Barwałd Średni",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.865176,
+      "longitude": 19.5828329
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 49.8651516,
+      "longitude": 19.5830888
     },
     "type": 7
   },
