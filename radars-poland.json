@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075237,
-      "longitude": 21.0855177
+      "latitude": 50.0075219,
+      "longitude": 21.0856867
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0074562,
-      "longitude": 21.0862706
+      "latitude": 50.007446,
+      "longitude": 21.0864383
     },
     "type": 0
   },
@@ -2062,14 +2062,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6869808,
-      "longitude": 19.1326941
+      "latitude": 50.6869656,
+      "longitude": 19.1326531
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6864079,
-      "longitude": 19.1322548
+      "latitude": 50.6864463,
+      "longitude": 19.1322804
     },
     "type": 0
   },
@@ -3507,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593842,
-      "longitude": 20.6249914
+      "latitude": 51.3593957,
+      "longitude": 20.6250123
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595734,
-      "longitude": 20.6240756
+      "latitude": 51.3595714,
+      "longitude": 20.6240858
     },
     "type": 0
   },
@@ -4153,13 +4153,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7441137,
-      "longitude": 15.1824821
+      "latitude": 51.7440256,
+      "longitude": 15.1824874
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7429308,
+      "latitude": 51.7428427,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5026,8 +5026,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.107756,
-      "longitude": 22.2995792
+      "latitude": 52.1077744,
+      "longitude": 22.2995757
     },
     "type": 0
   },
@@ -8029,14 +8029,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.297108,
-      "longitude": 16.5272218
+      "latitude": 53.2982004,
+      "longitude": 16.527891
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2988258,
-      "longitude": 16.5282583
+      "latitude": 53.2986144,
+      "longitude": 16.5281376
     },
     "type": 0
   },
@@ -8460,8 +8460,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5602252,
-      "longitude": 20.9908617
+      "latitude": 53.5602132,
+      "longitude": 20.9908461
     },
     "type": 0
   },
@@ -8715,8 +8715,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088864,
-      "longitude": 17.2595901
+      "latitude": 53.7088918,
+      "longitude": 17.2595795
     },
     "type": 0
   },
@@ -11594,6 +11594,23 @@
     "type": 4
   },
   {
+    "address": "Nowy Gózd",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.556526,
+      "longitude": 21.0317389
+    },
+    "iconId": "2324",
+    "position": {
+      "isCity": false,
+      "latitude": 51.5556557,
+      "longitude": 21.0335017
+    },
+    "type": 4
+  },
+  {
     "address": "Wysoka, Tomaszów Mazowiecki",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
@@ -11607,23 +11624,6 @@
       "isCity": false,
       "latitude": 51.5561275,
       "longitude": 20.0215897
-    },
-    "type": 4
-  },
-  {
-    "address": "Nowy Gózd",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.556526,
-      "longitude": 21.0317389
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 51.5561736,
-      "longitude": 21.0324527
     },
     "type": 4
   },
@@ -15453,6 +15453,23 @@
     "type": 5
   },
   {
+    "address": "",
+    "credibility": 1,
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
+    "direction": {
+      "isCity": false,
+      "latitude": 51.554874,
+      "longitude": 21.0348061
+    },
+    "iconId": "2325",
+    "position": {
+      "isCity": false,
+      "latitude": 51.5555905,
+      "longitude": 21.0333724
+    },
+    "type": 5
+  },
+  {
     "address": "Wysoka, Tomaszów Mazowiecki",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
@@ -15466,23 +15483,6 @@
       "isCity": false,
       "latitude": 51.5561275,
       "longitude": 20.0215897
-    },
-    "type": 5
-  },
-  {
-    "address": "",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.554874,
-      "longitude": 21.0348061
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 51.5561453,
-      "longitude": 21.0322623
     },
     "type": 5
   },
