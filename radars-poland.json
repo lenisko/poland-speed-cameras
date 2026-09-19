@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075427,
-      "longitude": 21.085573
+      "latitude": 50.0075386,
+      "longitude": 21.0857299
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.007453,
-      "longitude": 21.0863227
+      "latitude": 50.0074436,
+      "longitude": 21.0864787
     },
     "type": 0
   },
@@ -2062,14 +2062,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6868893,
-      "longitude": 19.1326559
+      "latitude": 50.6865755,
+      "longitude": 19.1323613
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862185,
-      "longitude": 19.1321287
+      "latitude": 50.6862387,
+      "longitude": 19.1321421
     },
     "type": 0
   },
@@ -4153,13 +4153,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7435158,
-      "longitude": 15.1824907
+      "latitude": 51.7439253,
+      "longitude": 15.1825122
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7426767,
+      "latitude": 51.7427423,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5020,14 +5020,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.107728,
-      "longitude": 22.2996058
+      "latitude": 52.1074777,
+      "longitude": 22.2996488
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1075425,
-      "longitude": 22.2996205
+      "latitude": 52.1075907,
+      "longitude": 22.2996111
     },
     "type": 0
   },
@@ -8029,14 +8029,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2970033,
-      "longitude": 16.5271687
+      "latitude": 53.2981569,
+      "longitude": 16.5278496
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2987224,
-      "longitude": 16.5281992
+      "latitude": 53.2985734,
+      "longitude": 16.5281141
     },
     "type": 0
   },
@@ -8454,14 +8454,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5604137,
-      "longitude": 20.9911016
+      "latitude": 53.5604417,
+      "longitude": 20.9911438
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5606402,
-      "longitude": 20.9914613
+      "latitude": 53.5606698,
+      "longitude": 20.9915004
     },
     "type": 0
   },
@@ -8709,14 +8709,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.708714,
-      "longitude": 17.2599407
+      "latitude": 53.7089291,
+      "longitude": 17.2595034
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088146,
-      "longitude": 17.2597297
+      "latitude": 53.7088319,
+      "longitude": 17.2596959
     },
     "type": 0
   },
@@ -9805,23 +9805,6 @@
       "isCity": false,
       "latitude": 54.6043287,
       "longitude": 18.1555756
-    },
-    "type": 0
-  },
-  {
-    "address": "Ofiar Piaśnicy, Wejherowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.619239,
-      "longitude": 18.2193896
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 54.6163777,
-      "longitude": 18.2226498
     },
     "type": 0
   },
@@ -19839,7 +19822,7 @@
     "type": 7
   },
   {
-    "address": "Daimlera G., Komorniki",
+    "address": "Poznańska, Komorniki",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
     "direction": {
@@ -19850,8 +19833,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 52.3458336,
-      "longitude": 16.8277776
+      "latitude": 52.345744,
+      "longitude": 16.8278872
     },
     "type": 7
   },
