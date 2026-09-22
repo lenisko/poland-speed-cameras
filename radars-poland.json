@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0075299,
-      "longitude": 21.0858422
+      "latitude": 50.0074864,
+      "longitude": 21.0862834
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0074367,
-      "longitude": 21.0865913
+      "latitude": 50.0074512,
+      "longitude": 21.0863526
     },
     "type": 0
   },
@@ -2068,8 +2068,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862271,
-      "longitude": 19.1321344
+      "latitude": 50.6861978,
+      "longitude": 19.1321149
     },
     "type": 0
   },
@@ -2291,23 +2291,6 @@
       "isCity": false,
       "latitude": 50.8094728,
       "longitude": 18.5521145
-    },
-    "type": 0
-  },
-  {
-    "address": "Kościuszki T., Opatów",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.811067,
-      "longitude": 21.4164691
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.8109379,
-      "longitude": 21.4165197
     },
     "type": 0
   },
@@ -3507,14 +3490,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595618,
-      "longitude": 20.6240717
+      "latitude": 51.3593505,
+      "longitude": 20.6249791
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.359573,
-      "longitude": 20.6240773
+      "latitude": 51.3595618,
+      "longitude": 20.6241354
     },
     "type": 0
   },
@@ -4153,13 +4136,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7439167,
-      "longitude": 15.1825148
+      "latitude": 51.7439941,
+      "longitude": 15.1825127
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7427338,
+      "latitude": 51.7428111,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5020,14 +5003,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1075421,
-      "longitude": 22.2996378
+      "latitude": 52.1075039,
+      "longitude": 22.2996388
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1076121,
-      "longitude": 22.299607
+      "latitude": 52.107584,
+      "longitude": 22.2996125
     },
     "type": 0
   },
@@ -5351,6 +5334,74 @@
       "isCity": false,
       "latitude": 52.1894504,
       "longitude": 17.3209981
+    },
+    "type": 0
+  },
+  {
+    "address": "Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.190158,
+      "longitude": 21.0471441
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.1900061,
+      "longitude": 21.047054
+    },
+    "type": 0
+  },
+  {
+    "address": "Jana III Sobieskiego, Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.189952,
+      "longitude": 21.047022
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.1900604,
+      "longitude": 21.0469132
+    },
+    "type": 0
+  },
+  {
+    "address": "Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.1904291,
+      "longitude": 21.0465429
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.1905239,
+      "longitude": 21.0465955
+    },
+    "type": 0
+  },
+  {
+    "address": "Jana III Sobieskiego, Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.190715,
+      "longitude": 21.046455
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.1906241,
+      "longitude": 21.0465591
     },
     "type": 0
   },
@@ -8029,14 +8080,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2979572,
-      "longitude": 16.5277207
+      "latitude": 53.2970979,
+      "longitude": 16.5272228
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2985818,
-      "longitude": 16.5281189
+      "latitude": 53.298817,
+      "longitude": 16.5282533
     },
     "type": 0
   },
@@ -8454,14 +8505,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5604238,
-      "longitude": 20.991114
+      "latitude": 53.5604312,
+      "longitude": 20.9911236
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5606501,
-      "longitude": 20.9914744
+      "latitude": 53.5606574,
+      "longitude": 20.9914841
     },
     "type": 0
   },
@@ -8715,8 +8766,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088457,
-      "longitude": 17.2596691
+      "latitude": 53.7088602,
+      "longitude": 17.259641
     },
     "type": 0
   },
@@ -9805,23 +9856,6 @@
       "isCity": false,
       "latitude": 54.6043287,
       "longitude": 18.1555756
-    },
-    "type": 0
-  },
-  {
-    "address": "Ofiar Piaśnicy, Wejherowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.6163397,
-      "longitude": 18.2226041
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 54.6161471,
-      "longitude": 18.2229159
     },
     "type": 0
   },
