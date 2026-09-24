@@ -719,14 +719,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 50.0074602,
-      "longitude": 21.0862235
+      "latitude": 50.007461,
+      "longitude": 21.0862218
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.0074567,
-      "longitude": 21.0862623
+      "latitude": 50.007449,
+      "longitude": 21.086388
     },
     "type": 0
   },
@@ -2068,8 +2068,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862294,
-      "longitude": 19.132136
+      "latitude": 50.6863119,
+      "longitude": 19.1321909
     },
     "type": 0
   },
@@ -2240,6 +2240,23 @@
       "isCity": false,
       "latitude": 50.7637485,
       "longitude": 19.1631157
+    },
+    "type": 0
+  },
+  {
+    "address": "Al. Wojska Polskiego, Częstochowa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.77247,
+      "longitude": 19.1568481
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.7725147,
+      "longitude": 19.1567835
     },
     "type": 0
   },
@@ -3490,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594337,
-      "longitude": 20.6247132
+      "latitude": 51.3593657,
+      "longitude": 20.6249027
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595733,
-      "longitude": 20.6240757
+      "latitude": 51.3595792,
+      "longitude": 20.6240454
     },
     "type": 0
   },
@@ -4136,13 +4153,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7439941,
-      "longitude": 15.1825127
+      "latitude": 51.7440113,
+      "longitude": 15.1825116
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7428111,
+      "latitude": 51.7428283,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5003,14 +5020,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1075549,
-      "longitude": 22.2996493
+      "latitude": 52.1101795,
+      "longitude": 22.2991363
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1075991,
-      "longitude": 22.2996095
+      "latitude": 52.1075306,
+      "longitude": 22.2996228
     },
     "type": 0
   },
@@ -5802,14 +5819,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 52.2357882,
-      "longitude": 21.0400145
+      "latitude": 52.2357879,
+      "longitude": 21.0400197
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.2361353,
-      "longitude": 21.0417035
+      "latitude": 52.2361985,
+      "longitude": 21.0420084
     },
     "type": 0
   },
@@ -8777,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7089863,
-      "longitude": 17.2594333
+      "latitude": 53.7089877,
+      "longitude": 17.259377
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088778,
-      "longitude": 17.2596068
+      "latitude": 53.7088711,
+      "longitude": 17.2596197
     },
     "type": 0
   },
@@ -9873,6 +9890,23 @@
       "isCity": false,
       "latitude": 54.6043287,
       "longitude": 18.1555756
+    },
+    "type": 0
+  },
+  {
+    "address": "Ofiar Piaśnicy, Wejherowo",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 54.6167011,
+      "longitude": 18.2222461
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 54.6160808,
+      "longitude": 18.2229923
     },
     "type": 0
   },
