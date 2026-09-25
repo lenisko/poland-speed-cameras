@@ -2068,8 +2068,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6863119,
-      "longitude": 19.1321909
+      "latitude": 50.6862961,
+      "longitude": 19.1321803
     },
     "type": 0
   },
@@ -3507,14 +3507,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593657,
-      "longitude": 20.6249027
+      "latitude": 51.3593476,
+      "longitude": 20.6250204
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3595792,
-      "longitude": 20.6240454
+      "latitude": 51.3595614,
+      "longitude": 20.6241373
     },
     "type": 0
   },
@@ -4153,13 +4153,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7440113,
-      "longitude": 15.1825116
+      "latitude": 51.7439226,
+      "longitude": 15.1825118
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7428283,
+      "latitude": 51.7427396,
       "longitude": 15.1824442
     },
     "type": 0
@@ -5020,14 +5020,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1101795,
-      "longitude": 22.2991363
+      "latitude": 52.1101531,
+      "longitude": 22.2991425
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1075306,
-      "longitude": 22.2996228
+      "latitude": 52.1075041,
+      "longitude": 22.2996279
     },
     "type": 0
   },
@@ -5810,23 +5810,6 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
-    },
-    "type": 0
-  },
-  {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2357879,
-      "longitude": 21.0400197
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2361985,
-      "longitude": 21.0420084
     },
     "type": 0
   },
@@ -8114,14 +8097,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2970979,
-      "longitude": 16.5272228
+      "latitude": 53.2981337,
+      "longitude": 16.5278261
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.298817,
-      "longitude": 16.5282533
+      "latitude": 53.2986047,
+      "longitude": 16.528132
     },
     "type": 0
   },
@@ -8539,14 +8522,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5604312,
-      "longitude": 20.9911236
+      "latitude": 53.5604809,
+      "longitude": 20.9912153
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5606574,
-      "longitude": 20.9914841
+      "latitude": 53.5604074,
+      "longitude": 20.9911442
     },
     "type": 0
   },
@@ -8800,8 +8783,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088711,
-      "longitude": 17.2596197
+      "latitude": 53.7088541,
+      "longitude": 17.2596529
     },
     "type": 0
   },
@@ -9890,23 +9873,6 @@
       "isCity": false,
       "latitude": 54.6043287,
       "longitude": 18.1555756
-    },
-    "type": 0
-  },
-  {
-    "address": "Ofiar Piaśnicy, Wejherowo",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 54.6167011,
-      "longitude": 18.2222461
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 54.6160808,
-      "longitude": 18.2229923
     },
     "type": 0
   },
