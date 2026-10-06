@@ -2085,8 +2085,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6861869,
-      "longitude": 19.1321077
+      "latitude": 50.6861377,
+      "longitude": 19.1320748
     },
     "type": 0
   },
@@ -3524,14 +3524,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594546,
-      "longitude": 20.6248207
+      "latitude": 51.3594857,
+      "longitude": 20.6245159
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594603,
-      "longitude": 20.6246577
+      "latitude": 51.3594492,
+      "longitude": 20.6247152
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1098965,
-      "longitude": 22.2992066
+      "latitude": 52.1098069,
+      "longitude": 22.2992244
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1072465,
-      "longitude": 22.2996777
+      "latitude": 52.1071568,
+      "longitude": 22.299695
     },
     "type": 0
   },
@@ -5836,14 +5836,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 52.2359989,
-      "longitude": 21.0410341
+      "latitude": 52.2358222,
+      "longitude": 21.0401955
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.2361439,
-      "longitude": 21.0417451
+      "latitude": 52.2361725,
+      "longitude": 21.0418827
     },
     "type": 0
   },
@@ -8131,14 +8131,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2972035,
-      "longitude": 16.5272782
+      "latitude": 53.299546,
+      "longitude": 16.5286652
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2989217,
-      "longitude": 16.528313
+      "latitude": 53.2980216,
+      "longitude": 16.5278024
     },
     "type": 0
   },
@@ -8817,8 +8817,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087967,
-      "longitude": 17.2597643
+      "latitude": 53.7088135,
+      "longitude": 17.2597319
     },
     "type": 0
   },
@@ -18441,6 +18441,23 @@
       "isCity": false,
       "latitude": 50.3102417,
       "longitude": 18.7885828
+    },
+    "type": 7
+  },
+  {
+    "address": "Czeladź",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.32196,
+      "longitude": 19.10259
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3219515,
+      "longitude": 19.1025941
     },
     "type": 7
   },
