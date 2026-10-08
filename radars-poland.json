@@ -2085,8 +2085,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862319,
-      "longitude": 19.1321376
+      "latitude": 50.6862847,
+      "longitude": 19.1321728
     },
     "type": 0
   },
@@ -3524,14 +3524,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594857,
-      "longitude": 20.6245159
+      "latitude": 51.3593474,
+      "longitude": 20.6250919
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594492,
-      "longitude": 20.6247152
+      "latitude": 51.3594582,
+      "longitude": 20.6246689
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1097983,
-      "longitude": 22.299227
+      "latitude": 52.1097421,
+      "longitude": 22.2992441
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1071482,
-      "longitude": 22.2996967
+      "latitude": 52.1070915,
+      "longitude": 22.2997077
     },
     "type": 0
   },
@@ -8114,8 +8114,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2983338,
-      "longitude": 16.5279707
+      "latitude": 53.2982622,
+      "longitude": 16.5279384
     },
     "iconId": "2311",
     "position": {
@@ -8800,8 +8800,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088108,
-      "longitude": 17.259737
+      "latitude": 53.708798,
+      "longitude": 17.259762
     },
     "type": 0
   },
@@ -11588,8 +11588,8 @@
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 51.4319271,
-      "longitude": 22.1416666
+      "latitude": 51.4317694,
+      "longitude": 22.1415848
     },
     "type": 4
   },
@@ -19988,6 +19988,40 @@
       "isCity": false,
       "latitude": 52.34584,
       "longitude": 16.8280729
+    },
+    "type": 7
+  },
+  {
+    "address": "Modlińska, Jabłonna",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.363082,
+      "longitude": 20.935643
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 52.3628775,
+      "longitude": 20.9357246
+    },
+    "type": 7
+  },
+  {
+    "address": "Brzozowa, Jabłonna",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.363315,
+      "longitude": 20.9357651
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 52.363187,
+      "longitude": 20.935961
     },
     "type": 7
   },
