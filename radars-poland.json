@@ -731,6 +731,23 @@
     "type": 0
   },
   {
+    "address": "Łętowice",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.995336,
+      "longitude": 20.8457701
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 49.9951821,
+      "longitude": 20.8450331
+    },
+    "type": 0
+  },
+  {
     "address": "Ładna",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -2079,14 +2096,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6866547,
-      "longitude": 19.1324376
+      "latitude": 50.6869761,
+      "longitude": 19.1326302
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862847,
-      "longitude": 19.1321728
+      "latitude": 50.6862672,
+      "longitude": 19.1321611
     },
     "type": 0
   },
@@ -5831,6 +5848,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2360381,
+      "longitude": 21.0412388
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.236186,
+      "longitude": 21.0419482
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -8794,14 +8828,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7089443,
-      "longitude": 17.2595101
+      "latitude": 53.7102902,
+      "longitude": 17.2569111
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708798,
-      "longitude": 17.259762
+      "latitude": 53.7086464,
+      "longitude": 17.2600565
     },
     "type": 0
   },
@@ -19935,8 +19969,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 52.345439,
-      "longitude": 16.8282742
+      "latitude": 52.3455047,
+      "longitude": 16.8281884
     },
     "type": 7
   },
@@ -19958,7 +19992,7 @@
     "type": 7
   },
   {
-    "address": "Poznańska, Komorniki",
+    "address": "Daimlera G., Komorniki",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
     "direction": {
@@ -19969,8 +20003,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 52.345744,
-      "longitude": 16.8278872
+      "latitude": 52.3458336,
+      "longitude": 16.8277776
     },
     "type": 7
   },
