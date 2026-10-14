@@ -2102,8 +2102,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862608,
-      "longitude": 19.1321569
+      "latitude": 50.6862951,
+      "longitude": 19.1321797
     },
     "type": 0
   },
@@ -3383,23 +3383,6 @@
     "type": 0
   },
   {
-    "address": "Lubińska, Kochlice",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.289432,
-      "longitude": 16.156921
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 51.2882871,
-      "longitude": 16.1563619
-    },
-    "type": 0
-  },
-  {
     "address": "Brzeziny",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -4187,13 +4170,13 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7438142,
-      "longitude": 15.1825013
+      "latitude": 51.7435353,
+      "longitude": 15.1825232
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.7426312,
+      "latitude": 51.7427697,
       "longitude": 15.1824442
     },
     "type": 0
@@ -8131,14 +8114,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2980674,
-      "longitude": 16.5278097
+      "latitude": 53.2969945,
+      "longitude": 16.5271753
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2984085,
-      "longitude": 16.5280199
+      "latitude": 53.2987157,
+      "longitude": 16.5281954
     },
     "type": 0
   },
@@ -8811,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088251,
-      "longitude": 17.2597446
+      "latitude": 53.7101669,
+      "longitude": 17.2571261
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088227,
-      "longitude": 17.2597139
+      "latitude": 53.7085304,
+      "longitude": 17.2602822
     },
     "type": 0
   },
