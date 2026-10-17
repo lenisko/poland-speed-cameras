@@ -2102,8 +2102,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6862537,
-      "longitude": 19.1321521
+      "latitude": 50.6862197,
+      "longitude": 19.1321294
     },
     "type": 0
   },
@@ -3524,14 +3524,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594853,
-      "longitude": 20.6245935
+      "latitude": 51.3593566,
+      "longitude": 20.6251518
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593796,
-      "longitude": 20.6250608
+      "latitude": 51.3593845,
+      "longitude": 20.6250365
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1098087,
-      "longitude": 22.29923
+      "latitude": 52.1098605,
+      "longitude": 22.2992146
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1071583,
-      "longitude": 22.2996948
+      "latitude": 52.1072104,
+      "longitude": 22.2996847
     },
     "type": 0
   },
@@ -8114,14 +8114,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.2969945,
-      "longitude": 16.5271753
+      "latitude": 53.2982144,
+      "longitude": 16.5279021
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.2987157,
-      "longitude": 16.5281954
+      "latitude": 53.2984425,
+      "longitude": 16.5280394
     },
     "type": 0
   },
@@ -8539,14 +8539,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5605464,
-      "longitude": 20.9913918
+      "latitude": 53.5611769,
+      "longitude": 20.9921204
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5608097,
-      "longitude": 20.9916691
+      "latitude": 53.560416,
+      "longitude": 20.9911579
     },
     "type": 0
   },
