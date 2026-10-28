@@ -1479,6 +1479,23 @@
     "type": 0
   },
   {
+    "address": "Sosnowiec",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.3005373,
+      "longitude": 19.1239928
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3004052,
+      "longitude": 19.1246875
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Powstań Śląskich, Ruda Śląska",
     "credibility": 1,
     "description": "Fotoradar skierowany na zachód, Wiarygodność: 100%",
@@ -2096,14 +2113,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6866766,
-      "longitude": 19.1324481
+      "latitude": 50.6867072,
+      "longitude": 19.1325587
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6864368,
-      "longitude": 19.1322741
+      "latitude": 50.686473,
+      "longitude": 19.1322983
     },
     "type": 0
   },
@@ -3524,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592926,
-      "longitude": 20.6254371
+      "latitude": 51.3593402,
+      "longitude": 20.6252609
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594606,
-      "longitude": 20.6246564
+      "latitude": 51.3594061,
+      "longitude": 20.62493
     },
     "type": 0
   },
@@ -5037,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1093462,
-      "longitude": 22.2993102
+      "latitude": 52.1074898,
+      "longitude": 22.2996578
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1066964,
-      "longitude": 22.2997841
+      "latitude": 52.1069152,
+      "longitude": 22.2997418
     },
     "type": 0
   },
@@ -8794,14 +8811,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7085538,
-      "longitude": 17.2602788
+      "latitude": 53.7069339,
+      "longitude": 17.263387
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7084346,
-      "longitude": 17.2604683
+      "latitude": 53.7085626,
+      "longitude": 17.2602195
     },
     "type": 0
   },
