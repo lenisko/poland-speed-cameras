@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3004647,
-      "longitude": 19.1245181
+      "latitude": 50.3004423,
+      "longitude": 19.1242155
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3003214,
-      "longitude": 19.1252093
+      "latitude": 50.300301,
+      "longitude": 19.125353
     },
     "type": 0
   },
@@ -2113,14 +2113,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6867072,
-      "longitude": 19.1325587
+      "latitude": 50.6869493,
+      "longitude": 19.1326284
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6865826,
-      "longitude": 19.1323713
+      "latitude": 50.6866502,
+      "longitude": 19.1324164
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3592671,
-      "longitude": 20.6256039
+      "latitude": 51.3593003,
+      "longitude": 20.6254343
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594284,
-      "longitude": 20.6248201
+      "latitude": 51.3594618,
+      "longitude": 20.6246505
     },
     "type": 0
   },
@@ -4187,8 +4187,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.7433282,
-      "longitude": 15.1824972
+      "latitude": 51.7432027,
+      "longitude": 15.1824537
     },
     "iconId": "2311",
     "position": {
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.109214,
-      "longitude": 22.2993327
+      "latitude": 52.1091278,
+      "longitude": 22.2993474
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1065644,
-      "longitude": 22.2998096
+      "latitude": 52.1064783,
+      "longitude": 22.2998263
     },
     "type": 0
   },
@@ -6471,8 +6471,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953928,
-      "longitude": 16.1180689
+      "latitude": 52.3953878,
+      "longitude": 16.118068
     },
     "type": 0
   },
@@ -6607,8 +6607,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.4575942,
-      "longitude": 16.6206413
+      "latitude": 52.4575902,
+      "longitude": 16.6207395
     },
     "type": 0
   },
@@ -8551,23 +8551,6 @@
     "type": 0
   },
   {
-    "address": "Curie-Skłodowskiej M., Szczytno",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 53.5604235,
-      "longitude": 20.991239
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 53.560683,
-      "longitude": 20.9915179
-    },
-    "type": 0
-  },
-  {
     "address": "Białostocka, Suchowola",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -8811,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7069702,
-      "longitude": 17.2633143
+      "latitude": 53.7081887,
+      "longitude": 17.2609375
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7085995,
-      "longitude": 17.2601477
+      "latitude": 53.7084487,
+      "longitude": 17.260441
     },
     "type": 0
   },
@@ -19459,8 +19442,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 51.7598099,
-      "longitude": 18.0768022
+      "latitude": 51.759779,
+      "longitude": 18.0768859
     },
     "type": 7
   },
