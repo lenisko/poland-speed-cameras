@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3004423,
-      "longitude": 19.1242155
+      "latitude": 50.3004289,
+      "longitude": 19.1243317
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.300301,
-      "longitude": 19.125353
+      "latitude": 50.3002894,
+      "longitude": 19.1254696
     },
     "type": 0
   },
@@ -2113,14 +2113,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6869493,
-      "longitude": 19.1326284
+      "latitude": 50.6870112,
+      "longitude": 19.1326571
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6866502,
-      "longitude": 19.1324164
+      "latitude": 50.6866841,
+      "longitude": 19.1324389
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593003,
-      "longitude": 20.6254343
+      "latitude": 51.3593598,
+      "longitude": 20.6250966
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594618,
-      "longitude": 20.6246505
+      "latitude": 51.3594584,
+      "longitude": 20.6246676
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1091278,
-      "longitude": 22.2993474
+      "latitude": 52.1090691,
+      "longitude": 22.2993602
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1064783,
-      "longitude": 22.2998263
+      "latitude": 52.1064196,
+      "longitude": 22.2998376
     },
     "type": 0
   },
@@ -6607,8 +6607,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.4575902,
-      "longitude": 16.6207395
+      "latitude": 52.4575908,
+      "longitude": 16.6207246
     },
     "type": 0
   },
@@ -8551,6 +8551,23 @@
     "type": 0
   },
   {
+    "address": "Curie-Skłodowskiej M., Szczytno",
+    "credibility": 1,
+    "description": "Fotoradar dwukierunkowy",
+    "direction": {
+      "isCity": false,
+      "latitude": 53.5599845,
+      "longitude": 20.9906423
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 53.5607474,
+      "longitude": 20.9915947
+    },
+    "type": 0
+  },
+  {
     "address": "Białostocka, Suchowola",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -8794,14 +8811,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7081887,
-      "longitude": 17.2609375
+      "latitude": 53.7081339,
+      "longitude": 17.26108
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7084487,
-      "longitude": 17.260441
+      "latitude": 53.7084768,
+      "longitude": 17.2603864
     },
     "type": 0
   },
@@ -17629,6 +17646,23 @@
     "type": 7
   },
   {
+    "address": "Rondo Solidarności, Nowy Sącz",
+    "credibility": 1,
+    "description": "Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 49.617339,
+      "longitude": 20.7143932
+    },
+    "iconId": "2331",
+    "position": {
+      "isCity": false,
+      "latitude": 49.617339,
+      "longitude": 20.7143932
+    },
+    "type": 7
+  },
+  {
     "address": "Piłsudskiego J., Nowy Sącz",
     "credibility": 1,
     "description": "Wiarygodność: 100%",
@@ -17642,23 +17676,6 @@
       "isCity": false,
       "latitude": 49.6173636,
       "longitude": 20.7157705
-    },
-    "type": 7
-  },
-  {
-    "address": "Kilińskiego, Nowy Sącz",
-    "credibility": 1,
-    "description": "Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 49.617339,
-      "longitude": 20.7143932
-    },
-    "iconId": "2331",
-    "position": {
-      "isCity": false,
-      "latitude": 49.6175745,
-      "longitude": 20.7140717
     },
     "type": 7
   },
@@ -19442,8 +19459,8 @@
     "iconId": "2331",
     "position": {
       "isCity": false,
-      "latitude": 51.759779,
-      "longitude": 18.0768859
+      "latitude": 51.7598099,
+      "longitude": 18.0768022
     },
     "type": 7
   },
