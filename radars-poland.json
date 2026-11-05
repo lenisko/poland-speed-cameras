@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3003804,
-      "longitude": 19.1247504
+      "latitude": 50.3003671,
+      "longitude": 19.1249015
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3002475,
-      "longitude": 19.1258899
+      "latitude": 50.3002325,
+      "longitude": 19.1260407
     },
     "type": 0
   },
@@ -2119,8 +2119,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6867385,
-      "longitude": 19.1324751
+      "latitude": 50.6868038,
+      "longitude": 19.1325187
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593756,
-      "longitude": 20.6250723
+      "latitude": 51.3593673,
+      "longitude": 20.6251126
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3594072,
-      "longitude": 20.6249245
+      "latitude": 51.3594251,
+      "longitude": 20.6248363
     },
     "type": 0
   },
@@ -5060,8 +5060,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.106585,
-      "longitude": 22.2998057
+      "latitude": 52.1066094,
+      "longitude": 22.2998009
     },
     "type": 0
   },
@@ -6601,8 +6601,8 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 52.4576449,
-      "longitude": 16.6194902
+      "latitude": 52.4576058,
+      "longitude": 16.6195886
     },
     "iconId": "2311",
     "position": {
@@ -8126,23 +8126,6 @@
     "type": 0
   },
   {
-    "address": "Ostrowiec",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 53.2971222,
-      "longitude": 16.5272478
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 53.2988433,
-      "longitude": 16.5282683
-    },
-    "type": 0
-  },
-  {
     "address": "Białostocka, Czarna Białostocka",
     "credibility": 1,
     "description": "Fotoradar dwukierunkowy",
@@ -8556,14 +8539,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5606506,
-      "longitude": 20.9914111
+      "latitude": 53.5605889,
+      "longitude": 20.9913485
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5604931,
-      "longitude": 20.9912667
+      "latitude": 53.5604573,
+      "longitude": 20.9912192
     },
     "type": 0
   },
@@ -8811,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7081323,
-      "longitude": 17.261084
+      "latitude": 53.708243,
+      "longitude": 17.2608728
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708532,
-      "longitude": 17.2602791
+      "latitude": 53.7085845,
+      "longitude": 17.260177
     },
     "type": 0
   },
