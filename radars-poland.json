@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3003361,
-      "longitude": 19.1252397
+      "latitude": 50.3002643,
+      "longitude": 19.1256866
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3001988,
-      "longitude": 19.1263782
+      "latitude": 50.3001867,
+      "longitude": 19.1265273
     },
     "type": 0
   },
@@ -2108,6 +2108,23 @@
     "type": 0
   },
   {
+    "address": "Warszawska, Wanaty",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.687488,
+      "longitude": 19.133029
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.686987,
+      "longitude": 19.132642
+    },
+    "type": 0
+  },
+  {
     "address": "Kwiatkowskiego E., Sandomierz",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -2121,23 +2138,6 @@
       "isCity": false,
       "latitude": 50.6870701,
       "longitude": 21.7547087
-    },
-    "type": 0
-  },
-  {
-    "address": "Warszawska, Wanaty",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.687488,
-      "longitude": 19.133029
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.6870705,
-      "longitude": 19.1326983
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595254,
-      "longitude": 20.624388
+      "latitude": 51.3595318,
+      "longitude": 20.6243454
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593578,
-      "longitude": 20.6251685
+      "latitude": 51.3593662,
+      "longitude": 20.6251269
     },
     "type": 0
   },
@@ -5054,14 +5054,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1042808,
-      "longitude": 22.3002498
+      "latitude": 52.1070387,
+      "longitude": 22.2997446
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1069279,
-      "longitude": 22.2997394
+      "latitude": 52.1067384,
+      "longitude": 22.299776
     },
     "type": 0
   },
@@ -6601,14 +6601,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 52.4576058,
-      "longitude": 16.6195886
+      "latitude": 52.4576052,
+      "longitude": 16.6195783
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.4575873,
-      "longitude": 16.6208111
+      "latitude": 52.4575877,
+      "longitude": 16.620801
     },
     "type": 0
   },
@@ -8539,14 +8539,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5607308,
-      "longitude": 20.991587
+      "latitude": 53.5605317,
+      "longitude": 20.9912358
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5599983,
-      "longitude": 20.9905667
+      "latitude": 53.560756,
+      "longitude": 20.991605
     },
     "type": 0
   },
@@ -8794,14 +8794,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7078717,
-      "longitude": 17.2615903
+      "latitude": 53.7071861,
+      "longitude": 17.2628856
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.708562,
-      "longitude": 17.2602208
+      "latitude": 53.7088181,
+      "longitude": 17.2597228
     },
     "type": 0
   },
