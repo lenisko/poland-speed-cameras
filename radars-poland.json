@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3002643,
-      "longitude": 19.1256866
+      "latitude": 50.3002465,
+      "longitude": 19.1258573
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3001867,
-      "longitude": 19.1265273
+      "latitude": 50.3001773,
+      "longitude": 19.1266993
     },
     "type": 0
   },
@@ -2119,8 +2119,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.686987,
-      "longitude": 19.132642
+      "latitude": 50.6869495,
+      "longitude": 19.1326167
     },
     "type": 0
   },
@@ -4182,23 +4182,6 @@
     "type": 0
   },
   {
-    "address": "Włostów",
-    "credibility": 1,
-    "description": "Fotoradar dwukierunkowy",
-    "direction": {
-      "isCity": false,
-      "latitude": 51.7432027,
-      "longitude": 15.1824537
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 51.7427356,
-      "longitude": 15.1824442
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Włókniarzy, Łódź",
     "credibility": 1,
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
@@ -5054,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1070387,
-      "longitude": 22.2997446
+      "latitude": 52.1068731,
+      "longitude": 22.2997657
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1067384,
-      "longitude": 22.299776
+      "latitude": 52.106721,
+      "longitude": 22.2997794
     },
     "type": 0
   },
@@ -8794,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7071861,
-      "longitude": 17.2628856
+      "latitude": 53.7084825,
+      "longitude": 17.2603814
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7088181,
-      "longitude": 17.2597228
+      "latitude": 53.7085927,
+      "longitude": 17.260161
     },
     "type": 0
   },
