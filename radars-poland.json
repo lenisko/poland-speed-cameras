@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3002465,
-      "longitude": 19.1258573
+      "latitude": 50.3002415,
+      "longitude": 19.1259743
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3001773,
-      "longitude": 19.1266993
+      "latitude": 50.300171,
+      "longitude": 19.1268159
     },
     "type": 0
   },
@@ -2119,8 +2119,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6869495,
-      "longitude": 19.1326167
+      "latitude": 50.6869329,
+      "longitude": 19.1326056
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595318,
-      "longitude": 20.6243454
+      "latitude": 51.359529,
+      "longitude": 20.6243741
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593662,
-      "longitude": 20.6251269
+      "latitude": 51.3593607,
+      "longitude": 20.6251542
     },
     "type": 0
   },
@@ -5510,6 +5510,23 @@
   {
     "address": "Al. Niepodległości, Warszawa",
     "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.210544,
+      "longitude": 21.0068348
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.210544,
+      "longitude": 21.0068348
+    },
+    "type": 0
+  },
+  {
+    "address": "Al. Niepodległości, Warszawa",
+    "credibility": 1,
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
@@ -5521,23 +5538,6 @@
       "isCity": false,
       "latitude": 52.2105821,
       "longitude": 21.0072518
-    },
-    "type": 0
-  },
-  {
-    "address": "Al. Niepodległości, Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.210544,
-      "longitude": 21.0068348
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2105877,
-      "longitude": 21.006824
     },
     "type": 0
   },
@@ -6454,8 +6454,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -8777,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7084825,
-      "longitude": 17.2603814
+      "latitude": 53.708616,
+      "longitude": 17.2601221
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7085927,
-      "longitude": 17.260161
+      "latitude": 53.7086099,
+      "longitude": 17.2601275
     },
     "type": 0
   },
