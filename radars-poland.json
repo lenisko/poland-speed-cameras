@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3002415,
-      "longitude": 19.1259743
+      "latitude": 50.3002384,
+      "longitude": 19.1261406
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.300171,
-      "longitude": 19.1268159
+      "latitude": 50.300162,
+      "longitude": 19.1269815
     },
     "type": 0
   },
@@ -2113,14 +2113,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.687488,
-      "longitude": 19.133029
+      "latitude": 50.6870112,
+      "longitude": 19.1326571
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6869329,
-      "longitude": 19.1326056
+      "latitude": 50.6869497,
+      "longitude": 19.1326169
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1068731,
-      "longitude": 22.2997657
+      "latitude": 52.1069837,
+      "longitude": 22.2997452
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.106721,
-      "longitude": 22.2997794
+      "latitude": 52.1068418,
+      "longitude": 22.299756
     },
     "type": 0
   },
@@ -5510,23 +5510,6 @@
   {
     "address": "Al. Niepodległości, Warszawa",
     "credibility": 1,
-    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.210544,
-      "longitude": 21.0068348
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.210544,
-      "longitude": 21.0068348
-    },
-    "type": 0
-  },
-  {
-    "address": "Al. Niepodległości, Warszawa",
-    "credibility": 1,
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
@@ -5538,6 +5521,23 @@
       "isCity": false,
       "latitude": 52.2105821,
       "longitude": 21.0072518
+    },
+    "type": 0
+  },
+  {
+    "address": "Al. Niepodległości, Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.210544,
+      "longitude": 21.0068348
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2105877,
+      "longitude": 21.006824
     },
     "type": 0
   },
@@ -8777,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.708616,
-      "longitude": 17.2601221
+      "latitude": 53.7086287,
+      "longitude": 17.2601116
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086099,
-      "longitude": 17.2601275
+      "latitude": 53.7085924,
+      "longitude": 17.2601616
     },
     "type": 0
   },
