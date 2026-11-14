@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3002415,
-      "longitude": 19.1260575
+      "latitude": 50.3002279,
+      "longitude": 19.1262927
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3001665,
-      "longitude": 19.1268986
+      "latitude": 50.3001537,
+      "longitude": 19.127134
     },
     "type": 0
   },
@@ -2127,7 +2127,7 @@
   {
     "address": "Warszawska, Wanaty",
     "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
       "latitude": 50.6870112,
@@ -2136,8 +2136,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6870856,
-      "longitude": 19.1325015
+      "latitude": 50.6871556,
+      "longitude": 19.132549
     },
     "type": 0
   },
@@ -5043,8 +5043,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1068075,
-      "longitude": 22.2997626
+      "latitude": 52.1068303,
+      "longitude": 22.2997582
     },
     "type": 0
   },
@@ -5831,6 +5831,23 @@
     "type": 0
   },
   {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2360062,
+      "longitude": 21.0410902
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2362007,
+      "longitude": 21.0420188
+    },
+    "type": 0
+  },
+  {
     "address": "Al. Księcia Poniatowskiego J., Warszawa",
     "credibility": 1,
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
@@ -6575,23 +6592,6 @@
       "isCity": false,
       "latitude": 52.4286923,
       "longitude": 16.8506321
-    },
-    "type": 0
-  },
-  {
-    "address": "Poznańska, Rumianek",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.4576052,
-      "longitude": 16.6195783
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.4575877,
-      "longitude": 16.620801
     },
     "type": 0
   },
@@ -8522,14 +8522,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5608034,
-      "longitude": 20.9916752
+      "latitude": 53.560653,
+      "longitude": 20.9914235
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5600691,
-      "longitude": 20.9906587
+      "latitude": 53.5605508,
+      "longitude": 20.991343
     },
     "type": 0
   },
@@ -8777,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7086287,
-      "longitude": 17.2601116
+      "latitude": 53.7099846,
+      "longitude": 17.2575183
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7085853,
-      "longitude": 17.2601755
+      "latitude": 53.708337,
+      "longitude": 17.2606581
     },
     "type": 0
   },
