@@ -1484,14 +1484,14 @@
     "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.3001862,
-      "longitude": 19.1268805
+      "latitude": 50.300187,
+      "longitude": 19.1272232
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.3001458,
-      "longitude": 19.1274373
+      "latitude": 50.3001508,
+      "longitude": 19.1277798
     },
     "type": 0
   },
@@ -2108,6 +2108,23 @@
     "type": 0
   },
   {
+    "address": "Warszawska, Wanaty",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.6874365,
+      "longitude": 19.1329909
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.687031,
+      "longitude": 19.1326716
+    },
+    "type": 0
+  },
+  {
     "address": "Kwiatkowskiego E., Sandomierz",
     "credibility": 1,
     "description": "Fotoradar skierowany na północ, Wiarygodność: 100%",
@@ -2121,23 +2138,6 @@
       "isCity": false,
       "latitude": 50.6870701,
       "longitude": 21.7547087
-    },
-    "type": 0
-  },
-  {
-    "address": "Warszawska, Wanaty",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.6870112,
-      "longitude": 19.1326571
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.6870743,
-      "longitude": 19.1324937
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1044155,
-      "longitude": 22.3002272
+      "latitude": 52.1067384,
+      "longitude": 22.2998157
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1070624,
-      "longitude": 22.2997133
+      "latitude": 52.1069073,
+      "longitude": 22.2997433
     },
     "type": 0
   },
@@ -5827,6 +5827,23 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
+    },
+    "type": 0
+  },
+  {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2357438,
+      "longitude": 21.0398197
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2360945,
+      "longitude": 21.0415067
     },
     "type": 0
   },
@@ -8505,14 +8522,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5605495,
-      "longitude": 20.9912664
+      "latitude": 53.5606301,
+      "longitude": 20.9914073
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5607764,
-      "longitude": 20.9916294
+      "latitude": 53.5605257,
+      "longitude": 20.9913098
     },
     "type": 0
   },
@@ -8760,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7071472,
-      "longitude": 17.2629648
+      "latitude": 53.7083508,
+      "longitude": 17.2606704
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087781,
-      "longitude": 17.2598005
+      "latitude": 53.708575,
+      "longitude": 17.2601954
     },
     "type": 0
   },
