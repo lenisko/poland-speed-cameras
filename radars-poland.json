@@ -1479,23 +1479,6 @@
     "type": 0
   },
   {
-    "address": "Aleja Zagłębia Dąbrowskiego, Sosnowiec",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.3000862,
-      "longitude": 19.1264606
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 50.3001574,
-      "longitude": 19.1279552
-    },
-    "type": 0
-  },
-  {
     "address": "Al. Powstań Śląskich, Ruda Śląska",
     "credibility": 1,
     "description": "Fotoradar skierowany na zachód, Wiarygodność: 100%",
@@ -1509,6 +1492,23 @@
       "isCity": false,
       "latitude": 50.3004718,
       "longitude": 18.8747361
+    },
+    "type": 0
+  },
+  {
+    "address": "Sosnowiec",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 50.300484,
+      "longitude": 19.1242239
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 50.3004776,
+      "longitude": 19.1242618
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3594463,
-      "longitude": 20.6248094
+      "latitude": 51.3594474,
+      "longitude": 20.6247912
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593374,
-      "longitude": 20.6252762
+      "latitude": 51.3593405,
+      "longitude": 20.6252588
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1069911,
-      "longitude": 22.2997484
+      "latitude": 52.1069476,
+      "longitude": 22.2997543
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1069075,
-      "longitude": 22.2997433
+      "latitude": 52.106923,
+      "longitude": 22.2997403
     },
     "type": 0
   },
@@ -8505,14 +8505,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5608387,
-      "longitude": 20.9917232
+      "latitude": 53.5606062,
+      "longitude": 20.9913777
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.560105,
-      "longitude": 20.9907055
+      "latitude": 53.5604795,
+      "longitude": 20.9912486
     },
     "type": 0
   },
@@ -8760,14 +8760,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7088405,
-      "longitude": 17.2597184
+      "latitude": 53.7087713,
+      "longitude": 17.2598523
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086246,
-      "longitude": 17.260099
+      "latitude": 53.7086549,
+      "longitude": 17.2600402
     },
     "type": 0
   },
