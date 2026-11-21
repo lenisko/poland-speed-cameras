@@ -2136,8 +2136,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871086,
-      "longitude": 19.1327239
+      "latitude": 50.6870903,
+      "longitude": 19.1327116
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1069476,
-      "longitude": 22.2997543
+      "latitude": 52.107187,
+      "longitude": 22.299712
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.106923,
-      "longitude": 22.2997403
+      "latitude": 52.1069183,
+      "longitude": 22.2997412
     },
     "type": 0
   },
@@ -5827,6 +5827,23 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
+    },
+    "type": 0
+  },
+  {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.23595,
+      "longitude": 21.040787
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.236093,
+      "longitude": 21.0414991
     },
     "type": 0
   },
@@ -8505,14 +8522,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5606062,
-      "longitude": 20.9913777
+      "latitude": 53.5605065,
+      "longitude": 20.9912342
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5604795,
-      "longitude": 20.9912486
+      "latitude": 53.5607189,
+      "longitude": 20.9915607
     },
     "type": 0
   },
@@ -8760,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087713,
-      "longitude": 17.2598523
+      "latitude": 53.7085761,
+      "longitude": 17.2602296
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086549,
-      "longitude": 17.2600402
+      "latitude": 53.7087255,
+      "longitude": 17.2599028
     },
     "type": 0
   },
