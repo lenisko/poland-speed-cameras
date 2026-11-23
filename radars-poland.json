@@ -2136,8 +2136,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871555,
-      "longitude": 19.1327554
+      "latitude": 50.6871213,
+      "longitude": 19.1327324
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593491,
-      "longitude": 20.6251754
+      "latitude": 51.3593144,
+      "longitude": 20.6253842
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593731,
-      "longitude": 20.625093
+      "latitude": 51.3593307,
+      "longitude": 20.6253129
     },
     "type": 0
   },
@@ -5043,8 +5043,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1069061,
-      "longitude": 22.2997436
+      "latitude": 52.1069145,
+      "longitude": 22.299742
     },
     "type": 0
   },
@@ -6454,8 +6454,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.3953878,
-      "longitude": 16.118068
+      "latitude": 52.3953928,
+      "longitude": 16.1180689
     },
     "type": 0
   },
@@ -8766,8 +8766,8 @@
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7087259,
-      "longitude": 17.2599021
+      "latitude": 53.7086675,
+      "longitude": 17.2600157
     },
     "type": 0
   },
@@ -12568,14 +12568,14 @@
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
     "direction": {
       "isCity": false,
-      "latitude": 52.342107,
-      "longitude": 16.750125
+      "latitude": 52.340589,
+      "longitude": 16.74738
     },
     "iconId": "2324",
     "position": {
       "isCity": false,
-      "latitude": 52.3424213,
-      "longitude": 16.7506432
+      "latitude": 52.341503,
+      "longitude": 16.7490818
     },
     "type": 4
   },
@@ -16424,17 +16424,17 @@
   {
     "address": "",
     "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na południe",
+    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
     "direction": {
       "isCity": false,
-      "latitude": 52.342458,
-      "longitude": 16.7509811
+      "latitude": 52.341413,
+      "longitude": 16.749247
     },
     "iconId": "2325",
     "position": {
       "isCity": false,
-      "latitude": 52.3423516,
-      "longitude": 16.7508092
+      "latitude": 52.3413944,
+      "longitude": 16.7492116
     },
     "type": 5
   },
