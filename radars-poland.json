@@ -2130,14 +2130,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.687488,
-      "longitude": 19.133029
+      "latitude": 50.6874365,
+      "longitude": 19.1329909
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871213,
-      "longitude": 19.1327324
+      "latitude": 50.6871036,
+      "longitude": 19.1327205
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3593144,
-      "longitude": 20.6253842
+      "latitude": 51.359438,
+      "longitude": 20.6248459
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593307,
-      "longitude": 20.6253129
+      "latitude": 51.3593306,
+      "longitude": 20.6253134
     },
     "type": 0
   },
@@ -5037,8 +5037,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1074555,
-      "longitude": 22.2996672
+      "latitude": 52.1075057,
+      "longitude": 22.2996602
     },
     "iconId": "2311",
     "position": {
@@ -8505,14 +8505,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.5604693,
-      "longitude": 20.9911565
+      "latitude": 53.560489,
+      "longitude": 20.9911773
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.560683,
-      "longitude": 20.9915179
+      "latitude": 53.5607112,
+      "longitude": 20.9915515
     },
     "type": 0
   },
@@ -8760,14 +8760,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7087083,
-      "longitude": 17.259974
+      "latitude": 53.7085486,
+      "longitude": 17.2602596
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086675,
-      "longitude": 17.2600157
+      "latitude": 53.7086451,
+      "longitude": 17.2600591
     },
     "type": 0
   },
@@ -10098,23 +10098,6 @@
     "type": 4
   },
   {
-    "address": "Tarnów",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 49.992298,
-      "longitude": 20.9952619
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 49.9923132,
-      "longitude": 20.9946938
-    },
-    "type": 4
-  },
-  {
     "address": "Kraków",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na zachód",
@@ -10145,23 +10128,6 @@
       "isCity": false,
       "latitude": 50.0020132,
       "longitude": 20.0036204
-    },
-    "type": 4
-  },
-  {
-    "address": "Tarnów",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.007234,
-      "longitude": 21.0478241
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 50.0083175,
-      "longitude": 21.0495304
     },
     "type": 4
   },
@@ -10400,40 +10366,6 @@
       "isCity": false,
       "latitude": 50.1178369,
       "longitude": 22.519246
-    },
-    "type": 4
-  },
-  {
-    "address": "Rybnicka, Wilcza",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na południe",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.199888,
-      "longitude": 18.58203
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1994058,
-      "longitude": 18.5814575
-    },
-    "type": 4
-  },
-  {
-    "address": "Rybnicka, Wilcza",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na północ",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.2148948,
-      "longitude": 18.6000114
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 50.2151604,
-      "longitude": 18.6003137
     },
     "type": 4
   },
@@ -10689,40 +10621,6 @@
       "isCity": false,
       "latitude": 50.422202,
       "longitude": 21.7528829
-    },
-    "type": 4
-  },
-  {
-    "address": "Obwodnica, Tarnowskie Góry",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.4319731,
-      "longitude": 18.862213
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 50.4318875,
-      "longitude": 18.8628583
-    },
-    "type": 4
-  },
-  {
-    "address": "Obwodnica, Tarnowskie Góry",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.4344186,
-      "longitude": 18.8494228
-    },
-    "iconId": "2324",
-    "position": {
-      "isCity": false,
-      "latitude": 50.4344393,
-      "longitude": 18.8493624
     },
     "type": 4
   },
@@ -13957,23 +13855,6 @@
     "type": 5
   },
   {
-    "address": "Tarnów",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 49.992432,
-      "longitude": 20.994562
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 49.9924304,
-      "longitude": 20.9947035
-    },
-    "type": 5
-  },
-  {
     "address": "Kraków",
     "credibility": 1,
     "description": "Odcinkowy pomiar prędkości skierowany na wschód",
@@ -14004,23 +13885,6 @@
       "isCity": false,
       "latitude": 50.0018608,
       "longitude": 20.003698
-    },
-    "type": 5
-  },
-  {
-    "address": "",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.0082789,
-      "longitude": 21.0497242
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 50.008252,
-      "longitude": 21.0496799
     },
     "type": 5
   },
@@ -14259,40 +14123,6 @@
       "isCity": false,
       "latitude": 50.1178369,
       "longitude": 22.519246
-    },
-    "type": 5
-  },
-  {
-    "address": "Rybnicka, Wilcza",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na północ",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.1989236,
-      "longitude": 18.580885
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 50.1994058,
-      "longitude": 18.5814575
-    },
-    "type": 5
-  },
-  {
-    "address": "Rybnicka, Wilcza",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na południe",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.215426,
-      "longitude": 18.6006161
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 50.2151604,
-      "longitude": 18.6003137
     },
     "type": 5
   },
@@ -14548,40 +14378,6 @@
       "isCity": false,
       "latitude": 50.422202,
       "longitude": 21.7528829
-    },
-    "type": 5
-  },
-  {
-    "address": "Obwodnica, Tarnowskie Góry",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na zachód",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.4318019,
-      "longitude": 18.8635035
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 50.4318875,
-      "longitude": 18.8628583
-    },
-    "type": 5
-  },
-  {
-    "address": "Obwodnica, Tarnowskie Góry",
-    "credibility": 1,
-    "description": "Odcinkowy pomiar prędkości skierowany na wschód",
-    "direction": {
-      "isCity": false,
-      "latitude": 50.43446,
-      "longitude": 18.849302
-    },
-    "iconId": "2325",
-    "position": {
-      "isCity": false,
-      "latitude": 50.4344393,
-      "longitude": 18.8493624
     },
     "type": 5
   },
