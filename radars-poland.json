@@ -2130,8 +2130,8 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6874365,
-      "longitude": 19.1329909
+      "latitude": 50.6877092,
+      "longitude": 19.1331225
     },
     "iconId": "2311",
     "position": {
@@ -3541,8 +3541,8 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.359438,
-      "longitude": 20.6248459
+      "latitude": 51.3595041,
+      "longitude": 20.6245349
     },
     "iconId": "2311",
     "position": {
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1075057,
-      "longitude": 22.2996602
+      "latitude": 52.1095836,
+      "longitude": 22.299265
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1069145,
-      "longitude": 22.299742
+      "latitude": 52.1069338,
+      "longitude": 22.2997382
     },
     "type": 0
   },
@@ -5827,6 +5827,23 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
+    },
+    "type": 0
+  },
+  {
+    "address": "Most Księcia Poniatowskiego J., Warszawa",
+    "credibility": 1,
+    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
+    "direction": {
+      "isCity": false,
+      "latitude": 52.2356684,
+      "longitude": 21.0394368
+    },
+    "iconId": "2311",
+    "position": {
+      "isCity": false,
+      "latitude": 52.2360156,
+      "longitude": 21.0411257
     },
     "type": 0
   },
@@ -8760,14 +8777,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.7085486,
-      "longitude": 17.2602596
+      "latitude": 53.7100322,
+      "longitude": 17.2574291
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.7086451,
-      "longitude": 17.2600591
+      "latitude": 53.7083836,
+      "longitude": 17.2605675
     },
     "type": 0
   },
