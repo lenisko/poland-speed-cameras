@@ -2130,14 +2130,14 @@
     "description": "Fotoradar skierowany na południe, Wiarygodność: 100%",
     "direction": {
       "isCity": false,
-      "latitude": 50.6877092,
-      "longitude": 19.1331225
+      "latitude": 50.6876415,
+      "longitude": 19.1330825
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 50.6871036,
-      "longitude": 19.1327205
+      "latitude": 50.6871099,
+      "longitude": 19.1327248
     },
     "type": 0
   },
@@ -3541,14 +3541,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 51.3595041,
-      "longitude": 20.6245349
+      "latitude": 51.3595118,
+      "longitude": 20.6245074
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 51.3593306,
-      "longitude": 20.6253134
+      "latitude": 51.3593358,
+      "longitude": 20.6252848
     },
     "type": 0
   },
@@ -5037,14 +5037,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 52.1095836,
-      "longitude": 22.299265
+      "latitude": 52.109501,
+      "longitude": 22.2992783
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 52.1069338,
-      "longitude": 22.2997382
+      "latitude": 52.1068514,
+      "longitude": 22.2997541
     },
     "type": 0
   },
@@ -5827,23 +5827,6 @@
       "isCity": false,
       "latitude": 52.2354109,
       "longitude": 21.0381802
-    },
-    "type": 0
-  },
-  {
-    "address": "Most Księcia Poniatowskiego J., Warszawa",
-    "credibility": 1,
-    "description": "Fotoradar skierowany na wschód, Wiarygodność: 100%",
-    "direction": {
-      "isCity": false,
-      "latitude": 52.2356684,
-      "longitude": 21.0394368
-    },
-    "iconId": "2311",
-    "position": {
-      "isCity": false,
-      "latitude": 52.2360156,
-      "longitude": 21.0411257
     },
     "type": 0
   },
@@ -8522,14 +8505,14 @@
     "description": "Fotoradar dwukierunkowy",
     "direction": {
       "isCity": false,
-      "latitude": 53.560489,
-      "longitude": 20.9911773
+      "latitude": 53.5605199,
+      "longitude": 20.9912572
     },
     "iconId": "2311",
     "position": {
       "isCity": false,
-      "latitude": 53.5607112,
-      "longitude": 20.9915515
+      "latitude": 53.560538,
+      "longitude": 20.991326
     },
     "type": 0
   },
